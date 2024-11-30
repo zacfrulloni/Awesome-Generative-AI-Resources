@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta name='impact-site-verification' value='0cef11aa-eda6-4d43-9512-057b191e557f'>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }} | {{ site.title }}</title>
+    <meta name="description" content="{{ site.description }}">
+
+    <!-- Jekyll SEO Tag -->
+    {% seo %}
+
+    <!-- Minima Theme CSS -->
+    <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
+
+    <!-- Google Tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=AW-11058169010"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'AW-11058169010');
+    </script>
+
+    <!-- Custom Styles -->
+    <style>
+      body {
+        margin: 0;
+        padding: 0 20px;
+        font-family: Arial, sans-serif;
+      }
+      header {
+        text-align: center;
+        padding: 20px 0;
+        background-color: #f5f5f5;
+        border-bottom: 1px solid #ddd;
+      }
+      header a {
+        text-decoration: none;
+        font-size: 18px;
+        color: #0366d6;
+        margin: 10px;
+      }
+      header .button {
+        display: inline-block;
+        margin: 5px 10px;
+        padding: 10px 20px;
+        border-radius: 5px;
+        font-size: 16px;
+        text-decoration: none;
+      }
+      .github-button {
+        background-color: #0366d6;
+        color: white;
+      }
+      .sponsor-button {
+        background-color: #ea4aaa;
+        color: white;
+      }
+      .coffee-button {
+        background-color: #ffdd57;
+        color: #111;
+      }
+      main {
+        max-width: 800px;
+        margin: 20px auto;
+      }
+      table {
+        width: 100%;
+        border-collapse: collapse;
+        margin: 20px 0;
+      }
+      table th,
+      table td {
+        border: 1px solid #ddd;
+        padding: 8px;
+        text-align: left;
+      }
+      table th {
+        background-color: #f5f5f5;
+        font-weight: bold;
+      }
+      table tr:nth-child(even) {
+        background-color: #f9f9f9;
+      }
+      table tr:hover {
+        background-color: #f1f1f1;
+      }
+      footer {
+        text-align: center;
+        padding: 20px 0;
+        background-color: #f5f5f5;
+        border-top: 1px solid #ddd;
+        font-size: 14px;
+      }
+      footer a {
+        color: #0366d6;
+        text-decoration: none;
+      }
+    </style>
+  </head>  
+  <body>
+    <!-- Header Section -->
+    <header>
+      <h1>
+        <a href="https://github.com/zacfrulloni/Prompt-Engineering-Holy-Grail" target="_blank">
+          Prompt-Engineering-Holy-Grail
+        </a>
+      </h1>
+      <p>Your hub for all things prompt engineering.</p>
+      <a href="https://github.com/zacfrulloni/Prompt-Engineering-Holy-Grail" target="_blank" class="button github-button">
+        ⭐ Star on GitHub: <span id="star-count">Loading...</span>
+      </a>
+      <a href="https://github.com/sponsors/zacfrulloni" target="_blank" class="button sponsor-button">
+        💖 Sponsor
+      </a>
+      <a href="https://www.buymeacoffee.com/zazacattack" target="_blank" class="button coffee-button">
+        ☕ Buy Me a Coffee
+      </a>
+    </header>
+
+    <!-- Main Content -->
+    <main>
+      {{ content }}
+    </main>
+
+    <!-- Footer Section -->
+    <footer>
+      <p>
+        &copy; {{ site.time | date: "%Y" }} 
+        <a href="https://github.com/zacfrulloni/Prompt-Engineering-Holy-Grail" target="_blank">
+          Prompt-Engineering-Holy-Grail
+        </a>. All rights reserved.
+      </p>
+      <p>
+        Built with ❤️ using GitHub Pages and Jekyll.
+      </p>
+    </footer>
+
+    <!-- Fetch GitHub Star Count -->
+    <script>
+      fetch("https://api.github.com/repos/zacfrulloni/Prompt-Engineering-Holy-Grail")
+        .then(response => response.json())
+        .then(data => {
+          document.getElementById("star-count").textContent = data.stargazers_count || "0";
+        })
+        .catch(() => {
+          document.getElementById("star-count").textContent = "0";
+        });
+    </script>
+  </body>
+</html>
