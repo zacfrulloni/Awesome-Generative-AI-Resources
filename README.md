@@ -39,7 +39,6 @@ Welcome to the Prompt Engineering Hub! This repository is a curated resource for
 8. [Support My Work](#8-support-my-work)
 9. [Join Our Community on Discord](#9-join-our-community-on-discord)
 10. [License](#10-license)
-11. [Disclosure](#11-disclosure)
 12. [Contact Me](#12-contact-me)
 
 ## 1. Introduction
@@ -398,10 +397,6 @@ Feel free to reach out if you have questions or suggestions in our **#general** 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 © 2024 [zac frulloni]. All rights reserved.
-
-## 11. Disclosure
-
-Disclosure: I am compensated through these affiliate partnerships, and this compensation helps support the resources and ongoing work within this repository. Affiliate links are provided in sections containing resources, including but not limited to learning materials, tools, and community memberships. This disclosure appears on all applicable pages of this repository.
 
 ## 12. Contact Me
 
