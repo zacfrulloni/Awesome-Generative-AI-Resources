@@ -10,14 +10,14 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
 
-# Navigation
-navigation:
-  - title: Home
-    url: /
-  - title: About
-    url: /about/
-  - title: Resources
-    url: /resources/
+# # Navigation
+# navigation:
+#   - title: Home
+#     url: /
+#   - title: About
+#     url: /about/
+#   - title: Resources
+#     url: /resources/
 
 # Social links
 social_links:
