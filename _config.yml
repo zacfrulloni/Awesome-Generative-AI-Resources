@@ -1,6 +1,6 @@
 title: Awesome Generative AI Resources
 description: Your ultimate hub for Generative AI resources, tools, and guides.
-baseurl: "" # Leave this blank for custom domain
+baseurl: "" # Leave this blank for a custom domain
 url: "http://brilliantaitools.com"
 
 # Theme settings
@@ -28,3 +28,9 @@ social_links:
 
 # Build settings
 markdown: kramdown
+highlighter: rouge
+
+# Additional options
+permalink: pretty
+show_excerpts: true # If you want excerpts on the homepage for posts
+# google_analytics: "YOUR_GOOGLE_ANALYTICS_TRACKING_ID" # Add your tracking ID here if needed
