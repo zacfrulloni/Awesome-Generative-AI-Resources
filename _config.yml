@@ -9,7 +9,8 @@ author:
   email: zacfrull@hotmail.com
 
 # Theme Configuration
-theme: minima
+# theme: minima
+remote_theme: daviddarnes/alembic@main
 
 # Plugins (Optional but Recommended)
 plugins:
