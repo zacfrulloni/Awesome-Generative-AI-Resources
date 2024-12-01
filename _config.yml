@@ -1,4 +1,4 @@
-title: Awesome Generative AI Resources
+# title: Awesome Generative AI Resources
 description: Your ultimate hub for Generative AI resources, tools, and guides.
 baseurl: "" # Leave this blank for a custom domain
 url: "http://brilliantaitools.com"
@@ -10,14 +10,14 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
 
-# # Navigation
-# navigation:
-#   - title: Home
-#     url: /
-#   - title: About
-#     url: /about/
-#   - title: Resources
-#     url: /resources/
+# Navigation
+navigation:
+  - title: Home
+    url: /
+  - title: About
+    url: /about/
+  - title: Resources
+    url: /resources/
 
 # Social links
 social_links:
