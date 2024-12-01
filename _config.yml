@@ -9,7 +9,7 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
-
+  - jekyll-remote-theme
 # Navigation
 navigation:
   - title: Home
