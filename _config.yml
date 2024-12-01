@@ -9,15 +9,14 @@ author:
   email: zacfrull@hotmail.com
 
 # Theme Configuration
-# theme: minima
 remote_theme: daviddarnes/alembic@main
 
-# Plugins (Optional but Recommended)
+# Plugins
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
-  - jekyll-theme-minima
+  - jekyll-remote-theme
 
 # Exclude Files from Processing
 exclude:
