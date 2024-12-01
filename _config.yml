@@ -32,7 +32,7 @@ baseurl: "" # Leave blank if deploying to root domain
 url: "https://promptengineeringhub.dev"
 
 # Theme settings
-theme: alembic-jekyll-theme
+remote_theme: alembic-jekyll-theme
 remote_theme: daviddarnes/alembic@main
 plugins:
   - jekyll-seo-tag
