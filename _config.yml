@@ -1,75 +1,26 @@
-# # Site Metadata
-# title: Prompt Engineering Holy Grail
-# description: A comprehensive resource for prompt engineering best practices and techniques.
-# url: "https://zacfrulloni.github.io/Prompt-Engineering-Holy-Grail/"
-# baseurl: "/Prompt-Engineering-Holy-Grail"
+# Site Metadata
+title: Prompt Engineering Holy Grail
+description: A comprehensive resource for prompt engineering best practices and techniques.
+url: "https://zacfrulloni.github.io/Prompt-Engineering-Holy-Grail/"
+baseurl: "/Prompt-Engineering-Holy-Grail"
 
-# author:
-#   name: Zac Frulloni
-#   email: zacfrull@hotmail.com
+author:
+  name: Zac Frulloni
+  email: zacfrull@hotmail.com
 
-# # Theme Configuration
-# remote_theme: daviddarnes/alembic@main
-
-# # Plugins
-# plugins:
-#   - jekyll-feed
-#   - jekyll-seo-tag
-#   - jekyll-sitemap
-#   - jekyll-remote-theme
-
-# # Exclude Files from Processing
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor
-
-# Site settings
-title: Prompt Engineering Hub
-description: A hub for all things prompt engineering.
-baseurl: "" # Leave blank if deploying to root domain
-url: "https://promptengineeringhub.dev"
-
-# Theme settings
-remote_theme: alembic-jekyll-theme
+# Theme Configuration
 remote_theme: daviddarnes/alembic@main
+
+# Plugins
 plugins:
-  - jekyll-seo-tag
   - jekyll-feed
+  - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-remote-theme
 
-# Navigation
-navigation_header:
-  - title: Home
-    url: /
-  - title: About
-    url: /about/
-  - title: Resources
-    url: /resources/
-  - title: Contact
-    url: /contact/
-
-navigation_footer:
-  - title: GitHub
-    url: https://github.com/zacfrulloni/Prompt-Engineering-Holy-Grail
-  - title: Buy Me a Coffee
-    url: https://www.buymeacoffee.com/zazacattack
-
-# Social sharing links
-social_links:
-  - name: Twitter
-    url: https://twitter.com/zacfrulloni
-  - name: GitHub
-    url: https://github.com/zacfrulloni
-  - name: LinkedIn
-    url: https://linkedin.com/in/zacfrulloni
-
-# Enable analytics
-# google_analytics: 'UA-XXXXXXXX-1'
-
-
-# # Permalink Structure
-# permalink: /:categories/:year/:month/:day/:title/
-
-# markdown: GFM
+# Exclude Files from Processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
