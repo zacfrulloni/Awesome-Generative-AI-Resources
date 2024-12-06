@@ -188,7 +188,7 @@
 ## Creators & Productivity Tools
 | NAME | DESCRIPTION |
 |------|-------------|
-| clickup | ClickUp is a project management tool offering tasks, whiteboards, spreadsheets, and document collaboration on one platform. |
+| [clickup](https://clickup.com/) | ClickUp is a project management tool offering tasks, whiteboards, spreadsheets, and document collaboration on one platform. |
 | Usemotion | Use Motion's mobile app to add tasks on the go, and they'll be automatically added to your schedule. |
 | Solvely.ai | Solvely.ai provides AI tools for solving, writing, and quizzing, enhancing students' learning efficiency. |
 | Coursebox.ai | Coursebox.ai is an AI-powered platform simplifying online course creation with instant generation, drag-and-drop tools, quizzes, and multilingual support. |
@@ -273,7 +273,7 @@
 ## Sales & Marketing Tools
 | NAME | DESCRIPTION |
 |------|-------------|
-| Apollo.io | Apollo provides access to 210 million contacts across 35 million companies with sales intelligence tools. |
+| [Apollo.io](https://www.apollo.io/) | Use Apollo's platform to access, engage, and convert over 210 million contacts across 35 million companies with powerful sales intelligence and engagement tools.|
 | Nureply.com | Nureply automates personalized email campaigns, improving deliverability and performance metrics. |
 | Clodura.ai | Clodura.ai is a GenAI sales co-pilot assisting in prospecting and closing deals. |
 | Followr.ai | Followr AI creates AI-generated social media content customized for your audience. |
@@ -358,8 +358,8 @@
 ## Video Creation & Editing
 | NAME | DESCRIPTION |
 |------|-------------|
-| flexclip.com | FlexClip's free AI video maker lets you edit and create videos online. Use AI video templates or convert text to video effortlessly. |
-| vidnoz | Vidnoz is a free AI video generator with AI avatars and voices. Start creating videos with Vidnoz's AI features today. |
+| [flexclip.com](https://www.flexclip.com/editor/) | FlexClip's free AI video maker lets you edit and create videos online. Use AI video templates or convert text to video effortlessly. |
+| [vidnoz](https://www.vidnoz.com/?a_aid=674111bdd78cb) | Vidnoz is a free AI video generator with AI avatars and voices. Start creating videos with Vidnoz's AI features today. |
 | capcut | CapCut is a versatile video editing tool with effects, filters, AI tools, and collaborative editing. Available on web, desktop, and mobile. |
 | Klap.app | Klap transforms YouTube videos into clips for TikTok, Reels, and Shorts, offering smart editing and auto captions. |
 | Fliz.ai | Fliz AI creates captivating product videos from a URL, eliminating editing hassles and costs. Ideal for e-commerce. |
