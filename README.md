@@ -189,7 +189,7 @@
 | NAME | DESCRIPTION |
 |------|-------------|
 | [clickup](https://clickup.com/) | ClickUp is a project management tool offering tasks, whiteboards, spreadsheets, and document collaboration on one platform. |
-| Usemotion | Use Motion's mobile app to add tasks on the go, and they'll be automatically added to your schedule. |
+| [Usemotion](https://www.usemotion.com/) | Use Motion's mobile app to add tasks on the go, and they'll be automatically added to your schedule. |
 | Solvely.ai | Solvely.ai provides AI tools for solving, writing, and quizzing, enhancing students' learning efficiency. |
 | Coursebox.ai | Coursebox.ai is an AI-powered platform simplifying online course creation with instant generation, drag-and-drop tools, quizzes, and multilingual support. |
 | Ikiblast.com | IKiBlast is an AI productivity tool that manages emails, supports multiple languages, and offers specialized agents for tasks. |
@@ -236,7 +236,7 @@
 ## HR, Legal, & Resumes
 | NAME | DESCRIPTION |
 |------|-------------|
-| coverdoc | CoverDoc.ai creates personalized cover letters, offers interview prep, and aids in compensation negotiation. |
+| [coverdoc](https://coverdoc.ai/?via=zazacattack) | CoverDoc.ai creates personalized cover letters, offers interview prep, and aids in compensation negotiation. |
 | Job app answer genertor | EZTrackr uses AI to generate concise, catchy responses for job application questions. |
 | ailawyer | ailawyer.pro is an AI platform offering immediate legal assistance, simplifying complex legal texts. |
 | Jobsearch.coach | JobSearch.Coach refines resumes, generates cover letters, and offers interview practice with real-time feedback. |
@@ -276,7 +276,7 @@
 | [Apollo.io](https://www.apollo.io/) | Use Apollo's platform to access, engage, and convert over 210 million contacts across 35 million companies with powerful sales intelligence and engagement tools.|
 | Nureply.com | Nureply automates personalized email campaigns, improving deliverability and performance metrics. |
 | Clodura.ai | Clodura.ai is a GenAI sales co-pilot assisting in prospecting and closing deals. |
-| Followr.ai | Followr AI creates AI-generated social media content customized for your audience. |
+| [Followr.ai](https://followr.ai/) | Boost your online presence with Followr AI, a cutting-edge social media tool that creates AI-generated content customized for your audience. |
 | Smartlead.ai | Smartlead.ai scales cold email campaigns, offering unlimited mailboxes, AI warmup, personalization, and analytics. |
 | Pin generator | Pingenerator.com automates Pinterest marketing by generating and scheduling pins with AI features and templates. |
 | repliq | RepliQ enhances outreach with personalized AI videos, images, and texts for improved engagement. |
@@ -324,7 +324,7 @@
 | NAME | DESCRIPTION |
 |------|-------------|
 | Textero.io | Textero.ai is an AI writing tool that generates and edits academic content, inspiring creativity. |
-| Paraphrasetool.com | Paraphrasingtool.ai rephrases text, enhancing fluency, vocabulary, and tone. Ideal for students and writers. |
+| [Paraphrasetool.com](https://paraphrasetool.com/?via=zazacattack) | Paraphrasingtool.ai offers a free, advanced AI tool for rephrasing text, enhancing fluency, vocabulary, and tone. Ideal for students and writers, it supports unlimited text and integrates with popular platforms. |
 | monica | Monica.im is an AI assistant offering text generation, translation, and search tools. |
 | Netus ai | NetusAI is an AI-driven paraphraser that makes text undetectable by AI detectors, enhancing productivity. |
 | Yomu ai | Yomu AI is ideal for students and academics, offering AI autocomplete, citation, and plagiarism checks. |
@@ -360,7 +360,7 @@
 |------|-------------|
 | [flexclip.com](https://www.flexclip.com/editor/) | FlexClip's free AI video maker lets you edit and create videos online. Use AI video templates or convert text to video effortlessly. |
 | [vidnoz](https://www.vidnoz.com/?a_aid=674111bdd78cb) | Vidnoz is a leading free AI video generator, offering tools like AI avatars and voices. Start creating videos with Vidnoz's AI features today. |
-| capcut | CapCut is a versatile video editing tool with effects, filters, AI tools, and collaborative editing. Available on web, desktop, and mobile. |
+| [capcut](capcutaffiliateprogram.pxf.io/7a5D6d) | CapCut is a versatile video editing tool with effects, filters, AI tools, and collaborative editing. Available on web, desktop, and mobile. |
 | Klap.app | Klap transforms YouTube videos into clips for TikTok, Reels, and Shorts, offering smart editing and auto captions. |
 | Fliz.ai | Fliz AI creates captivating product videos from a URL, eliminating editing hassles and costs. Ideal for e-commerce. |
 | vizardai | Vizard.ai creates engaging short-form videos for social media with AI-driven transcription and clip generation. |
