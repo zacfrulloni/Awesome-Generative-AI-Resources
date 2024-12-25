@@ -95,10 +95,10 @@
 ## Chat Bots & Assistants
 | NAME | DESCRIPTION |
 |------|-------------|
-| [Askyourpdf.com](https://www.askyourpdf.com/?via=zac) | Ask Your PDF is an AI tool that turns PDFs into interactive chatbots, allowing users to ask questions and get insights. |
+| [Askyourpdf.com](https://www.askyourpdf.com/?via=zazacattack) | Ask Your PDF is an AI tool that turns PDFs into interactive chatbots, allowing users to ask questions and get insights. |
 | [Quickchat.ai](https://Quickchat.ai/?ref=zazacattack) | Quickchat AI is a no-code platform for creating AI assistants. It integrates with websites, apps, and devices to automate tasks and improve customer support. |
 | [docsbot](https://docsbot.ai?via=2rp2n) | DocsBot AI is a powerful tool for creating custom chatbots using GPT-4, enhancing customer support and productivity. |
-| [Orimon.ai](https://orimon.ai/?via=zac) | Orimon.ai offers a no-code platform to create AI chatbots for boosting sales and customer engagement, featuring multilingual support and customization. |
+| [Orimon.ai](https://orimon.ai/?via=zazacattack) | Orimon.ai offers a no-code platform to create AI chatbots for boosting sales and customer engagement, featuring multilingual support, customization, and 24/7 operation in under two minutes. |
 | [chatdata](https://www.chat-data.com?via=zazacattack) | Chat Data lets you create customizable chatbots using your knowledge base or backend, with options for white labeling. |
 | [Elephant ai](https://elephant.ai//?ref=zazacattack) | Elephant.ai is an AI chatbot platform powered by ChatGPT, enhancing website engagement and customer support with 24/7 assistance. |
 | chatbotkit | ChatBotKit is an AI chatbot builder for developers and non-developers, offering features like GPT-4 support, platform integration, and data security. |
@@ -275,7 +275,7 @@
 |------|-------------|
 | [Apollo.io](https://www.apollo.io/) | Use Apollo's platform to access, engage, and convert over 210 million contacts across 35 million companies with powerful sales intelligence and engagement tools.|
 | Nureply.com | Nureply automates personalized email campaigns, improving deliverability and performance metrics. |
-| Clodura.ai | Clodura.ai is a GenAI sales co-pilot assisting in prospecting and closing deals. |
+| [Clodura.ai](https://www.clodura.ai/app/?fpr=zac99#/auth/register) | Clodura.ai is a GenAI sales co-pilot assisting in prospecting and closing deals. |
 | [Followr.ai](https://followr.ai/) | Boost your online presence with Followr AI, a cutting-edge social media tool that creates AI-generated content customized for your audience. |
 | Smartlead.ai | Smartlead.ai scales cold email campaigns, offering unlimited mailboxes, AI warmup, personalization, and analytics. |
 | Pin generator | Pingenerator.com automates Pinterest marketing by generating and scheduling pins with AI features and templates. |
@@ -361,7 +361,7 @@
 | [flexclip.com](https://www.flexclip.com/editor/) | FlexClip's free AI video maker lets you edit and create videos online. Use AI video templates or convert text to video effortlessly. |
 | [vidnoz](https://www.vidnoz.com/?a_aid=674111bdd78cb) | Vidnoz is a leading free AI video generator, offering tools like AI avatars and voices. Start creating videos with Vidnoz's AI features today. |
 | [capcut](capcutaffiliateprogram.pxf.io/7a5D6d) | CapCut is a versatile video editing tool with effects, filters, AI tools, and collaborative editing. Available on web, desktop, and mobile. |
-| Klap.app | Klap transforms YouTube videos into clips for TikTok, Reels, and Shorts, offering smart editing and auto captions. |
+| [Klap.app](https://klap.app/?via=zazacattack) | Klap is an AI tool that transforms YouTube videos into engaging clips for TikTok, Reels, and Shorts. It offers smart editing, auto captions, and intelligent cropping, supporting multiple languages and video lengths. |
 | Fliz.ai | Fliz AI creates captivating product videos from a URL, eliminating editing hassles and costs. Ideal for e-commerce. |
 | vizardai | Vizard.ai creates engaging short-form videos for social media with AI-driven transcription and clip generation. |
 | heygen | HeyGen.com creates AI-generated business videos with over 100 avatars, 300+ voices, and multilingual support. |
