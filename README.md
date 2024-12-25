@@ -210,7 +210,6 @@
 | NAME | DESCRIPTION |
 |------|-------------|
 | Socialintents.com | Social Intents offers live chat software integrating with Teams and Slack. Features include AI chatbots and customizable widgets. |
-| Sanebox.com | SaneBox filters unimportant emails into a separate folder, integrating with IMAP and Exchange Web Services. |
 | Spectate.net | Spectate provides AI-driven incident management with downtime notifications and customizable status pages. |
 | Watermelon | Watermelon.ai uses GPT-4 chatbots for customer service, automating interactions and reducing workload. |
 | chatlingai | Chatling is an AI chatbot for customer support, offering personalized, accurate responses and multilingual communication. |
@@ -227,6 +226,7 @@
 ## Email & Messaging Assistants
 | NAME | DESCRIPTION |
 |------|-------------|
+| [Sanebox.com](https://try.sanebox.com/oxa46l8bxqh3) | SaneBox is an email management service that filters unimportant emails into a separate folder, integrating with IMAP and Exchange Web Services accounts. |
 | Hix.ai | HIX Email Writer simplifies email communication with AI-generated templates, quick commands, and customizable tones. |
 | Klart ai | ChatGPT Services (Klart.ai) enhances email efficiency with NLP and machine learning. Ideal for SMEs and e-commerce. |
 | getresponse | GetResponse is an email marketing and website builder platform with AI tools for email generation and automation. |
@@ -245,7 +245,7 @@
 ## Logo & Brand Design
 | NAME | DESCRIPTION |
 |------|-------------|
-| looka.com | Looka is the top AI logo generator, loved by entrepreneurs for its fast and easy design process. |
+| [looka.com](looka.com) | Looka is the top AI logo generator, loved by entrepreneurs for its fast and easy design process. |
 | Stockimg.ai | Stockimg.ai generates custom visuals like logos, posters, and illustrations from text prompts. |
 | mybrandnewlogo | MyBrandNewLogo.com offers an easy-to-use online logo maker with AI-driven design principles. |
 | [Logome.ai](https://logomeai.partnerlinks.io/o4o0iszncw57) | Logome is an AI-driven logo generator that simplifies creating unique, professional branding. |
@@ -345,7 +345,7 @@
 ## Text-to-Speech & Audio Tools
 | NAME | DESCRIPTION |
 |------|-------------|
-| play.ht | PlayHT is an AI voice generator offering over 600 ultra-realistic TTS voices for lifelike voiceovers. |
+| [play.ht](https://www.play.ht/?via=zazacattack) | PlayHT is a leading AI voice generator offering over 600 ultra-realistic text-to-speech voices for creating lifelike voiceovers. |
 | starvoiceai | StarVoiceAi lets users create videos with celebrity voices, offers instant voice cloning, and free characters. |
 | Acoust.io | Acoust AI offers lifelike TTS for content creation, document listening, and video editing. |
 | speechify | Speechify converts text to natural speech on any device with over 100 AI voices. |
@@ -359,7 +359,7 @@
 | NAME | DESCRIPTION |
 |------|-------------|
 | [flexclip.com](https://www.flexclip.com/editor/) | FlexClip's free AI video maker lets you edit and create videos online. Use AI video templates or convert text to video effortlessly. |
-| [vidnoz](https://www.vidnoz.com/?a_aid=674111bdd78cb) | Vidnoz is a free AI video generator with AI avatars and voices. Start creating videos with Vidnoz's AI features today. |
+| [vidnoz](https://www.vidnoz.com/?a_aid=674111bdd78cb) | Vidnoz is a leading free AI video generator, offering tools like AI avatars and voices. Start creating videos with Vidnoz's AI features today. |
 | capcut | CapCut is a versatile video editing tool with effects, filters, AI tools, and collaborative editing. Available on web, desktop, and mobile. |
 | Klap.app | Klap transforms YouTube videos into clips for TikTok, Reels, and Shorts, offering smart editing and auto captions. |
 | Fliz.ai | Fliz AI creates captivating product videos from a URL, eliminating editing hassles and costs. Ideal for e-commerce. |
