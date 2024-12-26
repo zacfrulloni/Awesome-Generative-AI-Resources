@@ -69,7 +69,7 @@
 ## Avatars & Character Creators
 | NAME | DESCRIPTION |
 |------|-------------|
-| Herahaven.ai | HeraHaven AI lets users create customized virtual girlfriends to explore fantasies through roleplaying. It ensures privacy and allows multiple AI girlfriends for diverse interactions. |
+| [Herahaven.ai](Herahaven.ai) | HeraHaven AI lets users create customized virtual girlfriends to explore fantasies through roleplaying. It ensures privacy and allows multiple AI girlfriends for diverse interactions. |
 | [snapheadshots](https://snapheadshots.com/?via=zac) | SnapHeadshots quickly generates over 100 professional AI headshots from 10 selfies, using Stable Diffusion and proprietary models. Use the AI Photobooth for easy selfie creation. |
 | [Dreamgf.ai](https://dreamgf.ai/?a=18AjpDfegE5ds2) | DreamGF.ai lets users create custom AI girlfriends for free, with premium features. It offers chat, roleplay, and future video options. |
 | profilepictureai | Profilepicture.ai is a web app using AI to create professional headshots. Customize with 357 styles, filters, and adjustments, then download for social media. |
@@ -84,7 +84,7 @@
 ## Audio & Music Editing
 | NAME | DESCRIPTION |
 |------|-------------|
-| [Signify.fineshare (tolt.io?)](https://singify.fineshare.com/?ref=zazacattack) | FineShare Singify uses AI to transform songs into personalized masterpieces, offering 100+ voice models and easy song search. |
+| [Signify.fineshare.com](https://singify.fineshare.com/?ref=zazacattack) | FineShare Singify uses AI to transform songs into personalized masterpieces, offering 100+ voice models and easy song search. |
 | uberduck | Uberduck.ai is an AI voice platform offering over 5,000 expressive voices for music, voiceovers, and more. It uses deep learning to create lifelike vocals. |
 | mubert | Mubert.com is an AI-driven platform offering royalty-free music for streaming, videos, and more. It tailors tracks using AI, serving creators, artists, developers, and listeners. |
 | specterr | Specterr is an AI music visualizer tool that creates custom music visualizers and lyric videos. It offers fast cloud rendering, unlimited storage, and customizable templates. |
@@ -132,10 +132,10 @@
 ## Content Creation & SEO
 | NAME | DESCRIPTION |
 |------|-------------|
-| [Storynest.ai](https://storynest.ai?fpr=zac29) | StoryNest.ai is a platform for creating personalized, interactive stories using AI. |
-| [Articlefiesta.com](https://articlefiesta.com/?af=grumpy-slushy) | Article Fiesta generates unique, SEO-optimized articles from a single word in minutes. |
-| [gravitywrite](https://gravitywrite.com/?via=zac) | GravityWrite is an AI-powered tool for creating high-quality content like blogs, ads, and social media posts. |
-| [Rightblogger.com](https://rightblogger.com/?via=zac) | RightBlogger is an AI-powered blogging tool offering over 80 features to enhance content creation. |
+| [Storynest.ai](https://storynest.ai?fpr=zac29) | StoryNest.ai is a platform for creating personalized, interactive stories using AI. It offers customization, live character interactions, narrated tales, and multilingual support to inspire creativity and imagination. |
+| [Articlefiesta.com](https://articlefiesta.com/?af=grumpy-slushy) | Article Fiesta generates unique, SEO-optimized articles from a single word in minutes. Enjoy hassle-free content creation with features like direct blog posting and proven success in improving search rankings. |
+| [gravitywrite](https://gravitywrite.com/?via=zazacattack) | GravityWrite is an AI-powered tool for creating high-quality content like blogs, ads, and social media posts. It offers 5,000 free words monthly, 250+ templates, and direct WordPress publishing. |
+| [Rightblogger.com](https://rightblogger.com/?via=zazacattack) | RightBlogger is an AI-powered blogging tool offering over 80 features to enhance content creation. |
 | [Storychef ai](https://storychief.io?fpr=zac52) | StoryChief is a content marketing platform that enhances collaboration and streamlines content creation and distribution. |
 | [Writecream.com](https://www.writecream.com/?gr_pk=n1ON) | Writecream.com is an AI-driven platform for creating diverse content, including articles, images, and audio. |
 | [Seo writing ai](https://seowriting.ai?fp_ref=zac77) | SEOWritingAI generates SEO-optimized blog posts in one click, supports 48 languages, and auto-publishes on WordPress. |
@@ -190,11 +190,11 @@
 |------|-------------|
 | [clickup](https://clickup.com/) | ClickUp is a project management tool offering tasks, whiteboards, spreadsheets, and document collaboration on one platform. |
 | [Usemotion](https://www.usemotion.com/) | Use Motion's mobile app to add tasks on the go, and they'll be automatically added to your schedule. |
-| Solvely.ai | Solvely.ai provides AI tools for solving, writing, and quizzing, enhancing students' learning efficiency. |
-| Coursebox.ai | Coursebox.ai is an AI-powered platform simplifying online course creation with instant generation, drag-and-drop tools, quizzes, and multilingual support. |
-| Ikiblast.com | IKiBlast is an AI productivity tool that manages emails, supports multiple languages, and offers specialized agents for tasks. |
-| Buzzy.buzz | Buzzy AI is a no-code app builder that uses generative AI to quickly turn ideas into functional web or mobile apps. |
-| Mymap.ai | MyMap.AI uses AI to create dynamic maps for brainstorming and presenting ideas, ideal for education and communication. |
+| [Solvely.ai](https://solvely.ai/?via=zazacattack) | Solvely.ai provides AI tools for solving, writing, and quizzing to enhance students' learning efficiency, targeting those needing homework and writing assistance. |
+| [Coursebox.ai](https://www.coursebox.ai/pricing?fpr=zac85) | Coursebox.ai is an AI-powered platform that simplifies online course creation with features like instant course generation, drag-and-drop tools, quizzes, and mobile optimization, supporting over 60 languages in 180+ countries. |
+| [Ikiblast.com](https://www.ikiblast.com/?via=zazacattack) | IKiBlast is an AI productivity tool that enhances creativity and efficiency by managing emails, supporting multiple languages, and offering specialized agents for various tasks. It ensures privacy and integrates seamlessly into daily routines. |
+| [Buzzy.buzz](https://www.buzzy.buzz/home-tapfiliate?ref=mdu2zth) | Buzzy AI is a no-code app builder that uses generative AI to quickly turn ideas into functional web or mobile apps. Users describe their concept in plain English, and Buzzy generates a Figma design and app in minutes. It simplifies MVP validation and offers extensive customization, making app development accessible to non-technical users. |
+| [Mymap.ai](www.mymap.ai/?via=zazacattack) | MyMap.AI is an AI-powered mapping tool for brainstorming and presenting ideas through dynamic maps. Ideal for education and communication, it offers tools like ConceptMap, ChatMap, StoryMap, and NoteMap. |
 | Learningstudioai | LearningStudioAI is an AI-driven platform for creating engaging online courses effortlessly. |
 | Dorik ai | Dorik is an affordable AI website builder enabling stunning websites without coding, offering drag-and-drop tools and templates. |
 | makeforms | MakeForms is an online form builder with AI capabilities and top security, ideal for surveys, quizzes, and integrations. |
@@ -209,7 +209,7 @@
 ## Customer Support & Communication
 | NAME | DESCRIPTION |
 |------|-------------|
-| Socialintents.com | Social Intents offers live chat software integrating with Teams and Slack. Features include AI chatbots and customizable widgets. |
+| [Socialintents.com](https://www.socialintents.com?fpr=zac44) | Social Intents offers live chat software that integrates with platforms like Microsoft Teams and Slack, enabling real-time customer engagement. Features include AI chatbots, customizable widgets, and a 14-day free trial. |
 | Spectate.net | Spectate provides AI-driven incident management with downtime notifications and customizable status pages. |
 | Watermelon | Watermelon.ai uses GPT-4 chatbots for customer service, automating interactions and reducing workload. |
 | chatlingai | Chatling is an AI chatbot for customer support, offering personalized, accurate responses and multilingual communication. |
@@ -227,7 +227,7 @@
 | NAME | DESCRIPTION |
 |------|-------------|
 | [Sanebox.com](https://try.sanebox.com/oxa46l8bxqh3) | SaneBox is an email management service that filters unimportant emails into a separate folder, integrating with IMAP and Exchange Web Services accounts. |
-| Hix.ai | HIX Email Writer simplifies email communication with AI-generated templates, quick commands, and customizable tones. |
+| [Hix.ai](https://hix.ai/?ref=mdvhztc) | HIX Email Writer simplifies email communication with AI-generated templates, quick "//" commands, customizable tones, and tools for grammar checks, translations, and summarizing. It's available as a freemium service. |
 | Klart ai | ChatGPT Services (Klart.ai) enhances email efficiency with NLP and machine learning. Ideal for SMEs and e-commerce. |
 | getresponse | GetResponse is an email marketing and website builder platform with AI tools for email generation and automation. |
 | hoppycopy | Hoppy Copy crafts high-converting emails quickly using AI, offering templates, editing tools, and competitor insights. |
@@ -246,7 +246,7 @@
 | NAME | DESCRIPTION |
 |------|-------------|
 | [looka.com](looka.com) | Looka is the top AI logo generator, loved by entrepreneurs for its fast and easy design process. |
-| Stockimg.ai | Stockimg.ai generates custom visuals like logos, posters, and illustrations from text prompts. |
+| [Stockimg.ai](https://stockimg.ai/?via=zazacattack) | Stockimg.ai is an AI-powered tool for generating custom visuals like logos, posters, and illustrations from text prompts, allowing easy edits and organization for consistent brand identity. |
 | mybrandnewlogo | MyBrandNewLogo.com offers an easy-to-use online logo maker with AI-driven design principles. |
 | [Logome.ai](https://logomeai.partnerlinks.io/o4o0iszncw57) | Logome is an AI-driven logo generator that simplifies creating unique, professional branding. |
 
@@ -254,7 +254,7 @@
 ## Photo & Image Editing
 | NAME | DESCRIPTION |
 |------|-------------|
-| Getbetterpics.com | GetBetterPics is an AI photo enhancer that creates high-quality images for social media and websites. |
+| [Getbetterpics.com](https://www.getbetterpics.com/?ref=zelmmtqj) | GetBetterPics is an AI photo enhancer that creates high-quality images for social media and websites. |
 | Aihomedesign | AI HomeDesign visualizes interior changes before committing, offering realistic renders and style options. |
 | Shrinkmedia | Shrink.Media resizes and optimizes images, reducing file sizes without quality loss. |
 | erasebg | Erase.bg quickly removes backgrounds, offering customization and integration with design software and eCommerce. |
@@ -323,7 +323,7 @@
 ## Text Generation & Writing
 | NAME | DESCRIPTION |
 |------|-------------|
-| Textero.io | Textero.ai is an AI writing tool that generates and edits academic content, inspiring creativity. |
+| [Textero.io](https://textero.io//?ref=zazacattack) | Textero.ai is an AI writing tool that generates and edits academic content, inspiring creativity and improving essays across various subjects with a user-friendly interface. Try it to overcome writer's block. |
 | [Paraphrasetool.com](https://paraphrasetool.com/?via=zazacattack) | Paraphrasingtool.ai offers a free, advanced AI tool for rephrasing text, enhancing fluency, vocabulary, and tone. Ideal for students and writers, it supports unlimited text and integrates with popular platforms. |
 | monica | Monica.im is an AI assistant offering text generation, translation, and search tools. |
 | Netus ai | NetusAI is an AI-driven paraphraser that makes text undetectable by AI detectors, enhancing productivity. |
@@ -364,8 +364,8 @@
 | [Klap.app](https://klap.app/?via=zazacattack) | Klap is an AI tool that transforms YouTube videos into engaging clips for TikTok, Reels, and Shorts. It offers smart editing, auto captions, and intelligent cropping, supporting multiple languages and video lengths. |
 | Fliz.ai | Fliz AI creates captivating product videos from a URL, eliminating editing hassles and costs. Ideal for e-commerce. |
 | vizardai | Vizard.ai creates engaging short-form videos for social media with AI-driven transcription and clip generation. |
-| heygen | HeyGen.com creates AI-generated business videos with over 100 avatars, 300+ voices, and multilingual support. |
-| Riverside.fm | Riverside.fm is a platform for remote podcast and video recording, offering studio-quality 4K video and AI transcriptions. |
+| [heygen](https://app.heygen.com/login) | HeyGen.com creates AI-generated business videos with over 100 avatars, 300+ voices, and multilingual support. |
+| [Riverside.fm](https://www.riverside.fm/?utm_campaign=campaign_5&utm_medium=affiliate&utm_source=rewardful&via=zac-frulloni) | Riverside.fm is a comprehensive platform for remote podcast and video recording, offering studio-quality output with features like 4K video, uncompressed audio, AI transcriptions, and seamless editing. It supports over 100 languages, provides social media clips, and ensures reliable recordings even with poor internet. Accessible via browsers and mobile apps, it caters to podcasters and media companies. |
 | Renderlion | RenderLion offers free video generation without upfront costs, creating videos from text and images. Ideal for e-commerce. |
 | neuralframes | Neuralframes.com uses AI to create animations and videos from text for music, marketing, and digital art. |
 | Aistudios.com | Aistudios.com is an AI-driven video platform by DeepBrain AI, offering quick video creation with natural voiceovers and avatars. |
