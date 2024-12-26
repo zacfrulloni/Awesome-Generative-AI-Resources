@@ -20,7 +20,6 @@
 - [Text-to-Speech & Audio Tools](#text-to-speech--audio-tools)
 - [Translation & Transcription](#translation--transcription)
 - [Video Creation & Editing](#video-creation--editing)
-- [Finance & Budgeting](#finance--budgeting)
 - [AI Detection & Analysis](#ai-detection--analysis)
 
 
