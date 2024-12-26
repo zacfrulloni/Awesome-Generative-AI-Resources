@@ -78,7 +78,7 @@
 | [dreambf.ai](https://dreambf.ai/?a=9Yqnwazwo6UZyi) | DreamBF is an AI website that allows you to generate your own virtual boyfriend with chosen characteristics and style. |
 | [Artflow ai](https://app.artflow.ai/) | Artflow.ai is an AI tool for creating animated stories and avatars from text. It offers character customization, scene enhancement, dialogue generation, and real-time editing, making storytelling easy and creative. |
 | [profilebakery](https://www.profilebakery.com/en/ai-headshot/?linkId=lp_386432&sourceId=zac-frulloni&tenantId=profile-bakery) | Profile Bakery is an AI-driven platform transforming selfies into professional headshots. Choose from 100+ styles, customize backgrounds, and access job application tools. |
-| Colossyan | Colossyan is a top AI video platform using avatars and text-to-speech to help workplace learning teams create engaging content. |
+| [Colossyan](https://www.colossyan.com/) | Colossyan is a top AI video platform using avatars and text-to-speech to help workplace learning teams create engaging content. |
 
 
 ## Audio & Music Editing
@@ -166,12 +166,12 @@
 | [Unicorn platform](https://unicornplatform.com/?via=zac21) | Unicorn Platform is an AI-powered website builder ideal for startups, enabling easy landing page creation. |
 | [Ai directories](https://www.aidirectori.es/?via=zac) | AI Directories is a curated collection of AI tool directories to boost SEO and gain backlinks. |
 | [quizgecko](https://quizgecko.com/) | Quizgecko.com is an AI-powered platform that quickly generates personalized quiz questions from text. |
-| neuroflash | Neuroflash is an AI platform for creating and optimizing content, including text, images, and videos. |
-| fireflies.ai | Fireflies.ai is an AI notetaker that records, transcribes, and analyzes meetings in real-time. |
-| trinka.ai | Trinka is an AI writing tool for academic, scientific, and business writing, offering grammar checks and optimization. |
+| [neuroflash](https://neuroflash.com/) | Neuroflash is an AI platform for creating and optimizing content, including text, images, and videos. |
+| [fireflies.ai](https://fireflies.ai/) | Fireflies.ai is an AI notetaker that records, transcribes, and analyzes meetings in real-time. |
+| [trinka.ai](https://www.trinka.ai/) | Trinka is an AI writing tool for academic, scientific, and business writing, offering grammar checks and optimization. |
 | [shopia.ai](https://app.shopia.ai/sign-up?via=zac-frulloni) | Shopia.ai creates product descriptions, ad content, and blog articles with just a few lines of text. |
 | [frase.io](https://www.frase.io/?via=zac69) | Frase.io aids content creators by researching topics, drafting content, and analyzing performance for SEO. |
-| Betterpic.io | BetterPic uses AI to create professional-quality images, employing advanced algorithms and machine learning. |
+| [Betterpic.io](https://www.betterpic.io/) | BetterPic uses AI to create professional-quality images, employing advanced algorithms and machine learning. |
 | Creatify.ai | Creatify's AI platform simplifies video ad creation, allowing quick production of engaging ads in minutes. |
 | Shakespeare (duplicate noted above, already listed) |
 | [koala.sh](https://koala.sh/?via=zac-frulloni) | Koala.sh is an AI writing tool integrating real-time SERP analysis for better SEO content. |
@@ -187,6 +187,8 @@
 | [inlinks](https://inlinks.com?deal=zac69) | Boost your website's SEO with InLinks® Entity SEO Tool. Sign up for free to optimize content, internal linking, and social media. Trusted by professionals, InLinks saves time and delivers results. |
 | [podium](https://hello.podium.page/?via=zac) | Podium is an AI podcasting tool that streamlines content creation by generating summaries, transcripts, clips, and social media posts, enhancing discoverability and efficiency. Try it free, no signup needed. |
 | [dashword](https://www.dashword.com/?via=zac32) | Dashword is a leading content optimization tool for SEO teams, offering real-time feedback, keyword suggestions, and performance tracking to boost organic traffic. It features an intuitive interface and a free meta description generator. |
+| [Rytr.me](https://rytr.me/?via=zac-frulloni) | Rytr.me is an AI writing tool that generates content in the user's tone. It offers features like tone analysis, SEO descriptions, and plagiarism checks. Free to start, with paid upgrades available. | 
+
 
 ## Creators & Productivity Tools
 | NAME | DESCRIPTION |
@@ -211,7 +213,7 @@
 | [vondy](https://vondy.com/?via=zac) | Vondy.com offers AI tools for tasks like fitness coaching, coding, and design. Users can create custom apps, integrate with APIs, and explore a prompt library for collaboration. |
 | [boloforms](https://www.boloforms.com/signature/?linkId=lp_766035&sourceId=zac-frulloni&tenantId=boloforms-signature) | BoloForms streamlines Google Forms with automated approval processes, form management, and secure workflows. Enjoy award-winning support, compliance, and security. Visit their website for more details and demos. |
 | [beforesunset](https://www.beforesunset.ai/?via=zac) | BeforeSunset AI helps organize your schedule by analyzing your to-do list and calendar, offering features like time tracking, analytics, and personalized routines. Visit their website for pricing details. |
-
+| [taskade](https://taskade.com/?via=ia2r9) | Taskade is a task management and collaboration app with AI features, enabling teams to efficiently work together and streamline task generation and management. |
 
 ## Customer Support & Communication
 | NAME | DESCRIPTION |
@@ -294,20 +296,20 @@
 | vidiq.com | VidIQ helps YouTube creators grow by analyzing analytics, suggesting keywords, and offering personalized advice. |
 | [upgrow](upgrow.com/?ref=zazacattack) | UpGrow uses AI to help brands, influencers, and agencies grow their Instagram audience organically by boosting visibility and engagement through paid ads, real-human activity, and influencer partnerships. It offers AI-powered growth, live analytics, and secure services without needing account credentials, ensuring compliance with Instagram's policies. |
 | [reviewsonmywebsite](https://reviewsonmywebsite.com/) | ReviewsOnMyWebsite collects, displays, and manages reviews, integrates with platforms, and uses AI for responses. |
-| Instantly.ai | Instantly.ai manages cold outreach email campaigns with automation, AI writing assistance, and analytics. |
+| [Instantly.ai](https://instantly.ai/) | Instantly.ai manages cold outreach email campaigns with automation, AI writing assistance, and analytics. |
 | writecream.com (already listed in Content Creation & SEO) |
 | marketingblocksai | MarketingBlocks AI Assistant generates marketing assets like landing pages, videos, and copy quickly. |
 | [robopost](https://robopost.app/en) | Robopost automates social media management with AI, offering post scheduling and content ideas. |
 | foreplay | Foreplay saves, organizes, and shares ads from TikTok and Facebook, featuring an AI brief generator. |
 | [Qr code ai](https://qrcode-ai.com/) | QR Code AI is an AI-powered platform for creating personalized, visually appealing QR codes that enhance brand marketing. It offers smart links, analytics, team collaboration, and templates for diverse applications. |
-| windsor.ai | Windsor.ai is a marketing data platform integrating data sources, optimizing customer journeys, and tracking performance. |
-| unbounce | Unbounce is a landing page platform using AI insights to boost conversions and results. |
-| brand24 | Brand24 monitors social media, tracks brand mentions, and analyzes sentiment for better reputation management. |
+| [windsor.ai](https://www.windsor.ai/?fpr=zac23) | Windsor.ai is a marketing data platform integrating data sources, optimizing customer journeys, and tracking performance. |
+| [unbounce](https://unbounce.com/) | Unbounce is a landing page platform using AI insights to boost conversions and results. |
+| [brand24](https://brand24.com/) | Brand24 monitors social media, tracks brand mentions, and analyzes sentiment for better reputation management. |
 | [engageai](https://engage-ai.co/?fpr=zac80) | Engage AI is an AI tool that enhances LinkedIn engagement by generating personalized comments, improving prospect management, and boosting conversions. It integrates seamlessly with platforms and offers a Chrome extension and mobile app. |
 | [hypefury](https://hypefury.com/?via=zac20) | Hypefury.com automates social media marketing to grow and monetize your Twitter audience. Schedule posts, boost engagement, expand email lists, and share tweets on Instagram effortlessly. Free trial available. |
 | [mails.ai](https://www.mails.ai/?via=81UMHKxqX07C) | Mails.ai is an AI-powered email marketing tool that automates cold outreach, offering unlimited email connections, AI-generated content, and enhanced deliverability. It saves time, boosts responses, and increases revenue. |
 | [vizlyfi](https://vizly.fyi/?via=zac) | Vizly is an AI-driven data visualization tool that simplifies data analysis with automated insights, interactive visualizations, and secure environments. Ideal for financial analysis, it supports trend monitoring, risk assessment, and predictive analytics. |
-
+| [warmbox.ai](https://warmbox.ai?fpr=zac93) | Warmbox.ai is an AI email warm-up tool that enhances deliverability by gradually increasing email volume, interacting naturally, and monitoring performance. It supports major providers and checks domain settings. Ideal for cold email campaigns. |
 
 ## Search, Reviews, & Recommendations
 | NAME | DESCRIPTION |
@@ -372,10 +374,10 @@
 | Renderlion | RenderLion offers free video generation without upfront costs, creating videos from text and images. Ideal for e-commerce. |
 | [neuralframes](https://www.neuralframes.com/?via=zac) | Neuralframes.com uses AI to create animations and videos from text for music, marketing, and digital art. |
 | Aistudios.com | Aistudios.com is an AI-driven video platform by DeepBrain AI, offering quick video creation with natural voiceovers and avatars. |
-| lovo.ai | Lovo.ai is an AI platform for creating voiceovers, text-to-speech, voice cloning, and video editing with Genny. |
+| [lovo.ai](https://lovo.ai/?ref=zazacattack) | Lovo.ai is an AI platform for creating voiceovers, text-to-speech, voice cloning, and video editing with Genny. |
 | [Fliki.ai](https://fliki.ai/?via=zac-frulloni) | Fliki AI converts text into engaging videos effortlessly. |
 | [invideo.ai](https://invideo.sjv.io/c/5835334/883681/12258) | Invideo AI creates videos from text prompts, offering voice cloning and media editing. |
-| getmunch | Munch uses AI to create engaging clips from longer videos, enhancing workflow and consistency. |
+| [getmunch](https://www.getmunch.com/?utm_campaign=influencers&utm_medium=website&utm_source=rewardful&via=db299d) | Munch uses AI to create engaging clips from longer videos, enhancing workflow and consistency. |
 | [pictory.ai](https://pictory.ai?ref=promptengineering) | Pictory AI quickly converts text into professional videos. |
 | [podcastle](https://podcastle.ai/?ref=odi1mzi) | Podcastle is an AI-powered podcasting tool for creating, editing, and publishing podcasts. |
 | Fylm.ai | Fylm.ai is a browser-based platform with AI-powered color grading, collaboration, and ACES support. |
