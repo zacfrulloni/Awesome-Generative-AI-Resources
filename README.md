@@ -38,7 +38,7 @@
 | [Gowinston.ai](https://gowinston.ai/?via=zac) | Winston AI, available at gowinston.ai, is a leading AI detector and plagiarism checker for education and publishing. It uses NLP, machine learning, and statistical analysis to identify AI-generated text. |
 | [Gptzero](https://gptzero.me/?via=zac) | GPTZero, developed by Edward Tian, Alex Cui, and Yazan Mimi, detects AI-generated text, matches claims to sources, and identifies AI risks. It offers various pricing plans, including a free trial. |
 | [Originality.ai](https://originality.ai/ai-checker?via=zac) | Originality.ai is an AI-powered tool for content quality control, offering AI detection, plagiarism and fact checking, readability feedback, and a Chrome extension. |
-| sciteai | scite.ai is an AI-powered tool that helps researchers discover and evaluate scientific articles using Smart Citations, showing citation context and support. Trusted globally, it enhances research transparency and credibility. |
+| [sciteai](https://scite.ai/) | scite.ai is an AI-powered tool that helps researchers discover and evaluate scientific articles using Smart Citations, showing citation context and support. Trusted globally, it enhances research transparency and credibility. |
 
 
 ## Architecture & Design
@@ -56,7 +56,7 @@
 | [Ink studio ai](https://inkstudioai.com/?ref=zazacattack) | Ink Studio AI helps users design tattoos with over 10 styles, ensuring accuracy. It features an "Image to Tattoo" converter to transform pictures into tattoo art. |
 | imagineme | Imagineme.app is an AI art generator that creates personalized images from text descriptions. Users can choose styles and themes, upload photos, or use pre-existing models for unique visual expressions. |
 | [dezgo](https://dezgo.sjv.io/GKm0J2) | Dezgo.com is an AI-powered platform that creates images from text prompts, offering various Stable Diffusion models for web design, social media, marketing, and more. |
-| patterned | Patterned.ai is an AI tool for creating unique patterns. Generate custom designs or browse royalty-free images. Free downloads available, with premium options for advanced customization. |
+| [patterned](https://www.patterned.ai/) | Patterned.ai is an AI tool for creating unique patterns. Generate custom designs or browse royalty-free images. Free downloads available, with premium options for advanced customization. |
 | [basedlabs.ai](https://www.basedlabs.ai/?via=zac) | Basedlabs AI is a user-friendly platform that generates images and videos from text prompts using artificial intelligence. |
 | [leonardo.ai](https://app.leonardo.ai/?via=zac) | Leonardo AI is a platform for generating images, videos, and designs using AI. It offers tools like a canvas editor, model training, and fast image generation. |
 | Colorbliss.art | ColorBliss.art offers a free trial where new users can create up to 3 images. Share on social media to unlock more. Create coloring pages by entering text prompts. |
@@ -88,7 +88,7 @@
 | uberduck | Uberduck.ai is an AI voice platform offering over 5,000 expressive voices for music, voiceovers, and more. It uses deep learning to create lifelike vocals. |
 | [mubert](https://mubert.com/) | Mubert.com is an AI-driven platform offering royalty-free music for streaming, videos, and more. It tailors tracks using AI, serving creators, artists, developers, and listeners. |
 | specterr | Specterr is an AI music visualizer tool that creates custom music visualizers and lyric videos. It offers fast cloud rendering, unlimited storage, and customizable templates. |
-| Wondercraft ai | Wondercraft AI is a podcast creation tool that uses generative AI voices to transform written content into engaging audio. Ideal for businesses and creators. |
+| [Wondercraft ai](https://www.wondercraft.ai/) | Wondercraft AI is a podcast creation tool that uses generative AI voices to transform written content into engaging audio. Ideal for businesses and creators. |
 | [musicfy](https://create.musicfy.lol/?ref=zazacattack) | Musicfy.lol lets you create AI-generated song covers by cloning your voice or choosing different vocal styles. |
 | [Lalal.ai](https://www.lalal.ai/?fp_ref=zac97) | Lalal.ai is a cutting-edge tool for extracting up to 10 audio stems, like vocals and instruments, from music tracks. It uses the Phoenix neural network for high-quality separation. Accessible via website or app, it offers efficient stem extraction for musicians and producers. |
 
@@ -102,7 +102,7 @@
 | [chatdata](https://www.chat-data.com?via=zazacattack) | Chat Data lets you create customizable chatbots using your knowledge base or backend, with options for white labeling. |
 | [Elephant ai](https://elephant.ai//?ref=zazacattack) | Elephant.ai is an AI chatbot platform powered by ChatGPT, enhancing website engagement and customer support with 24/7 assistance. |
 | chatbotkit | ChatBotKit is an AI chatbot builder for developers and non-developers, offering features like GPT-4 support, platform integration, and data security. |
-| wonderchat | Wonderchat.io lets you create AI chatbots for your website using links or PDFs, enhancing customer support. |
+| [wonderchat](https://wonderchat.io/) | Wonderchat.io lets you create AI chatbots for your website using links or PDFs, enhancing customer support. |
 | [pdfai](https://pdf.ai/?via=zac) | PDF.ai is an AI-powered tool that transforms PDF interaction, allowing users to chat with documents and ask questions. |
 | [flotai](https://flot.ai/) | Flot.ai is an AI Copilot for all apps and websites, enabling ChatGPT use anywhere you type. |
 | [Dante ai](https://www.dante-ai.com/) | Dante AI is a no-code chatbot builder that creates custom chatbots using your data, supporting various file types and multilingual capabilities. |
@@ -126,8 +126,7 @@
 | [pico](https://picoapps.xyz/) | Pico is an AI-driven platform using GPT-4 to create web apps from plain language input, eliminating coding needs. |
 | [askcodi](https://www.askcodi.com/) | AskCodi is an AI code assistant that boosts productivity by automating tasks like code generation, testing, and documentation. |
 | [unboundml](http://unboundml.com/?via=44f300) | Unboundml.com uses generative AI to automate and enhance content creation, offering tools for images, graphics, text, and backgrounds. |
-| cloudpdf | CloudPDF is a cloud-based platform for efficient PDF management, offering display, security, tracking, and lead generation features. |
-
+| [cloudpdf](https://cloudpdf.io/) | CloudPDF is a cloud-based platform for efficient PDF management, offering features like display, security, tracking, and lead generation. It caters to both non-coders and developers for streamlined PDF tasks. |
 
 ## Content Creation & SEO
 | NAME | DESCRIPTION |
@@ -312,7 +311,7 @@
 ## Slides, Web, & UX Design
 | NAME | DESCRIPTION |
 |------|-------------|
-| [slidesai](slidesai.io/?ref=zazacattack) | Slidesai.io transforms text into visually appealing slides with various presentation types and color presets. |
+| [slidesai](slidesai.io/?ref=zazacattack) | Slidesai.io is an AI tool that transforms text into visually appealing slides, offering various presentation types and color presets. It integrates with Google Slides and allows three free presentations. |
 | [protopie](https://www.protopie.io/plans?ref=zte1zdy) | ProtoPie is a powerful prototyping tool for mobile, desktop, web, and IoT. |
 | [Decktopus](https://www.decktopus.com/?via=zac) | Decktopus is an AI-powered tool that generates presentations with pre-built slides, graphics, and animations. |
 
@@ -334,7 +333,7 @@
 |------|-------------|
 | [screenapp](screenapp.io/?ref=zazacattack) | ScreenApp records screens, offers AI transcription, and secure sharing. Ideal for tutorials, meetings, and more. |
 | [Sembly](https://sembly.ai?fpr=zac77) | Sembly.ai records and transcribes meetings, providing summaries and multilingual support. |
-| speakai | Speakai.co transcribes, analyzes, and visualizes language data. |
+| [speakai](https://speakai.co/) | Speakai.co transcribes, analyzes, and visualizes language data. |
 | translatemom | TranslateMom quickly translates and captions videos from platforms like YouTube into 100+ languages. |
 | [castmagic](https://www.castmagic.io/) | Castmagic automates podcast post-production, converting audio into transcripts, show notes, and social media posts. |
 
@@ -392,8 +391,7 @@
 | [windframe](windframe.dev/?ref=zazacattack) | Windframe helps developers quickly build and edit web UIs with over 1000 Tailwind templates. |
 | [Framer ai](https://www.framer.com/) | Framer uses AI for fast, no-code website creation with responsive design and animations. |
 | weblium | Weblium is an AI website builder with 300+ templates, easy integrations, and 24/7 support. |
-| Butternut ai | Butternut AI creates code-free websites in under 20 seconds with customizable designs and SEO optimization. |
-
+| [Butternut ai](https://www.butternut.ai/?ref=zac54) | Butternut AI enables rapid, code-free website creation in under 20 seconds, offering customizable designs, SEO optimization, and 24/7 support. It features free and premium plans for individuals and enterprises. |
 
 ## Search, Reviews, & Recommendations
 | NAME | DESCRIPTION |
