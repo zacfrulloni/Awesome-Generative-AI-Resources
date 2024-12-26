@@ -76,7 +76,7 @@
 | [The multiverse ai](https://www.multiverse.ai/) | The Multiverse AI headshot generator transforms selfies into professional headshots quickly and affordably. For €12, receive 100 custom headshots in hours. |
 | Chatup ai | ChatUp AI provides free, uncensored roleplay chat, AI girlfriend interactions, face swaps, and an unfiltered image generator. |
 | [dreambf.ai](https://dreambf.ai/?a=9Yqnwazwo6UZyi) | DreamBF is an AI website that allows you to generate your own virtual boyfriend with chosen characteristics and style. |
-| Artflow ai | Artflow.ai is an AI tool for creating animated stories and avatars from text. It offers character customization, scene enhancement, dialogue generation, and real-time editing. |
+| [Artflow ai](https://app.artflow.ai/) | Artflow.ai is an AI tool for creating animated stories and avatars from text. It offers character customization, scene enhancement, dialogue generation, and real-time editing, making storytelling easy and creative. |
 | [profilebakery](https://www.profilebakery.com/en/ai-headshot/?linkId=lp_386432&sourceId=zac-frulloni&tenantId=profile-bakery) | Profile Bakery is an AI-driven platform transforming selfies into professional headshots. Choose from 100+ styles, customize backgrounds, and access job application tools. |
 | Colossyan | Colossyan is a top AI video platform using avatars and text-to-speech to help workplace learning teams create engaging content. |
 
@@ -154,7 +154,7 @@
 | Shakespeare | SHAKEspeare is an AI writing tool for crafting campaign emails. |
 | [60sec](https://60sec.site/?via=zazacattack) | 60sec.site is an AI-powered tool that lets you create a custom landing page in 60 seconds without coding. Enjoy customizable designs, SEO optimization, and easy integration. |
 | [chatpdf](https://www.chatpdf.com/?via=zac-frulloni) | ChatPDF.com lets you interact with PDFs using AI, enabling questions and discussions on documents. |
-| [podsqueeze](https://podsqueeze.com/?ref=zazacattack) | Podsqueeze.com automates podcast production by transcribing, creating show notes, social posts, and clips. |
+| [podsqueeze](https://podsqueeze.com/?ref=zazacattack) | Podsqueeze.com is an AI platform that streamlines podcast production by automating transcriptions, show notes, social media posts, clips, and audio enhancement, saving podcasters time and effort. |
 | multilings | Multilings is an AI-powered tool for content creators, marketers, and educators, offering translation, writing assistance, and plagiarism checking. |
 | yarnit | Yarnit.app is a generative AI platform for seamless content creation, ensuring brand consistency and optimization. |
 | [Choppity](https://choppity.com/?via=zac) | Choppity is an AI podcast clip generator that suggests clips, adds captions, and more. |
@@ -199,7 +199,7 @@
 | [Learningstudioai](https://learningstudioai.com/?via=zac) | LearningStudioAI is an AI-driven platform for creating engaging online courses effortlessly. |
 | [Dorik ai](https://dorik.com?ref=zac65) | Dorik is an affordable AI website builder enabling stunning websites without coding, offering drag-and-drop tools and templates. |
 | [makeforms](https://makeforms.io/) | MakeForms is an online form builder with AI capabilities and top security, ideal for surveys, quizzes, and integrations. |
-| Thedrive ai | TheDrive.ai transforms files into a dynamic knowledge base, offering storage, reading, writing, and collaboration tools. |
+| [Thedrive ai](https://thedrive.ai/) | TheDrive.ai transforms files into a dynamic knowledge base, offering storage, reading, writing, and collaboration tools. |
 | [omnigpt](https://app.omnigpt.co/?ref=zazacattack) | OmniGPT integrates with Slack, GitHub, Google Workspace, and more, offering voice commands, document uploads, and a Chrome extension. |
 | aitoptools | Aitoptools.com showcases top AI tools for various needs, enhancing productivity and efficiency. |
 | Mixo.io | Mixo.io is an AI website builder creating functional sites from brief ideas, requiring no coding skills. |
@@ -222,7 +222,7 @@
 | mava | Mava integrates with platforms like Discord and Telegram for AI-driven customer support and analytics. |
 | deepbrain | DeepBrain AI offers AI-driven video and chat solutions, including photo-realistic avatars and multilingual TTS. |
 | meetgeekai | MeetGeek.ai is an AI meeting assistant offering recording, transcription, summarization, and team collaboration features. |
-| typedesk | Typedesk is a text expander app creating canned responses and templates for consistent communication. |
+| [typedesk](https://www.typedesk.com/) | Typedesk is a text expander app creating canned responses and templates for consistent communication. |
 | [collect.chat](https://collect.chat#_r_zac34) | Collect.chat is a no-code chatbot builder for lead generation, scheduling, and feedback gathering. |
 
 
@@ -258,11 +258,10 @@
 | [Getbetterpics.com](https://www.getbetterpics.com/?ref=zelmmtqj) | GetBetterPics is an AI photo enhancer that creates high-quality images for social media and websites. |
 | Aihomedesign | AI HomeDesign visualizes interior changes before committing, offering realistic renders and style options. |
 | Shrinkmedia | Shrink.Media resizes and optimizes images, reducing file sizes without quality loss. |
-| erasebg | Erase.bg quickly removes backgrounds, offering customization and integration with design software and eCommerce. |
+| [erasebg](https://www.erase.bg/) | Erase.bg quickly removes backgrounds, offering customization and integration with design software and eCommerce. |
 | imglarger | Imglarger.com enhances images up to 8k resolution, with sharpening, retouching, and background removal. |
 | [Magic studio](https://magicstudio.com/) | Magicstudio.com offers AI-powered tools for image editing, including background removal and enlargement. |
 | [aragon](https://www.aragon.ai/) | Aragon.ai creates AI-generated headshots from selfies, providing affordable professional images. |
-| pixelbin | Watermarkremover.io offers a free AI tool to remove watermarks from images and videos instantly. |
 
 
 ## Plugins & Browser Extensions
@@ -290,7 +289,7 @@
 | Browse.ai | Browse AI extracts and monitors website data without coding, supporting lead building and price monitoring. |
 | vidiq.com | VidIQ helps YouTube creators grow by analyzing analytics, suggesting keywords, and offering personalized advice. |
 | [upgrow](upgrow.com/?ref=zazacattack) | UpGrow uses AI to help brands, influencers, and agencies grow their Instagram audience organically by boosting visibility and engagement through paid ads, real-human activity, and influencer partnerships. It offers AI-powered growth, live analytics, and secure services without needing account credentials, ensuring compliance with Instagram's policies. |
-| reviewsonmywebsite | ReviewsOnMyWebsite collects, displays, and manages reviews, integrates with platforms, and uses AI for responses. |
+| [reviewsonmywebsite](https://reviewsonmywebsite.com/) | ReviewsOnMyWebsite collects, displays, and manages reviews, integrates with platforms, and uses AI for responses. |
 | Instantly.ai | Instantly.ai manages cold outreach email campaigns with automation, AI writing assistance, and analytics. |
 | writecream.com (already listed in Content Creation & SEO) |
 | marketingblocksai | MarketingBlocks AI Assistant generates marketing assets like landing pages, videos, and copy quickly. |
@@ -326,7 +325,7 @@
 | [monica](https://monica.im?ref=mmrizme) | Monica.im is an AI assistant offering text generation, translation, and search tools. |
 | [Netus ai](https://netus.ai/?fpr=zac15) | NetusAI is an AI-driven paraphraser that makes text undetectable by AI detectors, enhancing productivity in Google Docs, Chrome, and iOS browsers. Free trial available. |
 | Yomu ai | Yomu AI is ideal for students and academics, offering AI autocomplete, citation, and plagiarism checks. |
-| stealthgpt | StealthGPT generates human-like text that evades AI detection. |
+| [stealthgpt](https://www.stealthgpt.ai/) | StealthGPT generates human-like text that evades AI detection. |
 | bertha.ai (already listed in Content Creation & SEO due to writing focus, but belongs here too) |
 
 
@@ -336,7 +335,7 @@
 | [screenapp](screenapp.io/?ref=zazacattack) | ScreenApp records screens, offers AI transcription, and secure sharing. Ideal for tutorials, meetings, and more. |
 | [Sembly](https://sembly.ai?fpr=zac77) | Sembly.ai records and transcribes meetings, providing summaries and multilingual support. |
 | [speakai](https://speakai.co/) | Speakai.co transcribes, analyzes, and visualizes language data. |
-| translatemom | TranslateMom quickly translates and captions videos from platforms like YouTube into 100+ languages. |
+| [translatemom](https://www.translate.mom/) | TranslateMom quickly translates and captions videos from platforms like YouTube into 100+ languages. |
 | [castmagic](https://www.castmagic.io/) | Castmagic automates podcast post-production, converting audio into transcripts, show notes, and social media posts. |
 
 
@@ -382,8 +381,8 @@
 | [vidyo](https://vidyo.ai?via=zac97) | Vidyo.ai is an AI platform that transforms long videos into short, engaging clips with features like AI captions, resizing, and templates, ideal for content creators and marketers. |
 | rask | Rask AI offers video localization with translation, dubbing, and subtitles in 130+ languages. |
 | [storyboardhero](https://storyboardhero.ai/) | StoryboardHero.ai generates professional storyboards from scripts using AI. |
-| Goenhance ai | GoEnhance.ai converts videos into anime, offers face swaps, and text/image to video generation. |
-| guidde | Guidde creates video documentation quickly, capturing workflows and generating step-by-step guides. |
+| [Goenhance ai](https://thedrive.ai//?ref=zazacattack) | GoEnhance.ai specializes in AI-powered video-to-anime conversion, transforming videos into high-quality animations. It also offers text/image to video generation, face swap technology, and character animation in one platform. |
+| [guidde](https://www.guidde.com/?ref=owe1nwf) | Guidde is an AI tool that creates video documentation quickly and easily. Capture workflows, generate step-by-step guides, and share them effortlessly. No design skills needed. Install the Chrome extension to get started. |
 
 
 ## Web & UX Design
