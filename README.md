@@ -127,6 +127,8 @@
 | [askcodi](https://www.askcodi.com/) | AskCodi is an AI code assistant that boosts productivity by automating tasks like code generation, testing, and documentation. |
 | [unboundml](http://unboundml.com/?via=44f300) | Unboundml.com uses generative AI to automate and enhance content creation, offering tools for images, graphics, text, and backgrounds. |
 | [cloudpdf](https://cloudpdf.io/) | CloudPDF is a cloud-based platform for efficient PDF management, offering features like display, security, tracking, and lead generation. It caters to both non-coders and developers for streamlined PDF tasks. |
+| [codepal](https://codepal.ai/?ref=zazacattack) | CodePal.ai is an AI-driven platform that boosts coding efficiency by generating code snippets, aiding refactoring, and suggesting improvements. It supports multiple languages and integrates with IDEs for a seamless experience. |
+
 
 ## Content Creation & SEO
 | NAME | DESCRIPTION |
@@ -163,7 +165,7 @@
 | [Instant chapters](https://instantchapters.com/?via=zac) | Instant Chapters generates detailed YouTube video chapters instantly, enhancing viewer experience. |
 | [Unicorn platform](https://unicornplatform.com/?via=zac21) | Unicorn Platform is an AI-powered website builder ideal for startups, enabling easy landing page creation. |
 | [Ai directories](https://www.aidirectori.es/?via=zac) | AI Directories is a curated collection of AI tool directories to boost SEO and gain backlinks. |
-| quizgecko | Quizgecko.com is an AI-powered platform that quickly generates personalized quiz questions from text. |
+| [quizgecko](https://quizgecko.com/) | Quizgecko.com is an AI-powered platform that quickly generates personalized quiz questions from text. |
 | neuroflash | Neuroflash is an AI platform for creating and optimizing content, including text, images, and videos. |
 | fireflies.ai | Fireflies.ai is an AI notetaker that records, transcribes, and analyzes meetings in real-time. |
 | trinka.ai | Trinka is an AI writing tool for academic, scientific, and business writing, offering grammar checks and optimization. |
@@ -208,6 +210,8 @@
 | [Stack-ai](https://www.stack-ai.com/?via=zazacattack) | Stack AI is a no-code platform for enterprise AI solutions, offering drag-and-drop tools, pre-built templates, enterprise-grade security, expert support, and flexible pricing plans for various needs. |
 | [vondy](https://vondy.com/?via=zac) | Vondy.com offers AI tools for tasks like fitness coaching, coding, and design. Users can create custom apps, integrate with APIs, and explore a prompt library for collaboration. |
 | [boloforms](https://www.boloforms.com/signature/?linkId=lp_766035&sourceId=zac-frulloni&tenantId=boloforms-signature) | BoloForms streamlines Google Forms with automated approval processes, form management, and secure workflows. Enjoy award-winning support, compliance, and security. Visit their website for more details and demos. |
+| [beforesunset](https://www.beforesunset.ai/?via=zac) | BeforeSunset AI helps organize your schedule by analyzing your to-do list and calendar, offering features like time tracking, analytics, and personalized routines. Visit their website for pricing details. |
+
 
 ## Customer Support & Communication
 | NAME | DESCRIPTION |
@@ -219,8 +223,8 @@
 | [webbotify](https://www.webbotify.com//?ref=zazacattack) | Webbotify is an AI-powered chatbot tool that enhances customer support by automating queries, offering 24/7 assistance, and providing customizable features and analytics for websites of all sizes. |
 | resolveai (already listed in Chat Bots & Assistants) |
 | [simplephones](https://simplephones.ai?fpr=zac23) | Simple Phones offers an AI phone agent to handle calls, ensuring no missed customer interactions. |
-| mava | Mava integrates with platforms like Discord and Telegram for AI-driven customer support and analytics. |
-| deepbrain | DeepBrain AI offers AI-driven video and chat solutions, including photo-realistic avatars and multilingual TTS. |
+| [mava](https://www.mava.app/) | Mava integrates with platforms like Discord and Telegram for AI-driven customer support and analytics. |
+| [deepbrain](https://www.aistudios.com/) | DeepBrain AI offers AI-driven video and chat solutions, including photo-realistic avatars and multilingual TTS. |
 | meetgeekai | MeetGeek.ai is an AI meeting assistant offering recording, transcription, summarization, and team collaboration features. |
 | [typedesk](https://www.typedesk.com/) | Typedesk is a text expander app creating canned responses and templates for consistent communication. |
 | [collect.chat](https://collect.chat#_r_zac34) | Collect.chat is a no-code chatbot builder for lead generation, scheduling, and feedback gathering. |
@@ -241,7 +245,7 @@
 |------|-------------|
 | [coverdoc](https://coverdoc.ai/?via=zazacattack) | CoverDoc.ai creates personalized cover letters, offers interview prep, and aids in compensation negotiation. |
 | [Job app answer genertor](eztrackr.app/?ref=zac) | EZTrackr uses AI to generate concise, catchy responses for job application questions. It's free to use, and you can personalize answers by signing up and adding your resume. |
-| ailawyer | ailawyer.pro is an AI platform offering immediate legal assistance, simplifying complex legal texts. |
+| [ailawyer](https://ailawyer.pro/?ref=zazacattack) | ailawyer.pro is an AI platform offering immediate legal assistance, simplifying complex legal texts. |
 
 ## Logo & Brand Design
 | NAME | DESCRIPTION |
@@ -302,6 +306,8 @@
 | [engageai](https://engage-ai.co/?fpr=zac80) | Engage AI is an AI tool that enhances LinkedIn engagement by generating personalized comments, improving prospect management, and boosting conversions. It integrates seamlessly with platforms and offers a Chrome extension and mobile app. |
 | [hypefury](https://hypefury.com/?via=zac20) | Hypefury.com automates social media marketing to grow and monetize your Twitter audience. Schedule posts, boost engagement, expand email lists, and share tweets on Instagram effortlessly. Free trial available. |
 | [mails.ai](https://www.mails.ai/?via=81UMHKxqX07C) | Mails.ai is an AI-powered email marketing tool that automates cold outreach, offering unlimited email connections, AI-generated content, and enhanced deliverability. It saves time, boosts responses, and increases revenue. |
+| [vizlyfi](https://vizly.fyi/?via=zac) | Vizly is an AI-driven data visualization tool that simplifies data analysis with automated insights, interactive visualizations, and secure environments. Ideal for financial analysis, it supports trend monitoring, risk assessment, and predictive analytics. |
+
 
 ## Search, Reviews, & Recommendations
 | NAME | DESCRIPTION |
