@@ -107,7 +107,7 @@
 | [flotai](https://flot.ai/) | Flot.ai is an AI Copilot for all apps and websites, enabling ChatGPT use anywhere you type. |
 | [Dante ai](https://www.dante-ai.com/) | Dante AI is a no-code chatbot builder that creates custom chatbots using your data, supporting various file types and multilingual capabilities. |
 | [tiledesk](https://tiledesk.com/) | Tiledesk.com offers open-source conversational automation tools, integrating chatbots with platforms like WhatsApp and Shopify. |
-| [Gpt trainer](https://gpt-trainer.com/?via=zac) | GPT-trainer is an AI chatbot builder that lets users create chatbots without coding. |
+| [Gpt trainer](https://gpt-trainer.com/?via=zac) | GPT-trainer is an AI chatbot builder that lets users create chatbots without coding. It enhances customer support, automates tasks, and integrates across platforms while ensuring data security and customization. |
 | [Customgpt.ai](https://customgpt.firstpromoter.com/?sref=vtfyq9s) | CustomGPT.ai is a leading no-code platform for creating AI agents tailored to your business using advanced language models. |
 | landbot | Landbot.io is a no-code platform for creating chatbots, interactive surveys, and lead generation bots, enhancing customer engagement and boosting revenue. |
 | [resolveai](https://resolveai.co?fpr=zac80) | ResolveAI offers ChatGPT-powered chatbots for businesses, featuring live chat, 24/7 automated support, and personalized responses. |
@@ -155,8 +155,8 @@
 | [60sec](https://60sec.site/?via=zazacattack) | 60sec.site is an AI-powered tool that lets you create a custom landing page in 60 seconds without coding. Enjoy customizable designs, SEO optimization, and easy integration. |
 | [chatpdf](https://www.chatpdf.com/?via=zac-frulloni) | ChatPDF.com lets you interact with PDFs using AI, enabling questions and discussions on documents. |
 | [podsqueeze](https://podsqueeze.com/?ref=zazacattack) | Podsqueeze.com is an AI platform that streamlines podcast production by automating transcriptions, show notes, social media posts, clips, and audio enhancement, saving podcasters time and effort. |
-| multilings | Multilings is an AI-powered tool for content creators, marketers, and educators, offering translation, writing assistance, and plagiarism checking. |
-| yarnit | Yarnit.app is a generative AI platform for seamless content creation, ensuring brand consistency and optimization. |
+| [multilings](https://petbooth.app?via=szmgj461wj93fftaoia4) | Multilings is an AI-powered tool for content creators, marketers, and educators, offering translation, writing assistance, and plagiarism checking. |
+| [yarnit](https://www.yarnit.app/) | Yarnit.app is a generative AI platform for seamless content creation, ensuring brand consistency and optimization. |
 | [Choppity](https://choppity.com/?via=zac) | Choppity is an AI podcast clip generator that suggests clips, adds captions, and more. |
 | [fillout](https://www.fillout.com?ref=zazacattack) | Fillout.com is a user-friendly platform for creating forms, surveys, and quizzes with AI-driven templates. |
 | [wordhero](https://aivolut.com/?via=zac-frulloni) | Wordhero.co offers AI-powered writing tools for effortless content creation, including blog posts and social media updates. |
