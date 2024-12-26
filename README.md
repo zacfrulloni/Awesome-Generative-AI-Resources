@@ -90,7 +90,7 @@
 | specterr | Specterr is an AI music visualizer tool that creates custom music visualizers and lyric videos. It offers fast cloud rendering, unlimited storage, and customizable templates. |
 | Wondercraft ai | Wondercraft AI is a podcast creation tool that uses generative AI voices to transform written content into engaging audio. Ideal for businesses and creators. |
 | [musicfy](https://create.musicfy.lol/?ref=zazacattack) | Musicfy.lol lets you create AI-generated song covers by cloning your voice or choosing different vocal styles. |
-
+| [Lalal.ai](https://www.lalal.ai/?fp_ref=zac97) | Lalal.ai is a cutting-edge tool for extracting up to 10 audio stems, like vocals and instruments, from music tracks. It uses the Phoenix neural network for high-quality separation. Accessible via website or app, it offers efficient stem extraction for musicians and producers. |
 
 ## Chat Bots & Assistants
 | NAME | DESCRIPTION |
@@ -104,7 +104,7 @@
 | chatbotkit | ChatBotKit is an AI chatbot builder for developers and non-developers, offering features like GPT-4 support, platform integration, and data security. |
 | wonderchat | Wonderchat.io lets you create AI chatbots for your website using links or PDFs, enhancing customer support. |
 | [pdfai](https://pdf.ai/?via=zac) | PDF.ai is an AI-powered tool that transforms PDF interaction, allowing users to chat with documents and ask questions. |
-| flotai | Flot.ai is an AI Copilot for all apps and websites, enabling ChatGPT use anywhere you type. |
+| [flotai](https://flot.ai/) | Flot.ai is an AI Copilot for all apps and websites, enabling ChatGPT use anywhere you type. |
 | Dante ai | Dante AI is a no-code chatbot builder that creates custom chatbots using your data, supporting various file types and multilingual capabilities. |
 | tiledesk | Tiledesk.com offers open-source conversational automation tools, integrating chatbots with platforms like WhatsApp and Shopify. |
 | [Gpt trainer](https://gpt-trainer.com/?via=zac) | GPT-trainer is an AI chatbot builder that lets users create chatbots without coding. |
@@ -123,7 +123,7 @@
 | [Bashsenpai](https://bashsenpai.com/?aff=tgta6u52qm53v7p) | BashSenpai is an AI terminal assistant powered by ChatGPT, offering coding help and commands. |
 | [vast.ai](https://cloud.vast.ai/?ref_id=177536) | Vast.ai offers affordable cloud GPU rentals, allowing users to save 5-6 times on compute costs. |
 | brightdata | Bright Data AI is a top web data platform offering advanced proxy networks, web scrapers, and datasets. |
-| pico | Pico is an AI-driven platform using GPT-4 to create web apps from plain language input, eliminating coding needs. |
+| [pico](https://picoapps.xyz/) | Pico is an AI-driven platform using GPT-4 to create web apps from plain language input, eliminating coding needs. |
 | askcodi | AskCodi is an AI code assistant that boosts productivity by automating tasks like code generation, testing, and documentation. |
 | [unboundml](http://unboundml.com/?via=44f300) | Unboundml.com uses generative AI to automate and enhance content creation, offering tools for images, graphics, text, and backgrounds. |
 | cloudpdf | CloudPDF is a cloud-based platform for efficient PDF management, offering display, security, tracking, and lead generation features. |
@@ -183,7 +183,8 @@
 | [contentbot.ai](https://contentbot.ai/?fpr=zac20) | ContentBot.ai automates content creation with AI tools like flow builders, integration with WordPress, and more. |
 | [blaze.ai](https://www.blaze.ai/blog/master-ai-chatgpt-prompts?fpr=z681z) | Blaze AI helps generate and organize content across platforms, useful for marketers and small businesses. |
 | [chapple](https://chapple.ai/?via=zac) | Chapple is an all-in-one platform to generate AI content and start making money in minutes. |
-
+| [inlinks](https://inlinks.com?deal=zac69) | Boost your website's SEO with InLinks® Entity SEO Tool. Sign up for free to optimize content, internal linking, and social media. Trusted by professionals, InLinks saves time and delivers results. |
+| [podium](https://hello.podium.page/?via=zac) | Podium is an AI podcasting tool that streamlines content creation by generating summaries, transcripts, clips, and social media posts, enhancing discoverability and efficiency. Try it free, no signup needed. |
 
 ## Creators & Productivity Tools
 | NAME | DESCRIPTION |
@@ -195,33 +196,34 @@
 | [Ikiblast.com](https://www.ikiblast.com/?via=zazacattack) | IKiBlast is an AI productivity tool that enhances creativity and efficiency by managing emails, supporting multiple languages, and offering specialized agents for various tasks. It ensures privacy and integrates seamlessly into daily routines. |
 | [Buzzy.buzz](https://www.buzzy.buzz/home-tapfiliate?ref=mdu2zth) | Buzzy AI is a no-code app builder that uses generative AI to quickly turn ideas into functional web or mobile apps. Users describe their concept in plain English, and Buzzy generates a Figma design and app in minutes. It simplifies MVP validation and offers extensive customization, making app development accessible to non-technical users. |
 | [Mymap.ai](www.mymap.ai/?via=zazacattack) | MyMap.AI is an AI-powered mapping tool for brainstorming and presenting ideas through dynamic maps. Ideal for education and communication, it offers tools like ConceptMap, ChatMap, StoryMap, and NoteMap. |
-| Learningstudioai | LearningStudioAI is an AI-driven platform for creating engaging online courses effortlessly. |
+| [Learningstudioai](https://learningstudioai.com/?via=zac) | LearningStudioAI is an AI-driven platform for creating engaging online courses effortlessly. |
 | Dorik ai | Dorik is an affordable AI website builder enabling stunning websites without coding, offering drag-and-drop tools and templates. |
 | makeforms | MakeForms is an online form builder with AI capabilities and top security, ideal for surveys, quizzes, and integrations. |
 | Thedrive ai | TheDrive.ai transforms files into a dynamic knowledge base, offering storage, reading, writing, and collaboration tools. |
-| omnigpt | OmniGPT integrates with Slack, GitHub, Google Workspace, and more, offering voice commands, document uploads, and a Chrome extension. |
+| [omnigpt](https://app.omnigpt.co/?ref=zazacattack) | OmniGPT integrates with Slack, GitHub, Google Workspace, and more, offering voice commands, document uploads, and a Chrome extension. |
 | aitoptools | Aitoptools.com showcases top AI tools for various needs, enhancing productivity and efficiency. |
 | Mixo.io | Mixo.io is an AI website builder creating functional sites from brief ideas, requiring no coding skills. |
 | circleback | Circleback provides AI-powered notes, action items, and automations, updating your CRM, Notion, and more. |
 | Solvely.ai (already listed) |
 | [Stack-ai](https://www.stack-ai.com/?via=zazacattack) | Stack AI is a no-code platform for enterprise AI solutions, offering drag-and-drop tools, pre-built templates, enterprise-grade security, expert support, and flexible pricing plans for various needs. |
-
+| [vondy](https://vondy.com/?via=zac) | Vondy.com offers AI tools for tasks like fitness coaching, coding, and design. Users can create custom apps, integrate with APIs, and explore a prompt library for collaboration. |
+| [boloforms](https://www.boloforms.com/signature/?linkId=lp_766035&sourceId=zac-frulloni&tenantId=boloforms-signature) | BoloForms streamlines Google Forms with automated approval processes, form management, and secure workflows. Enjoy award-winning support, compliance, and security. Visit their website for more details and demos. |
 
 ## Customer Support & Communication
 | NAME | DESCRIPTION |
 |------|-------------|
 | [Socialintents.com](https://www.socialintents.com?fpr=zac44) | Social Intents offers live chat software that integrates with platforms like Microsoft Teams and Slack, enabling real-time customer engagement. Features include AI chatbots, customizable widgets, and a 14-day free trial. |
-| Spectate.net | Spectate provides AI-driven incident management with downtime notifications and customizable status pages. |
-| Watermelon | Watermelon.ai uses GPT-4 chatbots for customer service, automating interactions and reducing workload. |
+| [Spectate.net](spectate.net/?via=zazacattack) | Spectate provides AI-driven incident management with downtime notifications and customizable status pages. |
+| [Watermelon](https://www.watermelon.ai/?via=zac) | Watermelon.ai uses GPT-4 chatbots for customer service, automating interactions and reducing workload. |
 | chatlingai | Chatling is an AI chatbot for customer support, offering personalized, accurate responses and multilingual communication. |
 | webbotify | Webbotify is an AI-powered chatbot tool enhancing customer support with 24/7 assistance and analytics. |
 | resolveai (already listed in Chat Bots & Assistants) |
-| simplephones | Simple Phones offers an AI phone agent to handle calls, ensuring no missed customer interactions. |
+| [simplephones](https://simplephones.ai?fpr=zac23) | Simple Phones offers an AI phone agent to handle calls, ensuring no missed customer interactions. |
 | mava | Mava integrates with platforms like Discord and Telegram for AI-driven customer support and analytics. |
 | deepbrain | DeepBrain AI offers AI-driven video and chat solutions, including photo-realistic avatars and multilingual TTS. |
 | meetgeekai | MeetGeek.ai is an AI meeting assistant offering recording, transcription, summarization, and team collaboration features. |
 | typedesk | Typedesk is a text expander app creating canned responses and templates for consistent communication. |
-| collect.chat | Collect.chat is a no-code chatbot builder for lead generation, scheduling, and feedback gathering. |
+| [collect.chat](https://collect.chat#_r_zac34) | Collect.chat is a no-code chatbot builder for lead generation, scheduling, and feedback gathering. |
 
 
 ## Email & Messaging Assistants
@@ -229,7 +231,7 @@
 |------|-------------|
 | [Sanebox.com](https://try.sanebox.com/oxa46l8bxqh3) | SaneBox is an email management service that filters unimportant emails into a separate folder, integrating with IMAP and Exchange Web Services accounts. |
 | [Hix.ai](https://hix.ai/?ref=mdvhztc) | HIX Email Writer simplifies email communication with AI-generated templates, quick "//" commands, customizable tones, and tools for grammar checks, translations, and summarizing. It's available as a freemium service. |
-| Klart ai | ChatGPT Services (Klart.ai) enhances email efficiency with NLP and machine learning. Ideal for SMEs and e-commerce. |
+| [Klart ai](https://www.chatgptservices.app/?ref=dljjwudq) | ChatGPT Services (Klart.ai) enhances email efficiency with NLP and machine learning. Ideal for SMEs and e-commerce. |
 | getresponse | GetResponse is an email marketing and website builder platform with AI tools for email generation and automation. |
 | hoppycopy | Hoppy Copy crafts high-converting emails quickly using AI, offering templates, editing tools, and competitor insights. |
 
@@ -278,9 +280,9 @@
 | [Nureply.com](https://nureply.com/?ref=zazacattack) | Nureply is an AI-powered email outreach tool that automates personalized campaigns, improves deliverability, and optimizes performance metrics. It saves time, boosts revenue, and is trusted by over 2000 customers. |
 | [Clodura.ai](https://www.clodura.ai/app/?fpr=zac99#/auth/register) | Clodura.ai is a GenAI sales co-pilot assisting in prospecting and closing deals. |
 | [Followr.ai](https://followr.ai/) | Boost your online presence with Followr AI, a cutting-edge social media tool that creates AI-generated content customized for your audience. |
-| Smartlead.ai | Smartlead.ai scales cold email campaigns, offering unlimited mailboxes, AI warmup, personalization, and analytics. |
-| Pin generator | Pingenerator.com automates Pinterest marketing by generating and scheduling pins with AI features and templates. |
-| repliq | RepliQ enhances outreach with personalized AI videos, images, and texts for improved engagement. |
+| [Smartlead.ai](https://smartlead.ai/?via=zac-frulloni) | Smartlead.ai scales cold email campaigns, offering unlimited mailboxes, AI warmup, personalization, and analytics. |
+| [Pin generator](https://pingenerator.com?pgref=zazacattack) | Pingenerator.com automates Pinterest marketing by generating and scheduling pins with AI features and templates. |
+| [repliq](https://www.repliq.co/?ref=zazacattack) | RepliQ enhances outreach with personalized AI videos, images, and texts for improved engagement. |
 | Clodura.ai (duplicate listed above) |
 | manychat | Manychat automates conversations on Instagram, Facebook Messenger, and SMS, enhancing sales and customer support. |
 | abtesting | abtesting.ai optimizes landing pages using AI-driven A/B testing with automated text suggestions. |
@@ -298,14 +300,13 @@
 | Instantly.ai | Instantly.ai manages cold outreach email campaigns with automation, AI writing assistance, and analytics. |
 | writecream.com (already listed in Content Creation & SEO) |
 | marketingblocksai | MarketingBlocks AI Assistant generates marketing assets like landing pages, videos, and copy quickly. |
-| robaopost (typo in data as 'robopost'?) | Robopost automates social media management with AI, offering post scheduling and content ideas. |
+| [robopost](https://robopost.app/en) | Robopost automates social media management with AI, offering post scheduling and content ideas. |
 | foreplay | Foreplay saves, organizes, and shares ads from TikTok and Facebook, featuring an AI brief generator. |
 | Qr code ai | QR Code AI creates personalized, visually appealing QR codes with analytics and templates. |
 | windsor.ai | Windsor.ai is a marketing data platform integrating data sources, optimizing customer journeys, and tracking performance. |
 | unbounce | Unbounce is a landing page platform using AI insights to boost conversions and results. |
 | brand24 | Brand24 monitors social media, tracks brand mentions, and analyzes sentiment for better reputation management. |
-| deset of other pending with no data |
-
+| [engageai](https://engage-ai.co/?fpr=zac80) | Engage AI is an AI tool that enhances LinkedIn engagement by generating personalized comments, improving prospect management, and boosting conversions. It integrates seamlessly with platforms and offers a Chrome extension and mobile app. |
 
 ## Search, Reviews, & Recommendations
 | NAME | DESCRIPTION |
@@ -326,7 +327,7 @@
 |------|-------------|
 | [Textero.io](https://textero.io//?ref=zazacattack) | Textero.ai is an AI writing tool that generates and edits academic content, inspiring creativity and improving essays across various subjects with a user-friendly interface. Try it to overcome writer's block. |
 | [Paraphrasetool.com](https://paraphrasetool.com/?via=zazacattack) | Paraphrasingtool.ai offers a free, advanced AI tool for rephrasing text, enhancing fluency, vocabulary, and tone. Ideal for students and writers, it supports unlimited text and integrates with popular platforms. |
-| monica | Monica.im is an AI assistant offering text generation, translation, and search tools. |
+| [monica](https://monica.im?ref=mmrizme) | Monica.im is an AI assistant offering text generation, translation, and search tools. |
 | Netus ai | NetusAI is an AI-driven paraphraser that makes text undetectable by AI detectors, enhancing productivity. |
 | Yomu ai | Yomu AI is ideal for students and academics, offering AI autocomplete, citation, and plagiarism checks. |
 | stealthgpt | StealthGPT generates human-like text that evades AI detection. |
@@ -336,8 +337,8 @@
 ## Translation & Transcription
 | NAME | DESCRIPTION |
 |------|-------------|
-| screenapp | ScreenApp records screens, offers AI transcription, and secure sharing. Ideal for tutorials, meetings, and more. |
-| Sembly | Sembly.ai records and transcribes meetings, providing summaries and multilingual support. |
+| [screenapp](screenapp.io/?ref=zazacattack) | ScreenApp records screens, offers AI transcription, and secure sharing. Ideal for tutorials, meetings, and more. |
+| [Sembly](https://sembly.ai?fpr=zac77) | Sembly.ai records and transcribes meetings, providing summaries and multilingual support. |
 | speakai | Speakai.co transcribes, analyzes, and visualizes language data. |
 | translatemom | TranslateMom quickly translates and captions videos from platforms like YouTube into 100+ languages. |
 | castmagic | Castmagic automates podcast post-production, converting audio into transcripts, show notes, and social media posts. |
@@ -347,10 +348,10 @@
 | NAME | DESCRIPTION |
 |------|-------------|
 | [play.ht](https://www.play.ht/?via=zazacattack) | PlayHT is a leading AI voice generator offering over 600 ultra-realistic text-to-speech voices for creating lifelike voiceovers. |
-| starvoiceai | StarVoiceAi lets users create videos with celebrity voices, offers instant voice cloning, and free characters. |
+| [starvoiceai](https://starvoiceai.com?referralCode=nqSpj) | StarVoiceAi lets users create videos with celebrity voices, offers instant voice cloning, and free characters. |
 | [Acoust.io](https://www.acoust.io/?via=zazacattack) | Acoust AI offers lifelike TTS for content creation, document listening, and video editing. It benefits content creators, students, and professionals, with a free tier available. Enhance videos with AI voice and editing tools. |
-| speechify | Speechify converts text to natural speech on any device with over 100 AI voices. |
-| listnr | Listnr.tech is an AI-powered TTS generator with 900+ voices in 145+ languages. |
+| [speechify](https://speechify.com/) | Speechify converts text to natural speech on any device with over 100 AI voices. |
+| [listnr](https://listnr.ai/?gr_pk=b7kN) | Listnr.tech is an AI-powered TTS generator with 900+ voices in 145+ languages. |
 | dupdubcom | DupDub is an AI voice generator with 400+ voices in 70+ languages. |
 | [elevenlabs.io](https://try.elevenlabs.io/ghgrv3b1modj) | ElevenLabs specializes in AI-driven voice generation and TTS tools for videos, gaming, and more. |
 | murf.ai (no data) |
@@ -364,11 +365,11 @@
 | [capcut](capcutaffiliateprogram.pxf.io/7a5D6d) | CapCut is a versatile video editing tool with effects, filters, AI tools, and collaborative editing. Available on web, desktop, and mobile. |
 | [Klap.app](https://klap.app/?via=zazacattack) | Klap is an AI tool that transforms YouTube videos into engaging clips for TikTok, Reels, and Shorts. It offers smart editing, auto captions, and intelligent cropping, supporting multiple languages and video lengths. |
 | [Fliz.ai](https://fliz.ai/?via=zac) | Fliz AI is your pocket videographer, creating captivating product videos from a URL, eliminating editing hassles and costs, and integrating seamlessly with e-commerce platforms to boost engagement and sales. |
-| vizardai | Vizard.ai creates engaging short-form videos for social media with AI-driven transcription and clip generation. |
+| [vizardai](https://vizard.ai/?via=zac) | Vizard.ai creates engaging short-form videos for social media with AI-driven transcription and clip generation. |
 | [heygen](https://app.heygen.com/login) | HeyGen.com creates AI-generated business videos with over 100 avatars, 300+ voices, and multilingual support. |
 | [Riverside.fm](https://www.riverside.fm/?utm_campaign=campaign_5&utm_medium=affiliate&utm_source=rewardful&via=zac-frulloni) | Riverside.fm is a comprehensive platform for remote podcast and video recording, offering studio-quality output with features like 4K video, uncompressed audio, AI transcriptions, and seamless editing. It supports over 100 languages, provides social media clips, and ensures reliable recordings even with poor internet. Accessible via browsers and mobile apps, it caters to podcasters and media companies. |
 | Renderlion | RenderLion offers free video generation without upfront costs, creating videos from text and images. Ideal for e-commerce. |
-| neuralframes | Neuralframes.com uses AI to create animations and videos from text for music, marketing, and digital art. |
+| [neuralframes](https://www.neuralframes.com/?via=zac) | Neuralframes.com uses AI to create animations and videos from text for music, marketing, and digital art. |
 | Aistudios.com | Aistudios.com is an AI-driven video platform by DeepBrain AI, offering quick video creation with natural voiceovers and avatars. |
 | lovo.ai | Lovo.ai is an AI platform for creating voiceovers, text-to-speech, voice cloning, and video editing with Genny. |
 | [Fliki.ai](https://fliki.ai/?via=zac-frulloni) | Fliki AI converts text into engaging videos effortlessly. |
@@ -379,12 +380,12 @@
 | Fylm.ai | Fylm.ai is a browser-based platform with AI-powered color grading, collaboration, and ACES support. |
 | [Opus](https://www.opus.pro/?via=a1a065) | Opus Clip's AI transforms long videos into shareable short-form clips with virality scores. |
 | maverick | Maverick is an AI-powered video tool for ecommerce, enhancing customer engagement with personalized videos. |
-| magicslides | MagicSlides creates professional presentations quickly, supporting Google Slides and PowerPoint. |
-| shuffll | Shuffll uses AI to generate copy, motion art, and storylines for video production. |
-| pixop | Pixop is a cloud-based AI video remastering tool upgrading video quality to UHD 8K with automated filters. |
+| [magicslides](https://www.magicslides.app/) | MagicSlides creates professional presentations quickly, supporting Google Slides and PowerPoint. |
+| [shuffll](https://shuffll.com/) | Shuffll uses AI to generate copy, motion art, and storylines for video production. |
+| [pixop](https://www.pixop.com/) | Pixop is a cloud-based AI video remastering tool upgrading video quality to UHD 8K with automated filters. |
 | vidyo | Vidyo.ai transforms long videos into short clips with AI captions, resizing, and templates. |
 | rask | Rask AI offers video localization with translation, dubbing, and subtitles in 130+ languages. |
-| storyboardhero | StoryboardHero.ai generates professional storyboards from scripts using AI. |
+| [storyboardhero](https://storyboardhero.ai/) | StoryboardHero.ai generates professional storyboards from scripts using AI. |
 | Goenhance ai | GoEnhance.ai converts videos into anime, offers face swaps, and text/image to video generation. |
 | guidde | Guidde creates video documentation quickly, capturing workflows and generating step-by-step guides. |
 
@@ -393,7 +394,7 @@
 | NAME | DESCRIPTION |
 |------|-------------|
 | Pineapple builder | PineappleBuilder.com is an AI-driven tool for creating websites quickly without coding. |
-| windframe | Windframe helps developers quickly build and edit web UIs with over 1000 Tailwind templates. |
+| [windframe](windframe.dev/?ref=zazacattack) | Windframe helps developers quickly build and edit web UIs with over 1000 Tailwind templates. |
 | Framer ai | Framer uses AI for fast, no-code website creation with responsive design and animations. |
 | weblium | Weblium is an AI website builder with 300+ templates, easy integrations, and 24/7 support. |
 | Butternut ai | Butternut AI creates code-free websites in under 20 seconds with customizable designs and SEO optimization. |
