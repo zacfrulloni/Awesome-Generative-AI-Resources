@@ -1,4 +1,4 @@
-## Table of Contents
+![image](https://github.com/user-attachments/assets/411fec2c-6a50-4efa-b318-f5cb13e25f9e)## Table of Contents
 
 - [Architecture & Design](#architecture--design)
 - [Art & Image Generators](#art--image-generators)
@@ -204,6 +204,7 @@
 | Mixo.io | Mixo.io is an AI website builder creating functional sites from brief ideas, requiring no coding skills. |
 | circleback | Circleback provides AI-powered notes, action items, and automations, updating your CRM, Notion, and more. |
 | Solvely.ai (already listed) |
+| [Stack-ai](https://www.stack-ai.com/?via=zazacattack) | Stack AI is a no-code platform for enterprise AI solutions, offering drag-and-drop tools, pre-built templates, enterprise-grade security, expert support, and flexible pricing plans for various needs. |
 
 
 ## Customer Support & Communication
@@ -274,7 +275,7 @@
 | NAME | DESCRIPTION |
 |------|-------------|
 | [Apollo.io](https://www.apollo.io/) | Use Apollo's platform to access, engage, and convert over 210 million contacts across 35 million companies with powerful sales intelligence and engagement tools.|
-| Nureply.com | Nureply automates personalized email campaigns, improving deliverability and performance metrics. |
+| [Nureply.com](https://nureply.com/?ref=zazacattack) | Nureply is an AI-powered email outreach tool that automates personalized campaigns, improves deliverability, and optimizes performance metrics. It saves time, boosts revenue, and is trusted by over 2000 customers. |
 | [Clodura.ai](https://www.clodura.ai/app/?fpr=zac99#/auth/register) | Clodura.ai is a GenAI sales co-pilot assisting in prospecting and closing deals. |
 | [Followr.ai](https://followr.ai/) | Boost your online presence with Followr AI, a cutting-edge social media tool that creates AI-generated content customized for your audience. |
 | Smartlead.ai | Smartlead.ai scales cold email campaigns, offering unlimited mailboxes, AI warmup, personalization, and analytics. |
@@ -347,7 +348,7 @@
 |------|-------------|
 | [play.ht](https://www.play.ht/?via=zazacattack) | PlayHT is a leading AI voice generator offering over 600 ultra-realistic text-to-speech voices for creating lifelike voiceovers. |
 | starvoiceai | StarVoiceAi lets users create videos with celebrity voices, offers instant voice cloning, and free characters. |
-| Acoust.io | Acoust AI offers lifelike TTS for content creation, document listening, and video editing. |
+| [Acoust.io](https://www.acoust.io/?via=zazacattack) | Acoust AI offers lifelike TTS for content creation, document listening, and video editing. It benefits content creators, students, and professionals, with a free tier available. Enhance videos with AI voice and editing tools. |
 | speechify | Speechify converts text to natural speech on any device with over 100 AI voices. |
 | listnr | Listnr.tech is an AI-powered TTS generator with 900+ voices in 145+ languages. |
 | dupdubcom | DupDub is an AI voice generator with 400+ voices in 70+ languages. |
@@ -362,7 +363,7 @@
 | [vidnoz](https://www.vidnoz.com/?a_aid=674111bdd78cb) | Vidnoz is a leading free AI video generator, offering tools like AI avatars and voices. Start creating videos with Vidnoz's AI features today. |
 | [capcut](capcutaffiliateprogram.pxf.io/7a5D6d) | CapCut is a versatile video editing tool with effects, filters, AI tools, and collaborative editing. Available on web, desktop, and mobile. |
 | [Klap.app](https://klap.app/?via=zazacattack) | Klap is an AI tool that transforms YouTube videos into engaging clips for TikTok, Reels, and Shorts. It offers smart editing, auto captions, and intelligent cropping, supporting multiple languages and video lengths. |
-| Fliz.ai | Fliz AI creates captivating product videos from a URL, eliminating editing hassles and costs. Ideal for e-commerce. |
+| [Fliz.ai](https://fliz.ai/?via=zac) | Fliz AI is your pocket videographer, creating captivating product videos from a URL, eliminating editing hassles and costs, and integrating seamlessly with e-commerce platforms to boost engagement and sales. |
 | vizardai | Vizard.ai creates engaging short-form videos for social media with AI-driven transcription and clip generation. |
 | [heygen](https://app.heygen.com/login) | HeyGen.com creates AI-generated business videos with over 100 avatars, 300+ voices, and multilingual support. |
 | [Riverside.fm](https://www.riverside.fm/?utm_campaign=campaign_5&utm_medium=affiliate&utm_source=rewardful&via=zac-frulloni) | Riverside.fm is a comprehensive platform for remote podcast and video recording, offering studio-quality output with features like 4K video, uncompressed audio, AI transcriptions, and seamless editing. It supports over 100 languages, provides social media clips, and ensures reliable recordings even with poor internet. Accessible via browsers and mobile apps, it caters to podcasters and media companies. |
