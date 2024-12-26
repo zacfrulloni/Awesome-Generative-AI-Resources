@@ -44,7 +44,7 @@
 ## Architecture & Design
 | NAME | DESCRIPTION |
 |------|-------------|
-| Virtual staging ai | Transform spaces with Virtual Staging AI's one-click service. Add furniture, remove watermarks, and choose styles. Get staged photos in 30 seconds for $15/month, boosting home sales with AI technology. |
+| [Virtual staging ai](https://www.virtualstagingai.app/) | Transform spaces with Virtual Staging AI's one-click service. Add furniture, remove watermarks, and choose styles. |
 
 
 ## Art & Image Generators
@@ -62,7 +62,7 @@
 | Colorbliss.art | ColorBliss.art offers a free trial where new users can create up to 3 images. Share on social media to unlock more. Create coloring pages by entering text prompts. |
 | photosonic | Writesonic's AI Art Generator creates stunning art in seconds, eliminating the need for expensive stock photos and lengthy design processes. It offers diverse styles, saving businesses time and money. |
 | [petbooth](https://petbooth.app?via=szmgj461wj93fftaoia4) | Pet Booth creates AI-generated pet portraits and photos for cats and dogs. Ideal for prints, cards, or desktop backgrounds. |
-| daftart | Daftart.ai is an AI tool for creating professional album covers quickly. It offers curated aesthetics, customization options, high-resolution downloads, and simple pricing. |
+| [Daftart](https://daftart.com/) | Daftart.ai is an AI tool for creating professional album covers quickly. It offers curated aesthetics, customization options, high-resolution downloads, and simple pricing. |
 | [deepmode](https://deepmode.com?fpr=zac41) | DeepMode is a Generative AI platform for creating AI clones and stunning photos. It offers lifelike image generation, multiple art styles, and high-resolution output. |
 
 
@@ -106,7 +106,7 @@
 | [pdfai](https://pdf.ai/?via=zac) | PDF.ai is an AI-powered tool that transforms PDF interaction, allowing users to chat with documents and ask questions. |
 | [flotai](https://flot.ai/) | Flot.ai is an AI Copilot for all apps and websites, enabling ChatGPT use anywhere you type. |
 | [Dante ai](https://www.dante-ai.com/) | Dante AI is a no-code chatbot builder that creates custom chatbots using your data, supporting various file types and multilingual capabilities. |
-| tiledesk | Tiledesk.com offers open-source conversational automation tools, integrating chatbots with platforms like WhatsApp and Shopify. |
+| [tiledesk](https://tiledesk.com/) | Tiledesk.com offers open-source conversational automation tools, integrating chatbots with platforms like WhatsApp and Shopify. |
 | [Gpt trainer](https://gpt-trainer.com/?via=zac) | GPT-trainer is an AI chatbot builder that lets users create chatbots without coding. |
 | [Customgpt.ai](https://customgpt.firstpromoter.com/?sref=vtfyq9s) | CustomGPT.ai is a leading no-code platform for creating AI agents tailored to your business using advanced language models. |
 | landbot | Landbot.io is a no-code platform for creating chatbots, interactive surveys, and lead generation bots, enhancing customer engagement and boosting revenue. |
@@ -184,6 +184,7 @@
 | [chapple](https://chapple.ai/?via=zac) | Chapple is an all-in-one platform to generate AI content and start making money in minutes. |
 | [inlinks](https://inlinks.com?deal=zac69) | Boost your website's SEO with InLinks® Entity SEO Tool. Sign up for free to optimize content, internal linking, and social media. Trusted by professionals, InLinks saves time and delivers results. |
 | [podium](https://hello.podium.page/?via=zac) | Podium is an AI podcasting tool that streamlines content creation by generating summaries, transcripts, clips, and social media posts, enhancing discoverability and efficiency. Try it free, no signup needed. |
+| [dashword](https://www.dashword.com/?via=zac32) | Dashword is a leading content optimization tool for SEO teams, offering real-time feedback, keyword suggestions, and performance tracking to boost organic traffic. It features an intuitive interface and a free meta description generator. |
 
 ## Creators & Productivity Tools
 | NAME | DESCRIPTION |
@@ -301,6 +302,7 @@
 | brand24 | Brand24 monitors social media, tracks brand mentions, and analyzes sentiment for better reputation management. |
 | [engageai](https://engage-ai.co/?fpr=zac80) | Engage AI is an AI tool that enhances LinkedIn engagement by generating personalized comments, improving prospect management, and boosting conversions. It integrates seamlessly with platforms and offers a Chrome extension and mobile app. |
 | [hypefury](https://hypefury.com/?via=zac20) | Hypefury.com automates social media marketing to grow and monetize your Twitter audience. Schedule posts, boost engagement, expand email lists, and share tweets on Instagram effortlessly. Free trial available. |
+| [mails.ai](https://www.mails.ai/?via=81UMHKxqX07C) | Mails.ai is an AI-powered email marketing tool that automates cold outreach, offering unlimited email connections, AI-generated content, and enhanced deliverability. It saves time, boosts responses, and increases revenue. |
 
 ## Search, Reviews, & Recommendations
 | NAME | DESCRIPTION |
