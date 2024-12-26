@@ -198,7 +198,7 @@
 | [Mymap.ai](www.mymap.ai/?via=zazacattack) | MyMap.AI is an AI-powered mapping tool for brainstorming and presenting ideas through dynamic maps. Ideal for education and communication, it offers tools like ConceptMap, ChatMap, StoryMap, and NoteMap. |
 | [Learningstudioai](https://learningstudioai.com/?via=zac) | LearningStudioAI is an AI-driven platform for creating engaging online courses effortlessly. |
 | [Dorik ai](https://dorik.com?ref=zac65) | Dorik is an affordable AI website builder enabling stunning websites without coding, offering drag-and-drop tools and templates. |
-| makeforms | MakeForms is an online form builder with AI capabilities and top security, ideal for surveys, quizzes, and integrations. |
+| [makeforms](https://makeforms.io/) | MakeForms is an online form builder with AI capabilities and top security, ideal for surveys, quizzes, and integrations. |
 | Thedrive ai | TheDrive.ai transforms files into a dynamic knowledge base, offering storage, reading, writing, and collaboration tools. |
 | [omnigpt](https://app.omnigpt.co/?ref=zazacattack) | OmniGPT integrates with Slack, GitHub, Google Workspace, and more, offering voice commands, document uploads, and a Chrome extension. |
 | aitoptools | Aitoptools.com showcases top AI tools for various needs, enhancing productivity and efficiency. |
@@ -314,7 +314,7 @@
 | NAME | DESCRIPTION |
 |------|-------------|
 | [slidesai](slidesai.io/?ref=zazacattack) | Slidesai.io is an AI tool that transforms text into visually appealing slides, offering various presentation types and color presets. It integrates with Google Slides and allows three free presentations. |
-| [protopie](https://www.protopie.io/plans?ref=zte1zdy) | ProtoPie is a powerful prototyping tool for mobile, desktop, web, and IoT. |
+| [protopie](https://www.protopie.io/plans?ref=zte1zdy) | ProtoPie is a powerful prototyping tool for mobile, desktop, web, and IoT, known for simulating automotive UX and HMI. It supports cross-device interactions, seamless design imports, and coding-free control. ProtoPie integrates with design tools like Figma and Adobe XD, enabling realistic prototypes and secure team collaboration. |
 | [Decktopus](https://www.decktopus.com/?via=zac) | Decktopus is an AI-powered tool that generates presentations with pre-built slides, graphics, and animations. |
 
 
