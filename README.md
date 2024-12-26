@@ -153,7 +153,7 @@
 | aicarousels | aiCarousels.com is an AI-powered tool for creating visually engaging carousels for LinkedIn, Instagram, and TikTok. |
 | [unriddle](https://www.unriddle.ai//?ref=zazacattack) | Unriddle is an AI tool that simplifies complex documents by generating chatbots for easy information retrieval and summarization. It offers features like customizable settings, a Chrome extension, and multi-source querying. Trusted by over 750,000 users, it enhances research and productivity. |
 | [sudowrite](https://www.sudowrite.com/) | Sudowrite.com is an AI writing tool for creative writers, enhancing writing with text generation and rephrasing. |
-| Shakespeare | SHAKEspeare is an AI writing tool for crafting campaign emails. |
+| [Shakespeare](https://app.shakespeare.ai/) | SHAKEspeare is an AI writing tool for crafting campaign emails. |
 | [60sec](https://60sec.site/?via=zazacattack) | 60sec.site is an AI-powered tool that lets you create a custom landing page in 60 seconds without coding. Enjoy customizable designs, SEO optimization, and easy integration. |
 | [chatpdf](https://www.chatpdf.com/?via=zac-frulloni) | ChatPDF.com lets you interact with PDFs using AI, enabling questions and discussions on documents. |
 | [podsqueeze](https://podsqueeze.com/?ref=zazacattack) | Podsqueeze.com is an AI platform that streamlines podcast production by automating transcriptions, show notes, social media posts, clips, and audio enhancement, saving podcasters time and effort. |
@@ -172,8 +172,7 @@
 | [shopia.ai](https://app.shopia.ai/sign-up?via=zac-frulloni) | Shopia.ai creates product descriptions, ad content, and blog articles with just a few lines of text. |
 | [frase.io](https://www.frase.io/?via=zac69) | Frase.io aids content creators by researching topics, drafting content, and analyzing performance for SEO. |
 | [Betterpic.io](https://www.betterpic.io/) | BetterPic uses AI to create professional-quality images, employing advanced algorithms and machine learning. |
-| Creatify.ai | Creatify's AI platform simplifies video ad creation, allowing quick production of engaging ads in minutes. |
-| Shakespeare (duplicate noted above, already listed) |
+| [Creatify.ai](https://creatify.ai/) | Creatify's AI platform simplifies video ad creation, allowing quick production of engaging ads in minutes. |
 | [koala.sh](https://koala.sh/?via=zac-frulloni) | Koala.sh is an AI writing tool integrating real-time SERP analysis for better SEO content. |
 | [getgenie.ai](https://getgenie.ai/?rui=3056) | GetGenie is an AI assistant for WordPress, offering content creation, SEO tools, and site management. |
 | [aiseo.ai](https://aiseo.ai/?fpr=zac85) | AISEO.ai creates SEO-friendly content, improves readability, generates images, and bypasses AI detectors. |
@@ -206,7 +205,7 @@
 | [Thedrive ai](https://thedrive.ai/) | TheDrive.ai transforms files into a dynamic knowledge base, offering storage, reading, writing, and collaboration tools. |
 | [omnigpt](https://app.omnigpt.co/?ref=zazacattack) | OmniGPT integrates with Slack, GitHub, Google Workspace, and more, offering voice commands, document uploads, and a Chrome extension. |
 | aitoptools | Aitoptools.com showcases top AI tools for various needs, enhancing productivity and efficiency. |
-| Mixo.io | Mixo.io is an AI website builder creating functional sites from brief ideas, requiring no coding skills. |
+| [Mixo.io](https://www.mixo.io/?via=eecf95) | Mixo.io is an AI website builder creating functional sites from brief ideas, requiring no coding skills. |
 | circleback | Circleback provides AI-powered notes, action items, and automations, updating your CRM, Notion, and more. |
 | Solvely.ai (already listed) |
 | [Stack-ai](https://www.stack-ai.com/?via=zazacattack) | Stack AI is a no-code platform for enterprise AI solutions, offering drag-and-drop tools, pre-built templates, enterprise-grade security, expert support, and flexible pricing plans for various needs. |
@@ -238,7 +237,7 @@
 | [Sanebox.com](https://try.sanebox.com/oxa46l8bxqh3) | SaneBox is an email management service that filters unimportant emails into a separate folder, integrating with IMAP and Exchange Web Services accounts. |
 | [Hix.ai](https://hix.ai/?ref=mdvhztc) | HIX Email Writer simplifies email communication with AI-generated templates, quick "//" commands, customizable tones, and tools for grammar checks, translations, and summarizing. It's available as a freemium service. |
 | [Klart ai](https://www.chatgptservices.app/?ref=dljjwudq) | ChatGPT Services (Klart.ai) enhances email efficiency with NLP and machine learning. Ideal for SMEs and e-commerce. |
-| getresponse | GetResponse is an email marketing and website builder platform with AI tools for email generation and automation. |
+| [getresponse](https://www.getresponse.com/?a=FqhvhFDJAW) | GetResponse is an email marketing and website builder platform with AI tools for email generation and automation. |
 | [hoppycopy](https://www.hoppycopy.co/) | Hoppy Copy crafts high-converting emails quickly using AI, offering templates, editing tools, and competitor insights. |
 
 
@@ -290,10 +289,10 @@
 | manychat | Manychat automates conversations on Instagram, Facebook Messenger, and SMS, enhancing sales and customer support. |
 | abtesting | abtesting.ai optimizes landing pages using AI-driven A/B testing with automated text suggestions. |
 | Tweethunter.io | Tweethunter.io enhances Twitter presence with AI-generated tweets, scheduling, analytics, and engagement tools. |
-| scalenut.com | Scalenut.com is an AI-driven platform for content creation, SEO, and strategy, integrating keyword planning and SEO tracking. |
+| [scalenut](https://scalenut.com/?fpr=zac89) | Scalenut.com is an AI-driven platform for content creation, SEO, and strategy, integrating keyword planning and SEO tracking. |
 | adcreative.ai | AdCreative.ai uses AI to generate and optimize ad creatives, transforming product photos and gathering audience insights. |
-| Browse.ai | Browse AI extracts and monitors website data without coding, supporting lead building and price monitoring. |
-| vidiq.com | VidIQ helps YouTube creators grow by analyzing analytics, suggesting keywords, and offering personalized advice. |
+| [Browse.ai](https://browse.ai/?via=zac-frulloni) | Browse AI extracts and monitors website data without coding, supporting lead building and price monitoring. |
+| [vidiq](vidiq.com/zazacattack) | VidIQ helps YouTube creators grow by analyzing analytics, suggesting keywords, and offering personalized advice. |
 | [upgrow](upgrow.com/?ref=zazacattack) | UpGrow uses AI to help brands, influencers, and agencies grow their Instagram audience organically by boosting visibility and engagement through paid ads, real-human activity, and influencer partnerships. It offers AI-powered growth, live analytics, and secure services without needing account credentials, ensuring compliance with Instagram's policies. |
 | [reviewsonmywebsite](https://reviewsonmywebsite.com/) | ReviewsOnMyWebsite collects, displays, and manages reviews, integrates with platforms, and uses AI for responses. |
 | [Instantly.ai](https://instantly.ai/) | Instantly.ai manages cold outreach email campaigns with automation, AI writing assistance, and analytics. |
@@ -373,14 +372,14 @@
 | [Riverside.fm](https://www.riverside.fm/?utm_campaign=campaign_5&utm_medium=affiliate&utm_source=rewardful&via=zac-frulloni) | Riverside.fm is a comprehensive platform for remote podcast and video recording, offering studio-quality output with features like 4K video, uncompressed audio, AI transcriptions, and seamless editing. It supports over 100 languages, provides social media clips, and ensures reliable recordings even with poor internet. Accessible via browsers and mobile apps, it caters to podcasters and media companies. |
 | Renderlion | RenderLion offers free video generation without upfront costs, creating videos from text and images. Ideal for e-commerce. |
 | [neuralframes](https://www.neuralframes.com/?via=zac) | Neuralframes.com uses AI to create animations and videos from text for music, marketing, and digital art. |
-| Aistudios.com | Aistudios.com is an AI-driven video platform by DeepBrain AI, offering quick video creation with natural voiceovers and avatars. |
+| [Aistudios.com](https://www.aistudios.com/) | Aistudios.com is an AI-driven video platform by DeepBrain AI, offering quick video creation with natural voiceovers and avatars. |
 | [lovo.ai](https://lovo.ai/?ref=zazacattack) | Lovo.ai is an AI platform for creating voiceovers, text-to-speech, voice cloning, and video editing with Genny. |
 | [Fliki.ai](https://fliki.ai/?via=zac-frulloni) | Fliki AI converts text into engaging videos effortlessly. |
 | [invideo.ai](https://invideo.sjv.io/c/5835334/883681/12258) | Invideo AI creates videos from text prompts, offering voice cloning and media editing. |
 | [getmunch](https://www.getmunch.com/?utm_campaign=influencers&utm_medium=website&utm_source=rewardful&via=db299d) | Munch uses AI to create engaging clips from longer videos, enhancing workflow and consistency. |
 | [pictory.ai](https://pictory.ai?ref=promptengineering) | Pictory AI quickly converts text into professional videos. |
 | [podcastle](https://podcastle.ai/?ref=odi1mzi) | Podcastle is an AI-powered podcasting tool for creating, editing, and publishing podcasts. |
-| Fylm.ai | Fylm.ai is a browser-based platform with AI-powered color grading, collaboration, and ACES support. |
+| [Fylm.ai](https://fylm.ai/) | Fylm.ai is a browser-based platform with AI-powered color grading, collaboration, and ACES support. |
 | [Opus](https://www.opus.pro/?via=a1a065) | Opus Clip's AI transforms long videos into shareable short-form clips with virality scores. |
 | maverick | Maverick is an AI-powered video tool for ecommerce, enhancing customer engagement with personalized videos. |
 | [magicslides](https://www.magicslides.app/) | MagicSlides creates professional presentations quickly, supporting Google Slides and PowerPoint. |
