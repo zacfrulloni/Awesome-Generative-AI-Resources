@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/411fec2c-6a50-4efa-b318-f5cb13e25f9e)## Table of Contents
+## Table of Contents
 
 - [Architecture & Design](#architecture--design)
 - [Art & Image Generators](#art--image-generators)
