@@ -233,7 +233,7 @@
 | [Hix.ai](https://hix.ai/?ref=mdvhztc) | HIX Email Writer simplifies email communication with AI-generated templates, quick "//" commands, customizable tones, and tools for grammar checks, translations, and summarizing. It's available as a freemium service. |
 | [Klart ai](https://www.chatgptservices.app/?ref=dljjwudq) | ChatGPT Services (Klart.ai) enhances email efficiency with NLP and machine learning. Ideal for SMEs and e-commerce. |
 | getresponse | GetResponse is an email marketing and website builder platform with AI tools for email generation and automation. |
-| hoppycopy | Hoppy Copy crafts high-converting emails quickly using AI, offering templates, editing tools, and competitor insights. |
+| [hoppycopy](https://www.hoppycopy.co/) | Hoppy Copy crafts high-converting emails quickly using AI, offering templates, editing tools, and competitor insights. |
 
 
 ## HR, Legal, & Resumes
@@ -324,7 +324,7 @@
 | [Paraphrasetool.com](https://paraphrasetool.com/?via=zazacattack) | Paraphrasingtool.ai offers a free, advanced AI tool for rephrasing text, enhancing fluency, vocabulary, and tone. Ideal for students and writers, it supports unlimited text and integrates with popular platforms. |
 | [monica](https://monica.im?ref=mmrizme) | Monica.im is an AI assistant offering text generation, translation, and search tools. |
 | [Netus ai](https://netus.ai/?fpr=zac15) | NetusAI is an AI-driven paraphraser that makes text undetectable by AI detectors, enhancing productivity in Google Docs, Chrome, and iOS browsers. Free trial available. |
-| Yomu ai | Yomu AI is ideal for students and academics, offering AI autocomplete, citation, and plagiarism checks. |
+| [Yomu ai](https://www.yomu.ai/) | Yomu AI is ideal for students and academics, offering AI autocomplete, citation, and plagiarism checks. |
 | [stealthgpt](https://www.stealthgpt.ai/) | StealthGPT generates human-like text that evades AI detection. |
 | bertha.ai (already listed in Content Creation & SEO due to writing focus, but belongs here too) |
 
