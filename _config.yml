@@ -1,36 +1,26 @@
-# title: Awesome Generative AI Resources
-description: Your ultimate hub for Generative AI resources, tools, and guides.
-baseurl: "" # Leave this blank for a custom domain
-url: "http://aitoolslikechatgpt.com"
+# Site Metadata
+title: Prompt Engineering Holy Grail
+description: A comprehensive resource for prompt engineering best practices and techniques.
+url: "https://github.com/zacfrulloni/Awesome-Generative-AI-Resources/"
+baseurl: "/Awesome-Generative-AI-Resources"
 
-# Theme settings
-remote_theme: poole/hyde
+author:
+  name: Zac Frulloni
+  email: zacfrull@hotmail.com
+
+# Theme Configuration
+theme: minima
+
+# Plugins (Optional but Recommended)
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
-  - jekyll-remote-theme
-# Navigation
-navigation:
-  - title: Home
-    url: /
-  - title: About
-    url: /about/
-  - title: Resources
-    url: /resources/
+  - jekyll-theme-minima
 
-# Social links
-social_links:
-  - name: GitHub
-    url: https://github.com/zacfrulloni/Awesome-Generative-AI-Resources
-  - name: BuyMeACoffee
-    url: https://www.buymeacoffee.com/zazacattack
-
-# Build settings
-markdown: kramdown
-highlighter: rouge
-
-# Additional options
-permalink: pretty
-show_excerpts: true # If you want excerpts on the homepage for posts
-# google_analytics: "YOUR_GOOGLE_ANALYTICS_TRACKING_ID" # Add your tracking ID here if needed
+# Exclude Files from Processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
