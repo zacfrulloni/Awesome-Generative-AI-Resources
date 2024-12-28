@@ -1,415 +1,355 @@
----
-layout: default
-title: Prompt Engineering Holy Grail
----
-
-Welcome to the Prompt Engineering Hub! This repository is a curated resource for anyone interested in learning and advancing prompt engineering techniques.
-
 ## Table of Contents
 
-1. [Introduction](#1-introduction)
-   - [Overview of Prompt Engineering](#overview-of-prompt-engineering)
-   - [Purpose of This Repository](#purpose-of-this-repository)
-2. [Learning Resources](#2-learning-resources)
-   - [Free Tutorials, Videos & Guides](#free-tutorials-videos--guides)
-   - [Additional Guides and Repositories](#additional-guides-and-repositories)
-   - [Books and Reference Materials](#books-and-reference-materials)
-   - [Essential Books on Prompt Engineering and ChatGPT](#essential-books-on-prompt-engineering-and-chatgpt)
-   - [YouTube Videos on Prompt Engineering](#youtube-videos-on-prompt-engineering)
-   - [YouTube Channels Dedicated to AI & Prompt Engineering](#youtube-channels-dedicated-to-ai--prompt-engineering)
-   - [Newsletters and Blogs](#newsletters-and-blogs)
-   - [Comprehensive List of Online Courses on Prompt Engineering](#comprehensive-list-of-online-courses-on-prompt-engineering)
-3. [Prompt Engineering Tools](#3-prompt-engineering-tools)
-   - [Prompt Marketplaces](#prompt-marketplaces)
-   - [Prompt Generation Tools](#prompt-generation-tools)
-   - [Prompt Management Platforms](#prompt-management-platforms)
-   - [Prompt Testing and Experimentation](#prompt-testing-and-experimentation)
-   - [Prompt Crafting Libraries](#prompt-crafting-libraries)
-   - [Other](#other)
-4. [Prompt Libraries, Collections & Datasets](#4-prompt-libraries-collections--datasets)
-   - [Prompt Libraries](#prompt-libraries)
-   - [Prompt Collections](#prompt-collections)
-   - [GPT Stores and Libraries](#gpt-stores-and-libraries)
-   - [Datasets](#datasets)
-5. [Prompt Engineering Communities](#5-prompt-engineering-communities)
-   - [Social Media Groups for Prompt Engineering](#social-media-groups-for-prompt-engineering)
-     - [Reddit Communities](#reddit-communities)
-     - [Facebook Communities](#facebook-communities)
-   - [Discord Communities for Prompt Engineering](#discord-communities-for-prompt-engineering)
-   - [Other Prompt Engineering Communities and Forums](#other-prompt-engineering-communities-and-forums)
-6. [Freelance & Job Opportunities](#6-freelance--job-opportunities)
-   - [Job Websites for Prompt Engineers](#job-websites-for-prompt-engineers)
-   - [Freelance Platforms](#freelance-platforms)
-7. [Contributing & Code of Conduct](#7-contributing--code-of-conduct)
-8. [Support My Work](#8-support-my-work)
-9. [Join Our Community on Discord](#9-join-our-community-on-discord)
-10. [License](#10-license)
-11. [Disclosure](#11-disclosure)
-12. [Contact Me](#12-contact-me)
-
-## 1. Introduction
-
-Welcome to the **Prompt Engineering Hub**! This repository is a curated resource for all things related to prompt engineering, from beginner fundamentals to advanced techniques.
-
-### Overview of Prompt Engineering
-Prompt engineering involves crafting effective prompts to guide AI models like GPT-4, helping them generate accurate, context-aware outputs. As AI applications grow across industries, mastering prompt engineering unlocks powerful use cases in areas like text generation, sentiment analysis, translation, and more.
-
-### Purpose of This Repository
-This repo gathers essential resources, tools, templates, and best practices to support anyone learning or working in prompt engineering. Whether you’re just starting or have experience, you’ll find structured learning paths, advanced techniques, and real-world examples.
-
-Each section is crafted to support your growth in prompt engineering, making it easy to find the resources you need. Explore, learn, and feel free to contribute!
-
-## 2. Learning Resources
-
-### Free Tutorials, Videos & Guides
-
-1. **Learn Prompting** - Overview of Prompt Engineering and various techniques.
-   - [A Complete Guide to Meta Prompting](https://www.prompthub.us/blog/a-complete-guide-to-meta-prompting#what-is-meta-prompting?) - Meta prompting is a prompt engineering method that uses large language models (LLMs) to create and refine prompts.
-2. **Best Practices for Prompt Engineering with the OpenAI API** - OpenAI guide on best practices for prompt engineering.
-   - [Brex's Prompt Engineering Guide](https://github.com/brexhq/prompt-engineering) - Tips and tricks for working with Large Language Models like OpenAI's GPT-4.
-   - [Prompt Engineering Tutorial – Master ChatGPT and LLM Responses](https://www.youtube.com/watch?v=_ZvnD73m40o)
-3. **Awesome GPT Super Prompting** - Collection of advanced techniques, including jailbreaks, prompt injection, and prompt security.
-   - [Awesome GPT Super Prompting](https://github.com/CyberAlbSecOP/Awesome_GPT_Super_Prompting)
-4. **Microsoft Prompt Engineering Fundamentals** - Comprehensive fundamentals and advanced prompt engineering from Microsoft.
-   - [Microsoft - Prompt Engineering Fundamentals](https://github.com/microsoft/generative-ai-for-beginners/tree/main/04-prompt-engineering-fundamentals)
-   - [Microsoft - Advanced Prompts](https://github.com/microsoft/generative-ai-for-beginners/tree/main/05-advanced-prompts)
-5. **Learning Prompt** - Free prompt engineering course covering ChatGPT and Midjourney tutorials.
-   - [Learning Prompt on GitHub](https://github.com/thinkingjimmy/Learning-Prompt)
-6. **YouTube Video Tutorials**
-   - [Master the Perfect ChatGPT Prompt Formula (8 minutes)](https://www.youtube.com/watch?v=jC4v5AS4RIM)
-   - [AI Prompt Engineering: A Deep Dive (Anthropic)](https://www.youtube.com/watch?v=T9aRN5JkmL8)
-   - [ChatGPT Prompt Engineering Course (16 free YouTube episodes)](https://www.youtube.com/watch?v=mBYu5NoXBcs&list=PLaWSKUwEzmonq85t2rHwZfuEXotqEnTyR)
-   - [Learn Prompt Engineering: Full Beginner Crash Course (5 HOURS)](https://www.youtube.com/watch?v=LWiMwhDZ9as)
-   - [ChatGPT Prompt Engineering (55 free YouTube episodes)](https://www.youtube.com/watch?v=ylEu4fz4eU8&list=PLtPgUfajvh_Z_utkISrRk9tIxvnaR17_X)
-   - [Learn Prompt Engineering for ChatGPT](https://www.youtube.com/watch?v=2sEujkZ79E4)
-
-### Additional Guides and Repositories
-
-7. **Prompt-Engineering-Guide** - Comprehensive guide covering the latest papers, resources, and prompt engineering techniques.
-   - [Prompt-Engineering-Guide by dair-ai](https://github.com/dair-ai/Prompt-Engineering-Guide?tab=readme-ov-file)
-8. **Prompt Engineering Techniques** - Repository focused on advanced prompt engineering methods.
-   - [Prompt Engineering Techniques by Nir Diamant](https://github.com/NirDiamant/Prompt_Engineering?tab=readme-ov-file)
-
-### Books and Reference Materials
-
-9. [**DALLE Prompt Book**](https://dallery.gallery/the-dalle-2-prompt-book/) - Guide on crafting prompts specifically for image generation models like DALLE.
-10. [**OpenAI Cookbook**](https://github.com/openai/openai-cookbook) - Collection of OpenAI's best practices and examples for using language models effectively.
-11. [**Prompt Engineering by Microsoft**](https://microsoft.github.io/prompt-engineering/) - Resources and guides by Microsoft on prompt engineering fundamentals.
-12. [**Topic Page Research papers**](https://topics-beta.apps.semanticscholar.org/topic/20102634420) - Research papers that discuss prompt engineering techniques.
-
-## Comprehensive List of Online Courses on Prompt Engineering
-
-| **Course Name**                                                                                                     | 🏫 **Platform**      | ⭐ **Ratings/Reviews**            | ⏰ **Duration**                  | 💰 **Cost**   | 🎓 **Certification** |
-|------------------------------------------------------------------------------------------------------------------------|-----------------------|-----------------------------------|----------------------------------|---------------|-----------------------|
-| [Understanding Prompt Engineering](https://www.datacamp.com/courses/understanding-prompt-engineering)                  | DataCamp             | ⭐ 4.4 (55 reviews)               | n/a                              | n/a           | ✔️ Yes               |
-| [Introduction to ChatGPT](https://www.datacamp.com/courses/introduction-to-chatgpt)                                    | DataCamp             | ⭐ 4.3 (295 reviews)              | n/a                              | n/a           | ✔️ Yes               |
-| [Large Language Models (LLMs) & Text Generation](https://www.udacity.com/course/large-language-models-and-text-generation--cd13318#plans) | Udacity | n/a                           | n/a                              | n/a           | ✔️ Yes               |
-| [Learn How to Use ChatGPT](https://www.codecademy.com/learn/intro-to-chatgpt)                                          | Codecademy           | ⭐ 4.4 (3536 reviews)             | 1 hour (Beginner)                | n/a           | ✔️ Yes               |
-| [Prompt Engineering for Marketing](https://www.codecademy.com/learn/prompt-engineering-for-marketing)                  | Codecademy           | ⭐ 4.4 (227 reviews)              | 1 hour (Beginner)                | n/a           | ✔️ Yes               |
-| [Prompt Engineering and Advanced ChatGPT](https://edx.sjv.io/QjOkLx) | edX | ⭐ 4.2 (148 ratings) | n/a | £31 | ✔️ Yes |
-| [IBM: Introduction to Prompt Engineering](https://edx.sjv.io/RGyerR) | IBM on edX | ⭐ 4.4 (217 ratings) | n/a | £38 | ✔️ Yes |
-| [Generative AI for Everyone](https://edx.sjv.io/7amY6d) | IBM on edX | n/a                       | 4 months (1-3 hrs/wk)             | £171         | ✔️ Yes               |
-| [Generative AI Fundamentals](https://edx.sjv.io/qznPKN) | IBM on edX | n/a                       | 5 months (2-4 hrs/wk)             | £1,156       | ✔️ Yes               |
-| [IBM Applied AI Developer](https://edx.sjv.io/jeWq76) | IBM on edX | n/a                       | 6 months (2-4 hrs/wk)             | £329         | ✔️ Yes               |
-| [Large Language Model Operations (LLMOps)](https://edx.sjv.io/aO1Eoo) | edX | n/a | 7 months (3-6 hrs/wk)           | £1,910       | ✔️ Yes               |
-| [Prompt Engineering Specialization](https://www.coursera.org/specializations/prompt-engineering)                              | Coursera      | ⭐ 4.8 (1862 reviews)       | 1 month (10 hrs/wk)               | n/a         | ✔️ Yes               |
-| [Prompt Engineering for Law Specialization](https://www.coursera.org/specializations/prompt-engineering-for-law)               | Coursera      | ⭐ 4.8 (181 reviews)        | 1 month (10 hrs/wk)               | n/a         | ✔️ Yes               |
-| [Prompt Engineering for Educators Specialization](https://www.coursera.org/specializations/prompt-engineering-for-educators)   | Coursera      | ⭐ 4.8 (97 reviews)         | 1 month (10 hrs/wk)               | n/a         | ✔️ Yes               |
-| [Prompt Engineering for ChatGPT](https://www.coursera.org/learn/prompt-engineering)                                            | Coursera      | ⭐ 4.8 (4042 reviews)       | n/a                               | n/a         | ✔️ Yes               |
-| [Generative AI: Prompt Engineering Basics](https://www.coursera.org/learn/generative-ai-prompt-engineering-for-everyone)       | Coursera      | ⭐ 4.8 (2095 reviews)       | n/a                               | n/a         | ✔️ Yes               |
-| [ChatGPT Prompt Engineering for Developers](https://www.coursera.org/projects/chatgpt-prompt-engineering-for-developers-project) | Coursera | ⭐ 4.7 (1086 reviews)     | n/a                               | n/a         | ✔️ Yes               |
-| [The Complete Prompt Engineering for AI Bootcamp (2024)](https://www.udemy.com/course/prompt-engineering-for-ai/?couponCode=LEARNNOWPLANS) | Udemy | ⭐ 4.5 (49378 reviews)   | 20.5 hours                        | £54.99      | ✔️ Yes               |
-| [ChatGPT Complete Guide: Learn Generative AI, ChatGPT & More](https://www.udemy.com/course/complete-ai-guide/?couponCode=LEARNNOWPLANS) | Udemy | ⭐ 4.5 (39995 reviews) | 26.5 hours                        | £54.99      | ✔️ Yes               |
-| [Complete Prompt Engineering Practical Course](https://www.udemy.com/course/complete-prompt-engineering-practical-course-cpepc/?couponCode=LEARNNOWPLANS) | Udemy | ⭐ 4.6 (977 reviews)   | 8 hours                           | £39.99      | ✔️ Yes               |
-| [ChatGPT Masterclass: The Guide to AI & Prompt Engineering](https://www.udemy.com/course/chatgpt-ai-masterclass/?couponCode=LEARNNOWPLANS) | Udemy | ⭐ 4.7 (3759 reviews)   | 16 hours                          | £59.99      | ✔️ Yes               |
-| [All of AI: ChatGPT, Midjourney, Stable Diffusion & App Dev](https://www.udemy.com/course/all-of-ai-chatgpt-midjourney-stable-diffusion-app-dev/?couponCode=LEARNNOWPLANS) | Udemy | ⭐ 4.7 (1124 reviews) | 36.5 hours                        | £59.99      | ✔️ Yes               |
-| [Complete ChatGPT Prompt Engineering Course](https://www.udemy.com/course/complete-chatgpt-prompt-engineering-course/?couponCode=LEARNNOWPLANS) | Udemy | ⭐ 4.6 (373 reviews)    | 10.5 hours                        | £19.99      | ✔️ Yes               |
-| [ChatGPT-4 Prompt Engineering: ChatGPT, Generative AI & LLM](https://www.udemy.com/course/chatgpt-pro-expert-prompt-engineering-strategies-udemy-course-bootcamp/?couponCode=LEARNNOWPLANS) | Udemy | ⭐ 4.4 (556 reviews) | 4 hours                           | £44.99      | ✔️ Yes               |
-| [Open-source LLMs: Uncensored & secure AI locally with RAG](https://www.udemy.com/course/open-source-llms-uncensored-secure-ai-locally-with-rag/?couponCode=LEARNNOWPLANS) | Udemy | ⭐ 4.8 (475 reviews)    | 10 hours                          | £54.99      | ✔️ Yes               |
-| [ChatGPT Complete Course - Prompt Engineering for ChatGPT](https://www.udemy.com/course/chat-gpt/?couponCode=LEARNNOWPLANS) | Udemy | ⭐ 4.4 (10082 reviews)  | 5.5 hours                         | £29.99      | ✔️ Yes               |
-| [ChatGPT and GPT-4 LLM Guide- Prompt Engineering for Everyone](https://www.udemy.com/course/prompt-engineering-for-everybody/?couponCode=LEARNNOWPLANS) | Udemy | ⭐ 4.4 (654 reviews)   | 3 hours                           | £49.99      | ✔️ Yes               |
-| [Prompt Engineering for Data Analysis Python, Pandas, ChatGPT](https://www.udemy.com/course/chatgptandpython/?couponCode=LEARNNOWPLANS) | Udemy | ⭐ 4.6 (680 reviews)   | 10.5 hours                        | £49.99      | ✔️ Yes               |
-| [Prompt Engineering with ChatGPT 4 & Midjourney 2000+ prompts](https://www.udemy.com/course/gptcourse/?couponCode=LEARNNOWPLANS) | Udemy | ⭐ 4.4 (1350 reviews)  | 22.5 hours                        | £54.99      | ✔️ Yes               |
-| [Ultimate ChatGPT Course for Beginners 2024](https://www.udemy.com/course/ultimate-chatgpt-course-for-beginners/?couponCode=LEARNNOWPLANS) | Udemy | ⭐ 4.7 (1308 reviews)  | n/a                               | £19.99      | ✔️ Yes               |
-| [Digital Marketing Guide - 26 Courses in 1](https://www.udemy.com/course/digital-marketing-guide/?couponCode=LEARNNOWPLANS) | Udemy | ⭐ 4.6 (38119 reviews) | 72 hours                          | £199.99     | ✔️ Yes               |
-| [Master Generative AI: Automate Content Effortlessly with AI](https://www.udemy.com/course/ai-content-generation/?couponCode=LEARNNOWPLANS) | Udemy | ⭐ 4.4 (5081 reviews)  | 11 hours                          | £39.99      | ✔️ Yes               |
-| [How to ChatGPT: Master the Art of Prompt Engineering](https://www.udemy.com/course/chatgpt-a-master-guide-for-professionals/?couponCode=LEARNNOWPLANS) | Udemy | ⭐ 4.4 (19634 reviews) | 2.5 hours                         | £29.99      | ✔️ Yes               |
-| [LangChain- Develop LLM powered applications with LangChain](https://www.udemy.com/course/langchain/?couponCode=LEARNNOWPLANS) | Udemy | ⭐ 4.6 (19450 reviews) | 9.5 hours                         | £54.99      | ✔️ Yes               |
-
-## Essential Books on Prompt Engineering and ChatGPT
-
-| 📘 **Book Title**                                                                                                                                | 🌍 **Link**                                                                                                                                          | ⭐ **Rating/Reviews**          | 💵 **Price**    | 📱 **Format** |
-|--------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------|-----------------|---------------|
-| **[Prompt Engineering and ChatGPT: How to Easily 10X Your Productivity, Creativity, and Make More Money Without Working Harder](https://www.amazon.co.uk/Prompt-Engineering-ChatGPT-Productivity-Creativity-ebook/dp/B0CP3CKHMN/ref=sr_1_16?crid=38L6HXGTLABQM&tag=zacfrulloni01-21)** | [Amazon UK](https://www.amazon.co.uk/Prompt-Engineering-ChatGPT-Productivity-Creativity-ebook/dp/B0CP3CKHMN&tag=zacfrulloni01-21) | ⭐ 3.9 (84 reviews)            | £7.61           | Kindle        |
-| **[The Only ChatGPT Prompts Book You’ll Ever Need](https://www.amazon.co.uk/Only-ChatGPT-Prompts-Book-Youll/dp/B0CWB7KYW9/ref=sr_1_17?crid=38L6HXGTLABQM&tag=zacfrulloni01-21)** | [Amazon UK](https://www.amazon.co.uk/Only-ChatGPT-Prompts-Book-Youll/dp/B0CWB7KYW9&tag=zacfrulloni01-21)                            | ⭐ 4.1 (78 ratings)             | £7.97           | Kindle        |
-| **[ChatGPT for Beginners Made Easy: Master Prompts, Boost Productivity, and Cash In](https://www.amazon.co.uk/ChatGPT-Beginners-Made-Easy-Conversational/dp/B0CQ7SSRFP/ref=sr_1_1_sspa?crid=38L6HXGTLABQM&tag=zacfrulloni01-21)** | [Amazon UK](https://www.amazon.co.uk/ChatGPT-Beginners-Made-Easy-Conversational/dp/B0CQ7SSRFP&tag=zacfrulloni01-21)                 | ⭐ 4.0 (62 reviews)             | £5.99           | Kindle        |
-| **[Prompt Engineering for Generative AI: Future-Proof Inputs for Reliable AI Outputs](https://www.amazon.co.uk/Prompt-Engineering-Generative-AI-Future-Proof/dp/109815343X/ref=sr_1_3?crid=38L6HXGTLABQM&tag=zacfrulloni01-21)** | [Amazon UK](https://www.amazon.co.uk/Prompt-Engineering-Generative-AI-Future-Proof/dp/109815343X&tag=zacfrulloni01-21)              | ⭐ 4.5 (30 reviews)             | £46.29          | Kindle        |
-| **[The Art of Prompt Engineering with chatGPT: A Hands-On Guide](https://www.amazon.co.uk/Art-Prompt-Engineering-chatGPT-Hands/dp/1739296710/ref=sr_1_6?crid=38L6HXGTLABQM&tag=zacfrulloni01-21)** | [Amazon UK](https://www.amazon.co.uk/Art-Prompt-Engineering-chatGPT-Hands/dp/1739296710&tag=zacfrulloni01-21)                       | ⭐ 4.1 (232 ratings)            | £9.99           | Kindle        |
-| **[The Art of Prompt Engineering with ChatGPT: Accessible Edition](https://www.amazon.co.uk/Art-Prompt-Engineering-ChatGPT-Accessible-ebook/dp/B0BZ4T68Q4/ref=sr_1_11?crid=38L6HXGTLABQM&tag=zacfrulloni01-21)** | [Amazon UK](https://www.amazon.co.uk/Art-Prompt-Engineering-ChatGPT-Accessible-ebook/dp/B0BZ4T68Q4&tag=zacfrulloni01-21)            | ⭐ 4.4 (106 reviews)            | £9.99           | Kindle        |
-| **[The Ultimate Guide to ChatGPT: A Beginner's Handbook on Prompt Engineering](https://www.amazon.co.uk/Ultimate-Guide-ChatGPT-understanding-intelligence/dp/B0C2RRQDMV/ref=sr_1_13_sspa?crid=38L6HXGTLABQM&tag=zacfrulloni01-21)** | [Amazon UK](https://www.amazon.co.uk/Ultimate-Guide-ChatGPT-understanding-intelligence/dp/B0C2RRQDMV&tag=zacfrulloni01-21)          | ⭐ 4.2 (112 reviews)            | £7.99           | Kindle        |
-
-## YouTube Videos on Prompt Engineering
-
-| **Video Title** | **Link** |
-|-----------------|----------|
-| **EfficientML.ai Lecture 20: Efficient Fine-tuning and Prompt Engineering (MIT 6.5940, Fall 2023)** | [Watch on YouTube](https://www.youtube.com/watch?v=vOPwwRCZ8q8) |
-| **Prompt-Engineering for Open-Source LLMs** | [Watch on YouTube](https://www.youtube.com/watch?v=f32dc5M2Mn0) |
-| **Advanced ChatGPT Prompt Engineering** | [Watch on YouTube](https://www.youtube.com/watch?v=bBiTR_1sEmI) |
-| **ChatGPT: 5 Prompt Engineering Secrets For Beginners** | [Watch on YouTube](https://www.youtube.com/watch?v=2zg3V66-Fzs) |
-| **ChatGPT Guide: 10x Your Results with Better Prompts** | [Watch on YouTube](https://www.youtube.com/watch?v=os-JX1ZQwIA) |
-| **Promptbreeder: Self-Referential Self-Improvement Via Prompt Evolution (Paper Explained)** | [Watch on Youtube](https://www.youtube.com/watch?v=tkX0EfNl4Fc) |
-
-## YouTube Channels Dedicated to AI & Prompt Engineering
-
-| **Channel Name** | **Link** |
-|------------------|----------|
-| **Prompt Engineering** | [@engineerprompt](https://www.youtube.com/@engineerprompt) |
-| **They Call Me Hoz** | [@theycallmehoz](https://www.youtube.com/@theycallmehoz) |
-| **Jeff Su** | [@JeffSu](https://www.youtube.com/@JeffSu) |
-| **AI Master** | [@iamAImaster](https://www.youtube.com/@iamAImaster) |
-| **AssemblyAI** | [@AssemblyAI](https://www.youtube.com/@AssemblyAI) |
-| **Hasan Aboul Hasan** | [@hasanaboulhasan](https://www.youtube.com/@hasanaboulhasan) |
-| **AI Foundations** | [@ai-foundations](https://www.youtube.com/@ai-foundations) |
-| **Prompt Engineer** | [@PromptEngineer48](https://www.youtube.com/@PromptEngineer48) |
-| **All About AI** | [@AllAboutAI](https://www.youtube.com/@AllAboutAI) |
-| **The AI Advantage** | [@aiadvantage](https://www.youtube.com/@aiadvantage) |
-| **Yannic Kilcher** | [@YannicKilcher](https://www.youtube.com/@YannicKilcher) |
-| **PromptHub** | [@PromptHub](https://www.youtube.com/@PromptHub_AI) |
-
-## Newsletters and Blogs
-
-| **Channel Name**                     | **Description**                                            | **Link**                                |
-|--------------------------------------|------------------------------------------------------------|-----------------------------------------|
-| **The Prompt Engineering Substack**  | Educational articles on prompt engineering techniques, tools, and best practices. | [Visit on Substack](https://prompthub.substack.com/) |
-| **PromptHub Blog**                   | In-depth articles, guides, and insights on prompt engineering. | [Visit Blog](https://www.prompthub.us/blog) |
-
-## 3. Prompt Engineering Tools
-
-## Prompt Marketplaces
-
-| **Tool**              | **Link** |
-|-----------------------|----------|
-| **PromptBase**        | [PromptBase](https://promptbase.com/) |
-
-## Prompt Generation Tools
-
-| **Tool**                     | **Link** |
-|------------------------------|----------|
-| **YiVal**                    | [YiVal](https://github.com/YiVal/YiVal) |
-| **GPT Prompt Engineer**      | [GPT Prompt Engineer](https://github.com/mshumer/gpt-prompt-engineer) |
-| **Promptify**                | [Promptify](https://github.com/promptslab/Promptify) |
-| **HuggingFace ChatGPT Prompt Generator** | [HuggingFace ChatGPT Prompt Generator](https://huggingface.co/spaces/merve/ChatGPT-prompt-generator) |
-| **PromptHub Prompt Generator** | [PromptHub Prompt Generator](https://www.prompthub.us/features/prompt-generator) |
-
-
-## Prompt Management Platforms
-
-| **Tool**                   | **Description** | **Link** |
-|----------------------------|-----------------|----------|
-| **Puzzlet**               | Streamline your GenAI workflows with Git-Based prompt management, detailed traceability, and actionable metrics. | [Puzzlet](https://www.puzzlet.ai) |
-| **Opik**                   | Open-source end-to-end LLM development platform | [Opik](https://github.com/comet-ml/opik) |
-| **Agenta**                 | All-in-one LLM developer platform with prompt management | [Agenta](https://github.com/agenta-ai/agenta) |
-| **PromptInject**           | Framework for modular prompts and adversarial prompt robustness testing | [PromptInject](https://github.com/agencyenterprise/PromptInject) |
-| **Langbear**               | Open-source AI prompt management platform | [Langbear](https://langbear.runbear.io/introduction) |
-| **Agentic Workers**        | One Click Advanced ChatGPT Workflows  | [AgenticWorkers](https://agenticworkers.com/) |
-| **PromptHub**              | Test, collaborate, version, and deploy prompts, from a single place | [PromptHub](https://www.prompthub.us/) |
-
-
-## Prompt Testing and Experimentation
-
-| **Tool**                   | **Description** | **Link** |
-|----------------------------|-----------------|----------|
-| **BetterPrompt**           | Test suite for LLM prompts | [BetterPrompt](https://github.com/stjordanis/betterprompt) |
-| **OpenPrompt**             | Open-Source framework for prompt-learning | [OpenPrompt](https://github.com/thunlp/OpenPrompt) |
-| **Guidance**               | Programming paradigm for controlling LLM output | [Guidance](https://github.com/guidance-ai/guidance) |
-| **Prompt Tools**           | Tools for prompt testing and experimentation | [Prompt Tools](https://github.com/hegelai/prompttools) |
-| **ThoughtSource**          | Resource for chain-of-thought reasoning tools | [ThoughtSource](https://github.com/OpenBioLink/ThoughtSource) |
-| **ChatGPT Queue**          | Tool for Bulk Prompting and Prompt Chaining | [ChatGPT Queue](https://chromewebstore.google.com/detail/chatgpt-queue-save-time-w/iabnajjakkfbclflgaghociafnjclbem?hl=en&authuser=0) |
-
-
-## Prompt Crafting Libraries
-
-| **Tool**                   | **Description** | **Link** |
-|----------------------------|-----------------|----------|
-| **Prompt Engine**          | Library for crafting prompts for large language models | [Prompt Engine](https://github.com/microsoft/prompt-engine) |
-| **PromptDX**          | A declarative, extensible, and composable approach for developing LLM prompts using Markdown and JSX. | [PromptDX](https://github.com/puzzlet-ai/promptdx) |
-| **ClickPrompt**            | Tool for viewing, sharing, and running prompts with one click | [ClickPrompt](https://github.com/prompt-engineering/click-prompt) |
-| **Outlines**               | Structured text generation toolkit | [Outlines](https://github.com/dottxt-ai/outlines) |
-| **PromptSource**           | Toolkit for creating and sharing natural language prompts | [PromptSource](https://github.com/bigscience-workshop/promptsource) |
-| **PromptMetheus**          | One-shot prompt engineering toolkit | [PromptMetheus](https://promptmetheus.com/) |
-
-## Other
-
-| **Tool**                   | **Description** | **Link** |
-|----------------------------|-----------------|----------|
-| **PromptKnit**             | Playground for prompt designers | [PromptKnit](https://promptknit.com/) |
-| **Promptotype**            | Tool for developing, testing, and monitoring structured LLM tasks | [Promptotype](https://www.promptotype.io/) |
-| **OpenICL**                | Framework for in-context learning research and prototyping | [OpenICL](https://github.com/Shark-NLP/OpenICL) |
-| **Optimus Prompt AI**      | Experiment tracking and human annotation platform for LLM applications | [Optimus Prompt AI](https://www.optimusprompt.ai/) |
-
-## 4.	Prompt Libraries, Collections & Datasets
-
-## Prompt Libraries
-| **Library**                   | **Description** | **Link** |
-|-------------------------------|-----------------|----------|
-| **ai-boost/awesome-prompts**  | Curated list of ChatGPT prompts with top-rated GPTs. Includes prompt engineering, attack & protection techniques, and advanced papers. | [ai-boost/awesome-prompts](https://github.com/ai-boost/awesome-prompts) |
-| **B3o/GPTS-Prompt-Collection**| Extensive prompt collection for GPT models. | [B3o/GPTS-Prompt-Collection](https://github.com/B3o/GPTS-Prompt-Collection) |
-| **abilzerian/LLM-Prompt-Library** | Advanced code and text manipulation prompts for various LLMs, including GPT-4o, Claude, and Llama3. | [abilzerian/LLM-Prompt-Library](https://github.com/abilzerian/LLM-Prompt-Library) |
-| **yunwei37/prompt-hacker-collections** | Prompt hacking and defense, with injection and reverse engineering examples. | [yunwei37/prompt-hacker-collections](https://github.com/yunwei37/prompt-hacker-collections) |
-| **alphatrait/100000-ai-prompts-by-contentifyai** | Extensive collection of 100,000+ prompts for ChatGPT, covering various topics like business and entertainment. | [alphatrait/100000-ai-prompts-by-contentifyai](https://github.com/alphatrait/100000-ai-prompts-by-contentifyai) |
-| **DummyKitty/Cyber-Security-chatGPT-prompt** | Security-focused ChatGPT prompt library. | [DummyKitty/Cyber-Security-chatGPT-prompt](https://github.com/DummyKitty/Cyber-Security-chatGPT-prompt) |
-
-## Prompt Collections
-
-| **Collection**                | **Description** | **Link** |
-|-------------------------------|-----------------|----------|
-| **FlowGPT**                   | Largest open-source community for sharing prompts. | [FlowGPT](https://flowgpt.com) |
-| **awesomegptprompts.com**     | Hundreds of the best curated ChatGPT prompts. | [awesomegptprompts.com](https://awesomegptprompts.com) |
-| **fka/awesome-chatgpt-prompts** | Dataset with curated ChatGPT prompts for enhanced usage. | [fka/awesome-chatgpt-prompts](https://github.com/fka/awesome-chatgpt-prompts) |
-| **PromptHub**                 | A variety of the latest prompt engineering templates. | [PromptHub](https://app.prompthub.us/templates) |
-| **Snack Prompt**              | Collection of prompts with Chrome extension for easy access. | [Snack Prompt](https://snackprompt.com) |
-| **Prompt Search**             | Search engine for locating AI prompts. | [Prompt Search](https://promptsearch.com) |
-| **The Prompt Index**          | Curated index with a wide variety of prompts. | [The Prompt Index](https://thepromptindex.com) |
-| **PromptDen**                 | Platform with thousands of prompts for text and image generation, with profile features for prompt engineers. | [PromptDen](https://promptden.com) |
-| **PromptChains**              | Prompt chains maximize intelligence and results when using LLMs. | [PromptChains](https://github.com/MIATECHPARTNERS/PromptChains) |
-
-## GPT Stores and Libraries
-
-| **Store/Library**             | **Description** | **Link** |
-|-------------------------------|-----------------|----------|
-| **Awesome GPT Store**         | Comprehensive GPT store with major public GPTs. | [Awesome GPT Store](https://github.com/Anil-matcha/Awesome-GPT-Store) |
-| **Awesome GPTs Big List**     | A large list of notable GPTs available publicly. | [Awesome GPTs Big List](https://github.com/friuns2/Awesome-GPTs-Big-List) |
-| **BestGPTs**                  | Top-ranked OpenAI GPTs for various applications. | [BestGPTs](https://github.com/AgentOps-AI/BestGPTs) |
-| **Awesome GPT Agents**        | Curated list of GPT agents, particularly for cybersecurity. | [Awesome GPT Agents](https://github.com/fr0gger/Awesome-GPT-Agents) |
-
-## Datasets
-
-| **Dataset Name**                        | **Description**                                                                                                                                                                                                                                     | **Link** |
-|-----------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|
-| **P3 (Public Pool of Prompts)**         | A collection of prompted English datasets covering a diverse set of NLP tasks.                                                                                                                              | [HuggingFace](https://huggingface.co/datasets/bigscience/P3) |
-| **Awesome ChatGPT Prompts**             | Repository includes curated ChatGPT prompts to enhance interactions.                                                                                                                                         | [GitHub](https://github.com/f/awesome-chatgpt-prompts) |
-| **Red Team Attempts**                   | A dataset of "red team" attempts for adversarial testing on models, created by Anthropic for testing potential harmful outputs.                                                                            | [GitHub](https://github.com/anthropics/hh-rlhf/tree/master/red-team-attempts) |
-| **DiffusionDB**                         | A large-scale text-to-image prompt dataset, providing a gallery of prompts based on Stable Diffusion models.                                                                                                | [GitHub](https://github.com/poloclub/diffusiondb) |
-| **Real Toxicity Prompts**               | A dataset of 100k sentence snippets from the web for research on reducing toxic degeneration in neural models.                                                                                              | [HuggingFace](https://huggingface.co/datasets/allenai/real-toxicity-prompts) |
-| **Stable Diffusion Prompts**            | A set of about 80,000 prompts from "Lexica.art" for Stable Diffusion. Data extraction was challenging due to API limitations.                                                                              | [HuggingFace](https://huggingface.co/datasets/Gustavosta/Stable-Diffusion-Prompts) |
-
-## 5. Prompt Engineering Communities
-
-## Social Media Groups for Prompt Engineering
-
-## Reddit Communities
-
-| **Community Name**            | **Description** | **Link** |
-|-------------------------------|-----------------|----------|
-| r/ChatGPTJailbreak            | Community dedicated to ChatGPT jailbreak techniques. | [r/ChatGPTJailbreak](https://www.reddit.com/r/ChatGPTJailbreak/) |
-| r/ChatGPTPromptGenius         | Subreddit focused on sharing and discovering GPT prompts. | [r/ChatGPTPromptGenius](https://www.reddit.com/r/ChatGPTPromptGenius/) |
-| r/chatgpt_promptDesign        | Dedicated to designing effective ChatGPT prompts. | [r/chatgpt_promptDesign](https://www.reddit.com/r/chatgpt_promptDesign/) |
-| r/PromptEngineering           | Discussion subreddit for prompt engineering topics. | [r/PromptEngineering](https://www.reddit.com/r/PromptEngineering/) |
-| r/PromptDesign                | Community for discussing prompt design strategies. | [r/PromptDesign](https://www.reddit.com/r/PromptDesign/) |
-| r/MachineLearning             | Machine learning discussions, including GPT and LLMs. | [r/MachineLearning](https://www.reddit.com/r/MachineLearning/) |
-| r/GPT_jailbreaks              | A forum for discussions on GPT jailbreak methods. | [r/GPT_jailbreaks](https://www.reddit.com/r/GPT_jailbreaks/) |
-| r/ChatGptDAN                  | Community focused on DAN mode and ChatGPT jailbreaks. | [r/ChatGptDAN](https://www.reddit.com/r/ChatGptDAN/) |
-| r/PromptSharing               | Platform to share and discover prompts with the community. | [r/PromptSharing](https://www.reddit.com/r/PromptSharing/) |
-| r/PromptWizardry              | A subreddit for creative and advanced prompting techniques. | [r/PromptWizardry](https://www.reddit.com/r/PromptWizardry/) |
-| r/PromptWizards               | A community for experts in prompt engineering. | [r/PromptWizards](https://www.reddit.com/r/PromptWizards/) |
-| r/ChatGPT_Prompts             | Community for sharing ChatGPT prompts. | [r/ChatGPT_Prompts](https://www.reddit.com/r/ChatGPT_Prompts/) |
-| r/promptrequest               | A community for users to request help with generating prompts for AI art, writing, games, and more. | [r/promptrequest](https://www.reddit.com/r/promptrequest/) |
-
-## Facebook Communities
-
-| **Community Name**                     | **Description**                                           | **Link** |
-|----------------------------------------|-----------------------------------------------------------|----------|
-| ChatGPT Prompt Engineers               | Group for discussions on ChatGPT, AI news, and LLMs.      | [Facebook Group](https://www.facebook.com/groups/chatgptpromptengineers/) |
-| AI Image Creator Prompts               | Group dedicated to sharing prompts for AI image generation.| [Facebook Group](https://www.facebook.com/groups/291344450322662/) |
-| Prompt Engineering: ChatGPT Hiring and Recruiting | Group focused on prompt engineering hiring and recruitment.| [Facebook Group](https://www.facebook.com/groups/950660259275734/) |
-| AI Prompt Shares                       | Community for sharing AI-generated prompts.               | [Facebook Group](https://www.facebook.com/groups/aipromptshares/) |
-
-## Discord Communities for Prompt Engineering
-
-| **Community Name**            | **Description** | **Link** |
-|-------------------------------|-----------------|----------|
-| Attention Architects          | Open-source community for prompt engineering experts. | [Attention Architects](https://discord.gg/yourlink) |
-| ChatGPT Prompt Engineering     | Discord server dedicated to prompt engineering. | [ChatGPT Prompt Engineering](https://discord.gg/yourlink) |
-| ChatGPT Community             | General ChatGPT community on Discord. | [ChatGPT Community](https://discord.gg/yourlink) |
-| Reddit's ChatGPT Discord      | r/chatgpt's official Discord server. | [Reddit ChatGPT](https://discord.gg/yourlink) |
-| PromptsLab                    | Knowledge-sharing community for generative models and LLMs. | [PromptsLab](https://discord.gg/yourlink) |
-| Learn Prompting               | Discord server dedicated to learning prompt techniques. | [Learn Prompting](https://discord.gg/yourlink) |
-| Artificial Intelligence       | Discord server for AI enthusiasts and prompt engineers. | [Artificial Intelligence](https://discord.gg/yourlink) |
-| OpenAI Discord                | Official Discord server for OpenAI. | [OpenAI Discord](https://discord.gg/yourlink) |
-| Promptify Discord             | Promptify's Discord for prompt engineering and LLMs. | [Promptify Discord](https://discord.gg/m88xfYMbK6) |
-| MidJourney Discord            | Community focused on MidJourney AI models. | [MidJourney Discord](https://discord.gg/yourlink) |
-
-## Other Prompt Engineering Communities and Forums
-
-| **Platform**   | **Description** | **Link** |
-|----------------|-----------------|----------|
-| altenens.is    | Forum for sharing ChatGPT tools and resources. | [altenens ChatGPT Tools](https://altenens.is/forums/chatgpt-tools) |
-| onehack.us     | Platform for discovering and sharing GPT prompts. | [onehack.us Prompts](https://onehack.us/prompt) |
-| Hugging Face Forum | Forum for discussing Hugging Face models, including transformers and GPT. | [Hugging Face Forum](https://discuss.huggingface.co/) |
-
-## 6. Freelance & Job Opportunities
-
-## Job Websites for Prompt Engineers
-
-1. [Prompt Engineer Jobs](https://promptengineerjobs.io/jobs) - Dedicated to various prompt engineering roles.
-2. [Moai Jobs - Prompt Engineering](https://www.moaijobs.com/prompt-engineering-jobs) - Lists prompt engineering and AI-related positions.
-3. [Prompt Engineer Jobs Org](https://promptengineerjobs.org/) - Platform featuring prompt engineering jobs.
-4. [AI Jobs Net - Prompt Engineering](https://aijobs.net/list/prompt-engineering-related-jobs/) - Collection of jobs in AI, with a section for prompt engineers.
-5. [AI Jobs](https://aijobs.ai/prompt-engineer) - A specialized site for jobs in AI, including prompt engineering roles.
-6. [Promptly Hired](https://promptlyhired.com/) - Jobs in prompt engineering and related fields.
-7. [Upwork - Prompt Engineering](https://www.upwork.com/en-gb/freelance-jobs/prompt-engineering/) - Freelance prompt engineering roles.
-8. [Prompt Engineering Jobs](https://prompt-engineering-jobs.com/) - Portal for finding prompt engineering jobs.
-9. [AI Careers - Prompt Engineer](https://aicareers.jobs/job-category/prompt-engineer/) - Job board for various AI careers, including prompt engineering.
-
-## Freelance Platforms
-
-| **Platform**      | **Description**                                | **Link**                                                         |
-|-------------------|-----------------------------------------------|------------------------------------------------------------------|
-| **Upwork**        | Freelance platform with prompt engineering jobs. | [Upwork Prompt Engineering Jobs](https://www.upwork.com/en-gb/freelance-jobs/prompt-engineering/) |
-| **Fiverr**        | Hire prompt engineers for freelance projects. | [Fiverr Prompt Engineers](https://go.fiverr.com/visit/?bta=1056572&brand=fp) |
-| **Freelancer**    | Freelance platform for prompt engineering roles. | [Freelancer Prompt Engineering](https://www.freelancer.com/jobs/prompt-engineering#) |
-| **Toptal**        | Platform connecting top prompt engineers for freelance opportunities. | [Toptal Prompt Engineers](https://www.toptal.com/prompt-engineers) |
-
-## 7. Contributing & Code of Conduct
-
-Contributing
-We welcome contributions to make this repository a comprehensive resource for prompt engineering enthusiasts. Here’s how you can help:
-
-Guidelines for Contributing
-Follow our step-by-step guide in the CONTRIBUTING.md file to learn how to add new resources, fix errors, or enhance existing sections.
-
-Code of Conduct
-We strive to maintain a respectful and inclusive community. Please read our Code of Conduct to understand the expected behavior when contributing.
-
-Feedback and Suggestions
-If you have ideas for improvements, feel free to open an issue or submit a pull request. Constructive feedback is always welcome!
-
-## 8. Support My Work
-
-Consider giving this repository a ⭐️ if you find it helpful, or share it with others who might benefit! Contributions are always welcome—your input and additions help make this resource better for the entire community. Some of the links here may contribute to supporting the project at no extra cost to you. If this project benefits you, consider [sponsoring me on GitHub](https://github.com/sponsors/zacfrulloni) or [buying me a coffee](https://www.buymeacoffee.com/zazacattack) to help support ongoing updates and improvements. 
-
-If you'd like to reach out, feel free to check the [Contact Me section](#13-contact-me). Thank you for your support! 🙏
-
-## 9. Join Our Community on Discord
-
-Connect with other developers, AI enthusiasts, and prompt engineers! We’ve created a Discord server where you can share insights, ask questions, and stay updated on the latest in prompt engineering. It’s a place to collaborate, network, and learn together.
-
-[Join the Discord Server](https://discord.gg/BYKsABxW)
-
-Feel free to reach out if you have questions or suggestions in our **#general** or **#feedback** channels. Let’s build a community of knowledge and support.
-
-## 10. License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-© 2024 [zac frulloni]. All rights reserved.
-
-## 11. Disclosure
-
-Disclosure: I am compensated through these affiliate partnerships, and this compensation helps support the resources and ongoing work within this repository. Affiliate links are provided in sections containing resources, including but not limited to learning materials, tools, and community memberships. This disclosure appears on all applicable pages of this repository.
-
-## 12. Contact Me
-
-If you have any questions, feedback, or suggestions, feel free to reach out! You can contact me via email at: zacfrull `[at]` hotmail `[dot]` com.
-
-Looking forward to hearing from you!
+- [Architecture & Design](#architecture--design)
+- [Art & Image Generators](#art--image-generators)
+- [Audio & Music Editing](#audio--music-editing)
+- [Avatars & Character Creators](#avatars--character-creators)
+- [Chat Bots & Assistants](#chat-bots--assistants)
+- [Code Tools](#code-tools)
+- [Content Creation & SEO](#content-creation--seo)
+- [Creators & Productivity Tools](#creators--productivity-tools)
+- [Customer Support & Communication](#customer-support--communication)
+- [Email & Messaging Assistants](#email--messaging-assistants)
+- [Fashion & Style](#fashion--style)
+- [HR, Legal, & Resumes](#hr-legal--resumes)
+- [Logo & Brand Design](#logo--brand-design)
+- [Photo & Image Editing](#photo--image-editing)
+- [Sales & Marketing Tools](#sales--marketing-tools)
+- [Slides, Web, & UX Design](#slides-web--ux-design)
+- [Text Generation & Writing](#text-generation--writing)
+- [Text-to-Speech & Audio Tools](#text-to-speech--audio-tools)
+- [Translation & Transcription](#translation--transcription)
+- [Video Creation & Editing](#video-creation--editing)
+- [AI Detection & Analysis](#ai-detection--analysis)
+
+
+
+
+## AI Detection & Analysis
+| NAME | DESCRIPTION |
+|------|-------------|
+| [Gowinston.ai](https://gowinston.ai/?via=zac) | Winston AI, available at gowinston.ai, is a leading AI detector and plagiarism checker for education and publishing. It uses NLP, machine learning, and statistical analysis to identify AI-generated text. |
+| [Gptzero](https://gptzero.me/?via=zac) | GPTZero, developed by Edward Tian, Alex Cui, and Yazan Mimi, detects AI-generated text, matches claims to sources, and identifies AI risks. It offers various pricing plans, including a free trial. |
+| [Originality.ai](https://originality.ai/ai-checker?via=zac) | Originality.ai is an AI-powered tool for content quality control, offering AI detection, plagiarism and fact checking, readability feedback, and a Chrome extension. |
+| [sciteai](https://scite.ai/) | scite.ai is an AI-powered tool that helps researchers discover and evaluate scientific articles using Smart Citations, showing citation context and support. Trusted globally, it enhances research transparency and credibility. |
+
+
+## Architecture & Design
+| NAME | DESCRIPTION |
+|------|-------------|
+| [Virtual staging ai](https://www.virtualstagingai.app/) | Transform spaces with Virtual Staging AI's one-click service. Add furniture, remove watermarks, and choose styles. |
+
+
+## Art & Image Generators
+| NAME | DESCRIPTION |
+|------|-------------|
+| [rundiffusion](https://rundiffusion.com?ref=zac23) | Rundiffusion.com is a cloud platform offering high-performance server rentals with datacenter GPUs and stable diffusion models, ready in under 90 seconds. It also features a Creator's Club for model customization. |
+| [Getimg.ai](https://getimg.ai/?via=zac-frulloni) | Getimg.ai offers AI tools for easy image creation and editing, including text-to-image synthesis, style transfer, and image captioning, accessible via website, Discord, or API. |
+| [imagineart](https://www.imagine.art/?a_aid=1bb575c3&amp;a_bid=adee0d69) | Imagine's Text to Art transforms text into unique images using AI. Image Remix applies styles to images, while Generative Fill revamps photos. The Imagine API integrates these features into products. |
+| [Ink studio ai](https://inkstudioai.com/?ref=zazacattack) | Ink Studio AI helps users design tattoos with over 10 styles, ensuring accuracy. It features an "Image to Tattoo" converter to transform pictures into tattoo art. |
+| imagineme | Imagineme.app is an AI art generator that creates personalized images from text descriptions. Users can choose styles and themes, upload photos, or use pre-existing models for unique visual expressions. |
+| [dezgo](https://dezgo.sjv.io/GKm0J2) | Dezgo.com is an AI-powered platform that creates images from text prompts, offering various Stable Diffusion models for web design, social media, marketing, and more. |
+| [patterned](https://www.patterned.ai/) | Patterned.ai is an AI tool for creating unique patterns. Generate custom designs or browse royalty-free images. Free downloads available, with premium options for advanced customization. |
+| [basedlabs.ai](https://www.basedlabs.ai/?via=zac) | Basedlabs AI is a user-friendly platform that generates images and videos from text prompts using artificial intelligence. |
+| [leonardo.ai](https://app.leonardo.ai/?via=zac) | Leonardo AI is a platform for generating images, videos, and designs using AI. It offers tools like a canvas editor, model training, and fast image generation. |
+| [Colorbliss.art](https://colorbliss.com/) | ColorBliss.art offers a free trial where new users can create up to 3 images. Share on social media to unlock more. Create coloring pages by entering text prompts. |
+| [photosonic](https://photosonic.pro/) | Writesonic's AI Art Generator creates stunning art in seconds, eliminating the need for expensive stock photos and lengthy design processes. It offers diverse styles, saving businesses time and money. |
+| [petbooth](https://petbooth.app?via=szmgj461wj93fftaoia4) | Pet Booth creates AI-generated pet portraits and photos for cats and dogs. Ideal for prints, cards, or desktop backgrounds. |
+| [Daftart](https://daftart.com/) | Daftart.ai is an AI tool for creating professional album covers quickly. It offers curated aesthetics, customization options, high-resolution downloads, and simple pricing. |
+| [deepmode](https://deepmode.com?fpr=zac41) | DeepMode is a Generative AI platform for creating AI clones and stunning photos. It offers lifelike image generation, multiple art styles, and high-resolution output. |
+
+
+## Avatars & Character Creators
+| NAME | DESCRIPTION |
+|------|-------------|
+| [Herahaven.ai](Herahaven.ai) | HeraHaven AI lets users create customized virtual girlfriends to explore fantasies through roleplaying. It ensures privacy and allows multiple AI girlfriends for diverse interactions. |
+| [snapheadshots](https://snapheadshots.com/?via=zac) | SnapHeadshots quickly generates over 100 professional AI headshots from 10 selfies, using Stable Diffusion and proprietary models. Use the AI Photobooth for easy selfie creation. |
+| [Dreamgf.ai](https://dreamgf.ai/?a=18AjpDfegE5ds2) | DreamGF.ai lets users create custom AI girlfriends for free, with premium features. It offers chat, roleplay, and future video options. |
+| [profilepictureai](https://www.profilepicture.ai/) | Profilepicture.ai is a web app using AI to create professional headshots. Customize with 357 styles, filters, and adjustments, then download for social media. |
+| [The multiverse ai](https://www.multiverse.ai/) | The Multiverse AI headshot generator transforms selfies into professional headshots quickly and affordably. For €12, receive 100 custom headshots in hours. |
+| [Chatup ai](https://aichattings.com/) | ChatUp AI provides free, uncensored roleplay chat, AI girlfriend interactions, face swaps, and an unfiltered image generator. |
+| [dreambf.ai](https://dreambf.ai/?a=9Yqnwazwo6UZyi) | DreamBF is an AI website that allows you to generate your own virtual boyfriend with chosen characteristics and style. |
+| [Artflow ai](https://app.artflow.ai/) | Artflow.ai is an AI tool for creating animated stories and avatars from text. It offers character customization, scene enhancement, dialogue generation, and real-time editing, making storytelling easy and creative. |
+| [profilebakery](https://www.profilebakery.com/en/ai-headshot/?linkId=lp_386432&sourceId=zac-frulloni&tenantId=profile-bakery) | Profile Bakery is an AI-driven platform transforming selfies into professional headshots. Choose from 100+ styles, customize backgrounds, and access job application tools. |
+| [Colossyan](https://www.colossyan.com/) | Colossyan is a top AI video platform using avatars and text-to-speech to help workplace learning teams create engaging content. |
+
+
+## Audio & Music Editing
+| NAME | DESCRIPTION |
+|------|-------------|
+| [Signify.fineshare.com](https://singify.fineshare.com/?ref=zazacattack) | FineShare Singify uses AI to transform songs into personalized masterpieces, offering 100+ voice models and easy song search. |
+| [uberduck](https://www.uberduck.ai/) | Uberduck.ai is an AI voice platform offering over 5,000 expressive voices for music, voiceovers, and more. It uses deep learning to create lifelike vocals. |
+| [mubert](https://mubert.com/) | Mubert.com is an AI-driven platform offering royalty-free music for streaming, videos, and more. It tailors tracks using AI, serving creators, artists, developers, and listeners. |
+| [specterr](https://specterr.com/) | Specterr is an AI music visualizer tool that creates custom music visualizers and lyric videos. It offers fast cloud rendering, unlimited storage, and customizable templates. |
+| [Wondercraft ai](https://www.wondercraft.ai/) | Wondercraft AI is a podcast creation tool that uses generative AI voices to transform written content into engaging audio. Ideal for businesses and creators. |
+| [musicfy](https://create.musicfy.lol/?ref=zazacattack) | Musicfy.lol lets you create AI-generated song covers by cloning your voice or choosing different vocal styles. |
+| [Lalal.ai](https://www.lalal.ai/?fp_ref=zac97) | Lalal.ai is a cutting-edge tool for extracting up to 10 audio stems, like vocals and instruments, from music tracks. It uses the Phoenix neural network for high-quality separation. Accessible via website or app, it offers efficient stem extraction for musicians and producers. |
+
+## Chat Bots & Assistants
+| NAME | DESCRIPTION |
+|------|-------------|
+| [Askyourpdf.com](https://www.askyourpdf.com/?via=zazacattack) | Ask Your PDF is an AI tool that turns PDFs into interactive chatbots, allowing users to ask questions and get insights. |
+| [Quickchat.ai](https://Quickchat.ai/?ref=zazacattack) | Quickchat AI is a no-code platform for creating AI assistants. It integrates with websites, apps, and devices to automate tasks and improve customer support. |
+| [docsbot](https://docsbot.ai?via=2rp2n) | DocsBot AI is a powerful tool for creating custom chatbots using GPT-4, enhancing customer support and productivity. |
+| [Orimon.ai](https://orimon.ai/?via=zazacattack) | Orimon.ai offers a no-code platform to create AI chatbots for boosting sales and customer engagement, featuring multilingual support, customization, and 24/7 operation in under two minutes. |
+| [chatdata](https://www.chat-data.com?via=zazacattack) | Chat Data lets you create customizable chatbots using your knowledge base or backend, with options for white labeling. |
+| [Elephant ai](https://elephant.ai//?ref=zazacattack) | Elephant.ai is an AI chatbot platform powered by ChatGPT, enhancing website engagement and customer support with 24/7 assistance. |
+| [chatbotkit](https://chatbotkit.com/) | ChatBotKit is an AI chatbot builder for developers and non-developers, offering features like GPT-4 support, platform integration, and data security. |
+| [wonderchat](https://wonderchat.io/) | Wonderchat.io lets you create AI chatbots for your website using links or PDFs, enhancing customer support. |
+| [pdfai](https://pdf.ai/?via=zac) | PDF.ai is an AI-powered tool that transforms PDF interaction, allowing users to chat with documents and ask questions. |
+| [flotai](https://flot.ai/) | Flot.ai is an AI Copilot for all apps and websites, enabling ChatGPT use anywhere you type. |
+| [Dante ai](https://www.dante-ai.com/) | Dante AI is a no-code chatbot builder that creates custom chatbots using your data, supporting various file types and multilingual capabilities. |
+| [tiledesk](https://tiledesk.com/) | Tiledesk.com offers open-source conversational automation tools, integrating chatbots with platforms like WhatsApp and Shopify. |
+| [Gpt trainer](https://gpt-trainer.com/?via=zac) | GPT-trainer is an AI chatbot builder that lets users create chatbots without coding. It enhances customer support, automates tasks, and integrates across platforms while ensuring data security and customization. |
+| [Customgpt.ai](https://customgpt.firstpromoter.com/?sref=vtfyq9s) | CustomGPT.ai is a leading no-code platform for creating AI agents tailored to your business using advanced language models. |
+| [landbot](https://landbot.io/) | Landbot.io is a no-code platform for creating chatbots, interactive surveys, and lead generation bots, enhancing customer engagement and boosting revenue. |
+| [resolveai](https://resolveai.co?fpr=zac80) | ResolveAI offers ChatGPT-powered chatbots for businesses, featuring live chat, 24/7 automated support, and personalized responses. |
+| [Foyer work](https://www.getmerlin.in/chat?ref=ndg0zdr) | Access ChatGPT GPT-4 on any website with a single click using the Merlin browser extension. |
+| [botpress](https://botpress.com/) | Botpress is a free, intuitive AI chatbot builder using OpenAI's GPT technology. It offers a visual flow editor, integrations, and templates, enabling users to create scalable, personalized chatbots effortlessly. |
+
+
+## Code & Database Tools
+| NAME | DESCRIPTION |
+|------|-------------|
+| [Parsio.io](https://parsio.io/?ref=zazacattack) | Parsio extracts data from emails, PDFs, and documents, exporting it to Google Sheets, CRMs, and more. It uses AI-powered parsers. |
+| [Robomotion.io](https://robomotion.io?via=zac63) | Robomotion RPA is a versatile AI automation tool that simplifies repetitive tasks across platforms, offering browser automation and more. |
+| [Bashsenpai](https://bashsenpai.com/?aff=tgta6u52qm53v7p) | BashSenpai is an AI terminal assistant powered by ChatGPT, offering context-specific coding help and commands. It features self-reflection for improved accuracy and customizable personalities. |
+| [vast.ai](https://cloud.vast.ai/?ref_id=177536) | Vast.ai offers affordable cloud GPU rentals, allowing users to save 5-6 times on compute costs. |
+| brightdata | Bright Data AI is a top web data platform offering advanced proxy networks, web scrapers, and datasets. |
+| [pico](https://picoapps.xyz/) | Pico is an AI-driven platform using GPT-4 to create web apps from plain language input, eliminating coding needs. |
+| [askcodi](https://www.askcodi.com/) | AskCodi is an AI code assistant that boosts productivity by automating tasks like code generation, testing, and documentation. |
+| [unboundml](http://unboundml.com/?via=44f300) | Unboundml.com uses generative AI to automate and enhance content creation, offering tools for images, graphics, text, and backgrounds. |
+| [cloudpdf](https://cloudpdf.io/) | CloudPDF is a cloud-based platform for efficient PDF management, offering features like display, security, tracking, and lead generation. It caters to both non-coders and developers for streamlined PDF tasks. |
+| [codepal](https://codepal.ai/?ref=zazacattack) | CodePal.ai is an AI-driven platform that boosts coding efficiency by generating code snippets, aiding refactoring, and suggesting improvements. It supports multiple languages and integrates with IDEs for a seamless experience. |
+
+
+## Content Creation & SEO
+| NAME | DESCRIPTION |
+|------|-------------|
+| [Storynest.ai](https://storynest.ai?fpr=zac29) | StoryNest.ai is a platform for creating personalized, interactive stories using AI. It offers customization, live character interactions, narrated tales, and multilingual support to inspire creativity and imagination. |
+| [Articlefiesta.com](https://articlefiesta.com/?af=grumpy-slushy) | Article Fiesta generates unique, SEO-optimized articles from a single word in minutes. Enjoy hassle-free content creation with features like direct blog posting and proven success in improving search rankings. |
+| [gravitywrite](https://gravitywrite.com/?via=zazacattack) | GravityWrite is an AI-powered tool for creating high-quality content like blogs, ads, and social media posts. It offers 5,000 free words monthly, 250+ templates, and direct WordPress publishing. |
+| [Rightblogger.com](https://rightblogger.com/?via=zazacattack) | RightBlogger is an AI-powered blogging tool offering over 80 features to enhance content creation. |
+| [Storychef ai](https://storychief.io?fpr=zac52) | StoryChief is a content marketing platform that enhances collaboration and streamlines content creation and distribution. |
+| [Writecream.com](https://www.writecream.com/?gr_pk=n1ON) | Writecream.com is an AI-driven platform for creating diverse content, including articles, images, and audio. |
+| [Seo writing ai](https://seowriting.ai?fp_ref=zac77) | SEOWritingAI generates SEO-optimized blog posts in one click, supports 48 languages, and auto-publishes on WordPress. |
+| [junia](https://www.junia.ai/?via=zac) | Junia is an AI content creation tool that generates high-quality, SEO-optimized content for blogs, emails, and ads. |
+| [blogifyai](https://blogify.ai?fpr=apfm8) | Blogify converts videos into SEO-friendly blog posts, offering features like automated creation and monetization. |
+| [postwise](https://postwise.ai?_get=zac46) | Postwise.ai is an AI-driven social media tool for creating, scheduling, and tracking engaging Twitter posts. |
+| [Tugan ai](https://www.tugan.ai/?via=zac) | Tugan.ai creates newsletters, tweets, LinkedIn posts, and more, boosting engagement and sales. |
+| [unriddle](https://www.unriddle.ai//?ref=zazacattack) | Unriddle is an AI tool that simplifies complex documents by generating chatbots for easy information retrieval and summarization. It offers features like customizable settings, a Chrome extension, and multi-source querying. Trusted by over 750,000 users, it enhances research and productivity. |
+| [sudowrite](https://www.sudowrite.com/) | Sudowrite.com is an AI writing tool for creative writers, enhancing writing with text generation and rephrasing. |
+| [Shakespeare](https://app.shakespeare.ai/) | SHAKEspeare is an AI writing tool for crafting campaign emails. |
+| [60sec](https://60sec.site/?via=zazacattack) | 60sec.site is an AI-powered tool that lets you create a custom landing page in 60 seconds without coding. Enjoy customizable designs, SEO optimization, and easy integration. |
+| [chatpdf](https://www.chatpdf.com/?via=zac-frulloni) | ChatPDF.com lets you interact with PDFs using AI, enabling questions and discussions on documents. |
+| [podsqueeze](https://podsqueeze.com/?ref=zazacattack) | Podsqueeze.com is an AI platform that streamlines podcast production by automating transcriptions, show notes, social media posts, clips, and audio enhancement, saving podcasters time and effort. |
+| [multilings](https://petbooth.app?via=szmgj461wj93fftaoia4) | Multilings is an AI-powered tool for content creators, marketers, and educators, offering translation, writing assistance, and plagiarism checking. |
+| [yarnit](https://www.yarnit.app/) | Yarnit.app is a generative AI platform for seamless content creation, ensuring brand consistency and optimization. |
+| [Choppity](https://choppity.com/?via=zac) | Choppity is an AI podcast clip generator that suggests clips, adds captions, and more. |
+| [fillout](https://www.fillout.com?ref=zazacattack) | Fillout.com is a user-friendly platform for creating forms, surveys, and quizzes with AI-driven templates. |
+| [wordhero](https://aivolut.com/?via=zac-frulloni) | Wordhero.co offers AI-powered writing tools for effortless content creation, including blog posts and social media updates. |
+| [Instant chapters](https://instantchapters.com/?via=zac) | Instant Chapters generates detailed YouTube video chapters instantly, enhancing viewer experience. |
+| [Unicorn platform](https://unicornplatform.com/?via=zac21) | Unicorn Platform is an AI-powered website builder ideal for startups, enabling easy landing page creation. |
+| [Ai directories](https://www.aidirectori.es/?via=zac) | AI Directories is a curated collection of AI tool directories to boost SEO and gain backlinks. |
+| [quizgecko](https://quizgecko.com/) | Quizgecko.com is an AI-powered platform that quickly generates personalized quiz questions from text. |
+| [neuroflash](https://neuroflash.com/) | Neuroflash is an AI platform for creating and optimizing content, including text, images, and videos. |
+| [fireflies.ai](https://fireflies.ai/) | Fireflies.ai is an AI notetaker that records, transcribes, and analyzes meetings in real-time. |
+| [trinka.ai](https://www.trinka.ai/) | Trinka is an AI writing tool for academic, scientific, and business writing, offering grammar checks and optimization. |
+| [shopia.ai](https://app.shopia.ai/sign-up?via=zac-frulloni) | Shopia.ai creates product descriptions, ad content, and blog articles with just a few lines of text. |
+| [frase.io](https://www.frase.io/?via=zac69) | Frase.io aids content creators by researching topics, drafting content, and analyzing performance for SEO. |
+| [Betterpic.io](https://www.betterpic.io/) | BetterPic uses AI to create professional-quality images, employing advanced algorithms and machine learning. |
+| [Creatify.ai](https://creatify.ai/) | Creatify's AI platform simplifies video ad creation, allowing quick production of engaging ads in minutes. |
+| [koala.sh](https://koala.sh/?via=zac-frulloni) | Koala.sh is an AI writing tool integrating real-time SERP analysis for better SEO content. |
+| [getgenie.ai](https://getgenie.ai/?rui=3056) | GetGenie is an AI assistant for WordPress, offering content creation, SEO tools, and site management. |
+| [aiseo.ai](https://aiseo.ai/?fpr=zac85) | AISEO.ai creates SEO-friendly content, improves readability, generates images, and bypasses AI detectors. |
+| [bertha.ai](https://bertha.ai/?ref=20632) | Bertha AI automates and enhances writing for content creators using advanced AI algorithms. |
+| [simplified.com](https://simplified.com/?fpr=zac54) | Simplified helps design, create, and schedule content across social channels using AI tools. |
+| [textcortex.com](https://textcortex.com/?via=zac-frulloni) | TextCortex automates content creation, offering paraphrasing, summarizing, and translating capabilities. |
+| [headlime.com](https://headlime.com/?invite=bPK5hzlvw3Ssp9EI8lanHRHJASp2) | Headlime's AI blog editor generates high-quality content for marketing campaigns quickly. |
+| [contentbot.ai](https://contentbot.ai/?fpr=zac20) | ContentBot.ai automates content creation with AI tools like flow builders, integration with WordPress, and more. |
+| [blaze.ai](https://www.blaze.ai/blog/master-ai-chatgpt-prompts?fpr=z681z) | Blaze AI helps generate and organize content across platforms, useful for marketers and small businesses. |
+| [chapple](https://chapple.ai/?via=zac) | Chapple is an all-in-one platform to generate AI content and start making money in minutes. |
+| [inlinks](https://inlinks.com?deal=zac69) | Boost your website's SEO with InLinks® Entity SEO Tool. Sign up for free to optimize content, internal linking, and social media. Trusted by professionals, InLinks saves time and delivers results. |
+| [podium](https://hello.podium.page/?via=zac) | Podium is an AI podcasting tool that streamlines content creation by generating summaries, transcripts, clips, and social media posts, enhancing discoverability and efficiency. Try it free, no signup needed. |
+| [dashword](https://www.dashword.com/?via=zac32) | Dashword is a leading content optimization tool for SEO teams, offering real-time feedback, keyword suggestions, and performance tracking to boost organic traffic. It features an intuitive interface and a free meta description generator. |
+| [Rytr.me](https://rytr.me/?via=zac-frulloni) | Rytr.me is an AI writing tool that generates content in the user's tone. It offers features like tone analysis, SEO descriptions, and plagiarism checks. Free to start, with paid upgrades available. | 
+
+
+## Creators & Productivity Tools
+| NAME | DESCRIPTION |
+|------|-------------|
+| [clickup](https://clickup.com/) | ClickUp is a project management tool offering tasks, whiteboards, spreadsheets, and document collaboration on one platform. |
+| [Usemotion](https://www.usemotion.com/) | Use Motion's mobile app to add tasks on the go, and they'll be automatically added to your schedule. |
+| [Solvely.ai](https://solvely.ai/?via=zazacattack) | Solvely.ai provides AI tools for solving, writing, and quizzing to enhance students' learning efficiency, targeting those needing homework and writing assistance. |
+| [Coursebox.ai](https://www.coursebox.ai/pricing?fpr=zac85) | Coursebox.ai is an AI-powered platform that simplifies online course creation with features like instant course generation, drag-and-drop tools, quizzes, and mobile optimization, supporting over 60 languages in 180+ countries. |
+| [Ikiblast.com](https://www.ikiblast.com/?via=zazacattack) | IKiBlast is an AI productivity tool that enhances creativity and efficiency by managing emails, supporting multiple languages, and offering specialized agents for various tasks. It ensures privacy and integrates seamlessly into daily routines. |
+| [Buzzy.buzz](https://www.buzzy.buzz/home-tapfiliate?ref=mdu2zth) | Buzzy AI is a no-code app builder that uses generative AI to quickly turn ideas into functional web or mobile apps. Users describe their concept in plain English, and Buzzy generates a Figma design and app in minutes. It simplifies MVP validation and offers extensive customization, making app development accessible to non-technical users. |
+| [Mymap.ai](www.mymap.ai/?via=zazacattack) | MyMap.AI is an AI-powered mapping tool for brainstorming and presenting ideas through dynamic maps. Ideal for education and communication, it offers tools like ConceptMap, ChatMap, StoryMap, and NoteMap. |
+| [Learningstudioai](https://learningstudioai.com/?via=zac) | LearningStudioAI is an AI-driven platform for creating engaging online courses effortlessly. |
+| [Dorik ai](https://dorik.com?ref=zac65) | Dorik is an affordable AI website builder enabling stunning websites without coding, offering drag-and-drop tools and templates. |
+| [makeforms](https://makeforms.io/) | MakeForms is an online form builder with AI capabilities and top security, ideal for surveys, quizzes, and integrations. |
+| [Thedrive ai](https://thedrive.ai/) | TheDrive.ai transforms files into a dynamic knowledge base, offering storage, reading, writing, and collaboration tools. |
+| [omnigpt](https://app.omnigpt.co/?ref=zazacattack) | OmniGPT integrates with Slack, GitHub, Google Workspace, and more, offering voice commands, document uploads, and a Chrome extension. |
+| [aitoptools](https://aitoptools.com/?ref=zac91) | Aitoptools.com showcases top AI tools for various needs, enhancing productivity and efficiency. |
+| [Mixo.io](https://www.mixo.io/?via=eecf95) | Mixo.io is an AI website builder creating functional sites from brief ideas, requiring no coding skills. |
+| [circleback](https://circleback.ai/?via=zac) | Circleback provides AI-powered notes, action items, and automations, updating your CRM, Notion, and more. |
+| [Stack-ai](https://www.stack-ai.com/?via=zazacattack) | Stack AI is a no-code platform for enterprise AI solutions, offering drag-and-drop tools, pre-built templates, enterprise-grade security, expert support, and flexible pricing plans for various needs. |
+| [vondy](https://vondy.com/?via=zac) | Vondy.com offers AI tools for tasks like fitness coaching, coding, and design. Users can create custom apps, integrate with APIs, and explore a prompt library for collaboration. |
+| [boloforms](https://www.boloforms.com/signature/?linkId=lp_766035&sourceId=zac-frulloni&tenantId=boloforms-signature) | BoloForms streamlines Google Forms with automated approval processes, form management, and secure workflows. Enjoy award-winning support, compliance, and security. Visit their website for more details and demos. |
+| [beforesunset](https://www.beforesunset.ai/?via=zac) | BeforeSunset AI helps organize your schedule by analyzing your to-do list and calendar, offering features like time tracking, analytics, and personalized routines. Visit their website for pricing details. |
+| [taskade](https://taskade.com/?via=ia2r9) | Taskade is a task management and collaboration app with AI features, enabling teams to efficiently work together and streamline task generation and management. |
+
+## Customer Support & Communication
+| NAME | DESCRIPTION |
+|------|-------------|
+| [Socialintents.com](https://www.socialintents.com?fpr=zac44) | Social Intents offers live chat software that integrates with platforms like Microsoft Teams and Slack, enabling real-time customer engagement. Features include AI chatbots, customizable widgets, and a 14-day free trial. |
+| [Spectate.net](spectate.net/?via=zazacattack) | Spectate provides AI-driven incident management with downtime notifications and customizable status pages. |
+| [Watermelon](https://www.watermelon.ai/?via=zac) | Watermelon.ai uses GPT-4 chatbots for customer service, automating interactions and reducing workload. |
+| [chatlingai](https://chatling.ai/?ref=zazacattack) | Chatling is an AI chatbot for customer support, offering personalized, accurate responses, reducing support volume by 50%, and enhancing customer satisfaction. It requires no coding, supports multilingual communication, and integrates easily into websites. Chatling provides valuable insights, reduces labor costs, and offers a free tier for businesses. Key features include a drag-and-drop builder, AI model integration, full |
+| [webbotify](https://www.webbotify.com//?ref=zazacattack) | Webbotify is an AI-powered chatbot tool that enhances customer support by automating queries, offering 24/7 assistance, and providing customizable features and analytics for websites of all sizes. |
+| [simplephones](https://simplephones.ai?fpr=zac23) | Simple Phones offers an AI phone agent to handle calls, ensuring no missed customer interactions. |
+| [mava](https://www.mava.app/) | Mava integrates with platforms like Discord and Telegram for AI-driven customer support and analytics. |
+| [deepbrain](https://www.aistudios.com/) | DeepBrain AI offers AI-driven video and chat solutions, including photo-realistic avatars and multilingual TTS. |
+| [typedesk](https://www.typedesk.com/) | Typedesk is a text expander app creating canned responses and templates for consistent communication. |
+| [collect.chat](https://collect.chat#_r_zac34) | Collect.chat is a no-code chatbot builder for lead generation, scheduling, and feedback gathering. |
+
+
+## Email & Messaging Assistants
+| NAME | DESCRIPTION |
+|------|-------------|
+| [Sanebox.com](https://try.sanebox.com/oxa46l8bxqh3) | SaneBox is an email management service that filters unimportant emails into a separate folder, integrating with IMAP and Exchange Web Services accounts. |
+| [Hix.ai](https://hix.ai/?ref=mdvhztc) | HIX Email Writer simplifies email communication with AI-generated templates, quick "//" commands, customizable tones, and tools for grammar checks, translations, and summarizing. It's available as a freemium service. |
+| [Klart ai](https://www.chatgptservices.app/?ref=dljjwudq) | ChatGPT Services (Klart.ai) enhances email efficiency with NLP and machine learning. Ideal for SMEs and e-commerce. |
+| [getresponse](https://www.getresponse.com/?a=FqhvhFDJAW) | GetResponse is an email marketing and website builder platform with AI tools for email generation and automation. |
+| [hoppycopy](https://www.hoppycopy.co/) | Hoppy Copy crafts high-converting emails quickly using AI, offering templates, editing tools, and competitor insights. |
+
+
+## HR, Legal, & Resumes
+| NAME | DESCRIPTION |
+|------|-------------|
+| [coverdoc](https://coverdoc.ai/?via=zazacattack) | CoverDoc.ai creates personalized cover letters, offers interview prep, and aids in compensation negotiation. |
+| [Job app answer genertor](eztrackr.app/?ref=zac) | EZTrackr uses AI to generate concise, catchy responses for job application questions. It's free to use, and you can personalize answers by signing up and adding your resume. |
+| [ailawyer](https://ailawyer.pro/?ref=zazacattack) | ailawyer.pro is an AI platform offering immediate legal assistance, simplifying complex legal texts. |
+
+## Logo & Brand Design
+| NAME | DESCRIPTION |
+|------|-------------|
+| [looka.com](looka.com) | Looka is the top AI logo generator, loved by entrepreneurs for its fast and easy design process. |
+| [Stockimg.ai](https://stockimg.ai/?via=zazacattack) | Stockimg.ai is an AI-powered tool for generating custom visuals like logos, posters, and illustrations from text prompts, allowing easy edits and organization for consistent brand identity. |
+| [Logome.ai](https://logomeai.partnerlinks.io/o4o0iszncw57) | Logome is an AI-driven logo generator that simplifies creating unique, professional branding. |
+| [turbologo](https://turbologo.com/?ref=mguxyza) | Turbologo is an AI-powered online logo maker that lets users easily create personalized logos with various design options. It offers high-resolution files, business card designs, social media kits, and unlimited revisions. |
+
+## Photo & Image Editing
+| NAME | DESCRIPTION |
+|------|-------------|
+| [Getbetterpics.com](https://www.getbetterpics.com/?ref=zelmmtqj) | GetBetterPics is an AI photo enhancer that creates high-quality images for social media and websites. |
+| [erasebg](https://www.erase.bg/) | Erase.bg quickly removes backgrounds, offering customization and integration with design software and eCommerce. |
+| [Magic studio](https://magicstudio.com/) | Magicstudio.com offers AI-powered tools for image editing, including background removal and enlargement. |
+| [aragon](https://www.aragon.ai/) | Aragon.ai creates AI-generated headshots from selfies, providing affordable professional images. |
+
+
+## Sales & Marketing Tools
+| NAME | DESCRIPTION |
+|------|-------------|
+| [Apollo.io](https://www.apollo.io/) | Use Apollo's platform to access, engage, and convert over 210 million contacts across 35 million companies with powerful sales intelligence and engagement tools.|
+| [Nureply.com](https://nureply.com/?ref=zazacattack) | Nureply is an AI-powered email outreach tool that automates personalized campaigns, improves deliverability, and optimizes performance metrics. It saves time, boosts revenue, and is trusted by over 2000 customers. |
+| [Clodura.ai](https://www.clodura.ai/app/?fpr=zac99#/auth/register) | Clodura.ai is a GenAI sales co-pilot assisting in prospecting and closing deals. |
+| [Followr.ai](https://followr.ai/) | Boost your online presence with Followr AI, a cutting-edge social media tool that creates AI-generated content customized for your audience. |
+| [Smartlead.ai](https://smartlead.ai/?via=zac-frulloni) | Smartlead.ai scales cold email campaigns, offering unlimited mailboxes, AI warmup, personalization, and analytics. |
+| [Pin generator](https://pingenerator.com?pgref=zazacattack) | Pingenerator.com automates Pinterest marketing by generating and scheduling pins with AI features and templates. |
+| [repliq](https://www.repliq.co/?ref=zazacattack) | RepliQ enhances outreach with personalized AI videos, images, and texts for improved engagement. |
+| [scalenut](https://scalenut.com/?fpr=zac89) | Scalenut.com is an AI-driven platform for content creation, SEO, and strategy, integrating keyword planning and SEO tracking. |
+| [adcreative.ai](https://free-trial.adcreative.ai/prnwmt2e8wo4) | AdCreative.ai uses AI to generate and optimize ad creatives, transforming product photos and gathering audience insights. |
+| [Browse.ai](https://browse.ai/?via=zac-frulloni) | Browse AI extracts and monitors website data without coding, supporting lead building and price monitoring. |
+| [vidiq](vidiq.com/zazacattack) | VidIQ helps YouTube creators grow by analyzing analytics, suggesting keywords, and offering personalized advice. |
+| [upgrow](upgrow.com/?ref=zazacattack) | UpGrow uses AI to help brands, influencers, and agencies grow their Instagram audience organically by boosting visibility and engagement through paid ads, real-human activity, and influencer partnerships. It offers AI-powered growth, live analytics, and secure services without needing account credentials, ensuring compliance with Instagram's policies. |
+| [reviewsonmywebsite](https://reviewsonmywebsite.com/) | ReviewsOnMyWebsite collects, displays, and manages reviews, integrates with platforms, and uses AI for responses. |
+| [Instantly.ai](https://instantly.ai/) | Instantly.ai manages cold outreach email campaigns with automation, AI writing assistance, and analytics. |
+| [robopost](https://robopost.app/en) | Robopost automates social media management with AI, offering post scheduling and content ideas. |
+| [Qr code ai](https://qrcode-ai.com/) | QR Code AI is an AI-powered platform for creating personalized, visually appealing QR codes that enhance brand marketing. It offers smart links, analytics, team collaboration, and templates for diverse applications. |
+| [windsor.ai](https://www.windsor.ai/?fpr=zac23) | Windsor.ai is a marketing data platform integrating data sources, optimizing customer journeys, and tracking performance. |
+| [unbounce](https://unbounce.com/) | Unbounce is a landing page platform using AI insights to boost conversions and results. |
+| [brand24](https://brand24.com/) | Brand24 monitors social media, tracks brand mentions, and analyzes sentiment for better reputation management. |
+| [engageai](https://engage-ai.co/?fpr=zac80) | Engage AI is an AI tool that enhances LinkedIn engagement by generating personalized comments, improving prospect management, and boosting conversions. It integrates seamlessly with platforms and offers a Chrome extension and mobile app. |
+| [hypefury](https://hypefury.com/?via=zac20) | Hypefury.com automates social media marketing to grow and monetize your Twitter audience. Schedule posts, boost engagement, expand email lists, and share tweets on Instagram effortlessly. Free trial available. |
+| [mails.ai](https://www.mails.ai/?via=81UMHKxqX07C) | Mails.ai is an AI-powered email marketing tool that automates cold outreach, offering unlimited email connections, AI-generated content, and enhanced deliverability. It saves time, boosts responses, and increases revenue. |
+| [vizlyfi](https://vizly.fyi/?via=zac) | Vizly is an AI-driven data visualization tool that simplifies data analysis with automated insights, interactive visualizations, and secure environments. Ideal for financial analysis, it supports trend monitoring, risk assessment, and predictive analytics. |
+| [warmbox.ai](https://warmbox.ai?fpr=zac93) | Warmbox.ai is an AI email warm-up tool that enhances deliverability by gradually increasing email volume, interacting naturally, and monitoring performance. It supports major providers and checks domain settings. Ideal for cold email campaigns. |
+| [10web.io](https://10web.sjv.io/XmYEjb) | 10Web is an AI-powered platform designed for small and medium businesses, eCommerce sites, web agencies, and freelancers. It streamlines the process of building and managing WordPress websites, helping you get your product to market quickly. |
+
+## Slides, Web, & UX Design
+| NAME | DESCRIPTION |
+|------|-------------|
+| [slidesai](slidesai.io/?ref=zazacattack) | Slidesai.io is an AI tool that transforms text into visually appealing slides, offering various presentation types and color presets. It integrates with Google Slides and allows three free presentations. |
+| [protopie](https://www.protopie.io/plans?ref=zte1zdy) | ProtoPie is a powerful prototyping tool for mobile, desktop, web, and IoT, known for simulating automotive UX and HMI. It supports cross-device interactions, seamless design imports, and coding-free control. ProtoPie integrates with design tools like Figma and Adobe XD, enabling realistic prototypes and secure team collaboration. |
+| [Decktopus](https://www.decktopus.com/?via=zac) | Decktopus is an AI-powered tool that generates presentations with pre-built slides, graphics, and animations. |
+
+
+## Text Generation & Writing
+| NAME | DESCRIPTION |
+|------|-------------|
+| [Textero.io](https://textero.io//?ref=zazacattack) | Textero.ai is an AI writing tool that generates and edits academic content, inspiring creativity and improving essays across various subjects with a user-friendly interface. Try it to overcome writer's block. |
+| [Paraphrasetool.com](https://paraphrasetool.com/?via=zazacattack) | Paraphrasingtool.ai offers a free, advanced AI tool for rephrasing text, enhancing fluency, vocabulary, and tone. Ideal for students and writers, it supports unlimited text and integrates with popular platforms. |
+| [monica](https://monica.im?ref=mmrizme) | Monica.im is an AI assistant offering text generation, translation, and search tools. |
+| [Netus ai](https://netus.ai/?fpr=zac15) | NetusAI is an AI-driven paraphraser that makes text undetectable by AI detectors, enhancing productivity in Google Docs, Chrome, and iOS browsers. Free trial available. |
+| [Yomu ai](https://www.yomu.ai/) | Yomu AI is ideal for students and academics, offering AI autocomplete, citation, and plagiarism checks. |
+| [stealthgpt](https://www.stealthgpt.ai/) | StealthGPT generates human-like text that evades AI detection. |
+
+
+## Translation & Transcription
+| NAME | DESCRIPTION |
+|------|-------------|
+| [screenapp](screenapp.io/?ref=zazacattack) | ScreenApp records screens, offers AI transcription, and secure sharing. Ideal for tutorials, meetings, and more. |
+| [Sembly](https://sembly.ai?fpr=zac77) | Sembly.ai records and transcribes meetings, providing summaries and multilingual support. |
+| [speakai](https://speakai.co/) | Speakai.co transcribes, analyzes, and visualizes language data. |
+| [translatemom](https://www.translate.mom/) | TranslateMom quickly translates and captions videos from platforms like YouTube into 100+ languages. |
+| [castmagic](https://www.castmagic.io/) | Castmagic automates podcast post-production, converting audio into transcripts, show notes, and social media posts. |
+
+
+## Text-to-Speech & Audio Tools
+| NAME | DESCRIPTION |
+|------|-------------|
+| [play.ht](https://www.play.ht/?via=zazacattack) | PlayHT is a leading AI voice generator offering over 600 ultra-realistic text-to-speech voices for creating lifelike voiceovers. |
+| [starvoiceai](https://starvoiceai.com?referralCode=nqSpj) | StarVoiceAi lets users create videos with celebrity voices, offers instant voice cloning, and free characters. |
+| [Acoust.io](https://www.acoust.io/?via=zazacattack) | Acoust AI offers lifelike TTS for content creation, document listening, and video editing. It benefits content creators, students, and professionals, with a free tier available. Enhance videos with AI voice and editing tools. |
+| [speechify](https://speechify.com/) | Speechify converts text to natural speech on any device with over 100 AI voices. |
+| [listnr](https://listnr.ai/?gr_pk=b7kN) | Listnr.tech is an AI-powered TTS generator with 900+ voices in 145+ languages. |
+| [elevenlabs.io](https://try.elevenlabs.io/ghgrv3b1modj) | ElevenLabs specializes in AI-driven voice generation and TTS tools for videos, gaming, and more. |
+
+
+## Video Creation & Editing
+| NAME | DESCRIPTION |
+|------|-------------|
+| [flexclip.com](https://www.flexclip.com/editor/) | FlexClip's free AI video maker lets you edit and create videos online. Use AI video templates or convert text to video effortlessly. |
+| [vidnoz](https://www.vidnoz.com/?a_aid=674111bdd78cb) | Vidnoz is a leading free AI video generator, offering tools like AI avatars and voices. Start creating videos with Vidnoz's AI features today. |
+| [capcut](capcutaffiliateprogram.pxf.io/7a5D6d) | CapCut is a versatile video editing tool with effects, filters, AI tools, and collaborative editing. Available on web, desktop, and mobile. |
+| [Klap.app](https://klap.app/?via=zazacattack) | Klap is an AI tool that transforms YouTube videos into engaging clips for TikTok, Reels, and Shorts. It offers smart editing, auto captions, and intelligent cropping, supporting multiple languages and video lengths. |
+| [Fliz.ai](https://fliz.ai/?via=zac) | Fliz AI is your pocket videographer, creating captivating product videos from a URL, eliminating editing hassles and costs, and integrating seamlessly with e-commerce platforms to boost engagement and sales. |
+| [vizardai](https://vizard.ai/?via=zac) | Vizard.ai creates engaging short-form videos for social media with AI-driven transcription and clip generation. |
+| [heygen](https://app.heygen.com/login) | HeyGen.com creates AI-generated business videos with over 100 avatars, 300+ voices, and multilingual support. |
+| [Riverside.fm](https://www.riverside.fm/?utm_campaign=campaign_5&utm_medium=affiliate&utm_source=rewardful&via=zac-frulloni) | Riverside.fm is a comprehensive platform for remote podcast and video recording, offering studio-quality output with features like 4K video, uncompressed audio, AI transcriptions, and seamless editing. It supports over 100 languages, provides social media clips, and ensures reliable recordings even with poor internet. Accessible via browsers and mobile apps, it caters to podcasters and media companies. |
+| [neuralframes](https://www.neuralframes.com/?via=zac) | Neuralframes.com uses AI to create animations and videos from text for music, marketing, and digital art. |
+| [Aistudios.com](https://www.aistudios.com/) | Aistudios.com is an AI-driven video platform by DeepBrain AI, offering quick video creation with natural voiceovers and avatars. |
+| [lovo.ai](https://lovo.ai/?ref=zazacattack) | Lovo.ai is an AI platform for creating voiceovers, text-to-speech, voice cloning, and video editing with Genny. |
+| [Fliki.ai](https://fliki.ai/?via=zac-frulloni) | Fliki AI converts text into engaging videos effortlessly. |
+| [invideo.ai](https://invideo.sjv.io/c/5835334/883681/12258) | Invideo AI creates videos from text prompts, offering voice cloning and media editing. |
+| [getmunch](https://www.getmunch.com/?utm_campaign=influencers&utm_medium=website&utm_source=rewardful&via=db299d) | Munch uses AI to create engaging clips from longer videos, enhancing workflow and consistency. |
+| [pictory.ai](https://pictory.ai?ref=promptengineering) | Pictory AI quickly converts text into professional videos. |
+| [podcastle](https://podcastle.ai/?ref=odi1mzi) | Podcastle is an AI-powered podcasting tool for creating, editing, and publishing podcasts. |
+| [Fylm.ai](https://fylm.ai/) | Fylm.ai is a browser-based platform with AI-powered color grading, collaboration, and ACES support. |
+| [Opus](https://www.opus.pro/?via=a1a065) | Opus Clip's AI transforms long videos into shareable short-form clips with virality scores. |
+| [magicslides](https://www.magicslides.app/) | MagicSlides creates professional presentations quickly, supporting Google Slides and PowerPoint. |
+| [shuffll](https://shuffll.com/) | Shuffll uses AI to generate copy, motion art, and storylines for video production. |
+| [pixop](https://www.pixop.com/) | Pixop is a cloud-based AI video remastering tool upgrading video quality to UHD 8K with automated filters. |
+| [vidyo](https://vidyo.ai?via=zac97) | Vidyo.ai is an AI platform that transforms long videos into short, engaging clips with features like AI captions, resizing, and templates, ideal for content creators and marketers. |
+| [storyboardhero](https://storyboardhero.ai/) | StoryboardHero.ai generates professional storyboards from scripts using AI. |
+| [Goenhance ai](https://thedrive.ai//?ref=zazacattack) | GoEnhance.ai specializes in AI-powered video-to-anime conversion, transforming videos into high-quality animations. It also offers text/image to video generation, face swap technology, and character animation in one platform. |
+| [guidde](https://www.guidde.com/?ref=owe1nwf) | Guidde is an AI tool that creates video documentation quickly and easily. Capture workflows, generate step-by-step guides, and share them effortlessly. No design skills needed. Install the Chrome extension to get started. |
+
+
+## Web & UX Design
+| NAME | DESCRIPTION |
+|------|-------------|
+| [windframe](windframe.dev/?ref=zazacattack) | Windframe helps developers quickly build and edit web UIs with over 1000 Tailwind templates. |
+| [Framer ai](https://www.framer.com/) | Framer uses AI for fast, no-code website creation with responsive design and animations. |
+| [Butternut ai](https://www.butternut.ai/?ref=zac54) | Butternut AI enables rapid, code-free website creation in under 20 seconds, offering customizable designs, SEO optimization, and 24/7 support. It features free and premium plans for individuals and enterprises. |
