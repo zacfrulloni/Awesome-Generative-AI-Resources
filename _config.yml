@@ -1,7 +1,7 @@
 # title: Awesome Generative AI Resources
 description: Your ultimate hub for Generative AI resources, tools, and guides.
 baseurl: "" # Leave this blank for a custom domain
-url: "http://brilliantaitools.com"
+url: "http://aitoolslikechatgpt.com"
 
 # Theme settings
 remote_theme: poole/hyde
