@@ -33,6 +33,7 @@ Welcome to the Awesome Generative AI Hub! This repository is a curated resource 
 
 
 ## AI Detection & Analysis
+
 | NAME | DESCRIPTION |
 |------|-------------|
 | [Gowinston.ai](https://gowinston.ai/?via=zac) | Winston AI, available at gowinston.ai, is a leading AI detector and plagiarism checker for education and publishing. It uses NLP, machine learning, and statistical analysis to identify AI-generated text. |
@@ -42,12 +43,14 @@ Welcome to the Awesome Generative AI Hub! This repository is a curated resource 
 
 
 ## Architecture & Design
+
 | NAME | DESCRIPTION |
 |------|-------------|
 | [Virtual staging ai](https://www.virtualstagingai.app/) | Transform spaces with Virtual Staging AI's one-click service. Add furniture, remove watermarks, and choose styles. |
 
 
 ## Art & Image Generators
+
 | NAME | DESCRIPTION |
 |------|-------------|
 | [rundiffusion](https://rundiffusion.com?ref=zac23) | Rundiffusion.com is a cloud platform offering high-performance server rentals with datacenter GPUs and stable diffusion models, ready in under 90 seconds. It also features a Creator's Club for model customization. |
@@ -67,6 +70,7 @@ Welcome to the Awesome Generative AI Hub! This repository is a curated resource 
 
 
 ## Avatars & Character Creators
+
 | NAME | DESCRIPTION |
 |------|-------------|
 | [Herahaven.ai](Herahaven.ai) | HeraHaven AI lets users create customized virtual girlfriends to explore fantasies through roleplaying. It ensures privacy and allows multiple AI girlfriends for diverse interactions. |
@@ -82,6 +86,7 @@ Welcome to the Awesome Generative AI Hub! This repository is a curated resource 
 
 
 ## Audio & Music Editing
+
 | NAME | DESCRIPTION |
 |------|-------------|
 | [Signify.fineshare.com](https://singify.fineshare.com/?ref=zazacattack) | FineShare Singify uses AI to transform songs into personalized masterpieces, offering 100+ voice models and easy song search. |
@@ -93,6 +98,7 @@ Welcome to the Awesome Generative AI Hub! This repository is a curated resource 
 | [Lalal.ai](https://www.lalal.ai/?fp_ref=zac97) | Lalal.ai is a cutting-edge tool for extracting up to 10 audio stems, like vocals and instruments, from music tracks. It uses the Phoenix neural network for high-quality separation. Accessible via website or app, it offers efficient stem extraction for musicians and producers. |
 
 ## Chat Bots & Assistants
+
 | NAME | DESCRIPTION |
 |------|-------------|
 | [Askyourpdf.com](https://www.askyourpdf.com/?via=zazacattack) | Ask Your PDF is an AI tool that turns PDFs into interactive chatbots, allowing users to ask questions and get insights. |
@@ -116,6 +122,7 @@ Welcome to the Awesome Generative AI Hub! This repository is a curated resource 
 
 
 ## Code & Database Tools
+
 | NAME | DESCRIPTION |
 |------|-------------|
 | [Parsio.io](https://parsio.io/?ref=zazacattack) | Parsio extracts data from emails, PDFs, and documents, exporting it to Google Sheets, CRMs, and more. It uses AI-powered parsers. |
@@ -131,6 +138,7 @@ Welcome to the Awesome Generative AI Hub! This repository is a curated resource 
 
 
 ## Content Creation & SEO
+
 | NAME | DESCRIPTION |
 |------|-------------|
 | [Storynest.ai](https://storynest.ai?fpr=zac29) | StoryNest.ai is a platform for creating personalized, interactive stories using AI. It offers customization, live character interactions, narrated tales, and multilingual support to inspire creativity and imagination. |
@@ -183,6 +191,7 @@ Welcome to the Awesome Generative AI Hub! This repository is a curated resource 
 
 
 ## Creators & Productivity Tools
+
 | NAME | DESCRIPTION |
 |------|-------------|
 | [clickup](https://clickup.com/) | ClickUp is a project management tool offering tasks, whiteboards, spreadsheets, and document collaboration on one platform. |
@@ -207,6 +216,7 @@ Welcome to the Awesome Generative AI Hub! This repository is a curated resource 
 | [taskade](https://taskade.com/?via=ia2r9) | Taskade is a task management and collaboration app with AI features, enabling teams to efficiently work together and streamline task generation and management. |
 
 ## Customer Support & Communication
+
 | NAME | DESCRIPTION |
 |------|-------------|
 | [Socialintents.com](https://www.socialintents.com?fpr=zac44) | Social Intents offers live chat software that integrates with platforms like Microsoft Teams and Slack, enabling real-time customer engagement. Features include AI chatbots, customizable widgets, and a 14-day free trial. |
@@ -222,6 +232,7 @@ Welcome to the Awesome Generative AI Hub! This repository is a curated resource 
 
 
 ## Email & Messaging Assistants
+
 | NAME | DESCRIPTION |
 |------|-------------|
 | [Sanebox.com](https://try.sanebox.com/oxa46l8bxqh3) | SaneBox is an email management service that filters unimportant emails into a separate folder, integrating with IMAP and Exchange Web Services accounts. |
@@ -232,6 +243,7 @@ Welcome to the Awesome Generative AI Hub! This repository is a curated resource 
 
 
 ## HR, Legal, & Resumes
+
 | NAME | DESCRIPTION |
 |------|-------------|
 | [coverdoc](https://coverdoc.ai/?via=zazacattack) | CoverDoc.ai creates personalized cover letters, offers interview prep, and aids in compensation negotiation. |
@@ -239,6 +251,7 @@ Welcome to the Awesome Generative AI Hub! This repository is a curated resource 
 | [ailawyer](https://ailawyer.pro/?ref=zazacattack) | ailawyer.pro is an AI platform offering immediate legal assistance, simplifying complex legal texts. |
 
 ## Logo & Brand Design
+
 | NAME | DESCRIPTION |
 |------|-------------|
 | [looka.com](looka.com) | Looka is the top AI logo generator, loved by entrepreneurs for its fast and easy design process. |
@@ -247,6 +260,7 @@ Welcome to the Awesome Generative AI Hub! This repository is a curated resource 
 | [turbologo](https://turbologo.com/?ref=mguxyza) | Turbologo is an AI-powered online logo maker that lets users easily create personalized logos with various design options. It offers high-resolution files, business card designs, social media kits, and unlimited revisions. |
 
 ## Photo & Image Editing
+
 | NAME | DESCRIPTION |
 |------|-------------|
 | [Getbetterpics.com](https://www.getbetterpics.com/?ref=zelmmtqj) | GetBetterPics is an AI photo enhancer that creates high-quality images for social media and websites. |
@@ -256,6 +270,7 @@ Welcome to the Awesome Generative AI Hub! This repository is a curated resource 
 
 
 ## Sales & Marketing Tools
+
 | NAME | DESCRIPTION |
 |------|-------------|
 | [Apollo.io](https://www.apollo.io/) | Use Apollo's platform to access, engage, and convert over 210 million contacts across 35 million companies with powerful sales intelligence and engagement tools.|
@@ -285,6 +300,7 @@ Welcome to the Awesome Generative AI Hub! This repository is a curated resource 
 | [10web.io](https://10web.sjv.io/XmYEjb) | 10Web is an AI-powered platform designed for small and medium businesses, eCommerce sites, web agencies, and freelancers. It streamlines the process of building and managing WordPress websites, helping you get your product to market quickly. |
 
 ## Slides, Web, & UX Design
+
 | NAME | DESCRIPTION |
 |------|-------------|
 | [slidesai](slidesai.io/?ref=zazacattack) | Slidesai.io is an AI tool that transforms text into visually appealing slides, offering various presentation types and color presets. It integrates with Google Slides and allows three free presentations. |
@@ -293,6 +309,7 @@ Welcome to the Awesome Generative AI Hub! This repository is a curated resource 
 
 
 ## Text Generation & Writing
+
 | NAME | DESCRIPTION |
 |------|-------------|
 | [Textero.io](https://textero.io//?ref=zazacattack) | Textero.ai is an AI writing tool that generates and edits academic content, inspiring creativity and improving essays across various subjects with a user-friendly interface. Try it to overcome writer's block. |
@@ -304,6 +321,7 @@ Welcome to the Awesome Generative AI Hub! This repository is a curated resource 
 
 
 ## Translation & Transcription
+
 | NAME | DESCRIPTION |
 |------|-------------|
 | [screenapp](screenapp.io/?ref=zazacattack) | ScreenApp records screens, offers AI transcription, and secure sharing. Ideal for tutorials, meetings, and more. |
@@ -314,6 +332,7 @@ Welcome to the Awesome Generative AI Hub! This repository is a curated resource 
 
 
 ## Text-to-Speech & Audio Tools
+
 | NAME | DESCRIPTION |
 |------|-------------|
 | [play.ht](https://www.play.ht/?via=zazacattack) | PlayHT is a leading AI voice generator offering over 600 ultra-realistic text-to-speech voices for creating lifelike voiceovers. |
@@ -325,6 +344,7 @@ Welcome to the Awesome Generative AI Hub! This repository is a curated resource 
 
 
 ## Video Creation & Editing
+
 | NAME | DESCRIPTION |
 |------|-------------|
 | [flexclip.com](https://www.flexclip.com/editor/) | FlexClip's free AI video maker lets you edit and create videos online. Use AI video templates or convert text to video effortlessly. |
@@ -355,6 +375,7 @@ Welcome to the Awesome Generative AI Hub! This repository is a curated resource 
 
 
 ## Web & UX Design
+
 | NAME | DESCRIPTION |
 |------|-------------|
 | [windframe](windframe.dev/?ref=zazacattack) | Windframe helps developers quickly build and edit web UIs with over 1000 Tailwind templates. |
