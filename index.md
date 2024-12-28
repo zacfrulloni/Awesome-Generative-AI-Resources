@@ -1,3 +1,10 @@
+---
+layout: default
+title: Awesome Generative AI Resources
+---
+
+Welcome to the Awesome Generative AI Hub! This repository is a curated resource for anyone interested in learning and utilising the latest generative AI applications.
+
 ## Table of Contents
 
 - [Architecture & Design](#architecture--design)
