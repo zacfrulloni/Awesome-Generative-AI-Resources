@@ -57,7 +57,7 @@ Welcome to the Awesome Generative AI Hub! This repository is a curated resource 
 | [Getimg.ai](https://getimg.ai/?via=zac-frulloni) | Getimg.ai offers AI tools for easy image creation and editing, including text-to-image synthesis, style transfer, and image captioning, accessible via website, Discord, or API. |
 | [imagineart](https://www.imagine.art/?a_aid=1bb575c3&amp;a_bid=adee0d69) | Imagine's Text to Art transforms text into unique images using AI. Image Remix applies styles to images, while Generative Fill revamps photos. The Imagine API integrates these features into products. |
 | [Ink studio ai](https://inkstudioai.com/?ref=zazacattack) | Ink Studio AI helps users design tattoos with over 10 styles, ensuring accuracy. It features an "Image to Tattoo" converter to transform pictures into tattoo art. |
-| imagineme | Imagineme.app is an AI art generator that creates personalized images from text descriptions. Users can choose styles and themes, upload photos, or use pre-existing models for unique visual expressions. |
+| [imagineme](https://imagineme.ai/) | Imagineme.app is an AI art generator that creates personalized images from text descriptions. Users can choose styles and themes, upload photos, or use pre-existing models for unique visual expressions. |
 | [dezgo](https://dezgo.sjv.io/GKm0J2) | Dezgo.com is an AI-powered platform that creates images from text prompts, offering various Stable Diffusion models for web design, social media, marketing, and more. |
 | [patterned](https://www.patterned.ai/) | Patterned.ai is an AI tool for creating unique patterns. Generate custom designs or browse royalty-free images. Free downloads available, with premium options for advanced customization. |
 | [basedlabs.ai](https://www.basedlabs.ai/?via=zac) | Basedlabs AI is a user-friendly platform that generates images and videos from text prompts using artificial intelligence. |
@@ -129,7 +129,7 @@ Welcome to the Awesome Generative AI Hub! This repository is a curated resource 
 | [Robomotion.io](https://robomotion.io?via=zac63) | Robomotion RPA is a versatile AI automation tool that simplifies repetitive tasks across platforms, offering browser automation and more. |
 | [Bashsenpai](https://bashsenpai.com/?aff=tgta6u52qm53v7p) | BashSenpai is an AI terminal assistant powered by ChatGPT, offering context-specific coding help and commands. It features self-reflection for improved accuracy and customizable personalities. |
 | [vast.ai](https://cloud.vast.ai/?ref_id=177536) | Vast.ai offers affordable cloud GPU rentals, allowing users to save 5-6 times on compute costs. |
-| brightdata | Bright Data AI is a top web data platform offering advanced proxy networks, web scrapers, and datasets. |
+| [brightdata](https://brightdata.com/) | Bright Data AI is a top web data platform offering advanced proxy networks, web scrapers, and datasets. |
 | [pico](https://picoapps.xyz/) | Pico is an AI-driven platform using GPT-4 to create web apps from plain language input, eliminating coding needs. |
 | [askcodi](https://www.askcodi.com/) | AskCodi is an AI code assistant that boosts productivity by automating tasks like code generation, testing, and documentation. |
 | [unboundml](http://unboundml.com/?via=44f300) | Unboundml.com uses generative AI to automate and enhance content creation, offering tools for images, graphics, text, and backgrounds. |
