@@ -139,7 +139,7 @@
 
     <!-- Fetch GitHub Star Count -->
     <script>
-      fetch("https://github.com/zacfrulloni/Awesome-Generative-AI-Resources")
+      fetch("https://api.github.com/repos/zacfrulloni/Awesome-Generative-AI-Resources")
         .then(response => response.json())
         .then(data => {
           document.getElementById("star-count").textContent = data.stargazers_count || "0";
