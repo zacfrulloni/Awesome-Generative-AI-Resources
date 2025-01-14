@@ -353,3 +353,36 @@
 | [windframe](windframe.dev/?ref=zazacattack) | Windframe helps developers quickly build and edit web UIs with over 1000 Tailwind templates. |
 | [Framer ai](https://www.framer.com/) | Framer uses AI for fast, no-code website creation with responsive design and animations. |
 | [Butternut ai](https://www.butternut.ai/?ref=zac54) | Butternut AI enables rapid, code-free website creation in under 20 seconds, offering customizable designs, SEO optimization, and 24/7 support. It features free and premium plans for individuals and enterprises. |
+
+
+## Contributing & Code of Conduct
+
+Contributing
+We welcome contributions to make this repository a comprehensive resource for prompt engineering enthusiasts. Here’s how you can help:
+
+Guidelines for Contributing
+Follow our step-by-step guide in the CONTRIBUTING.md file to learn how to add new resources, fix errors, or enhance existing sections.
+
+Code of Conduct
+We strive to maintain a respectful and inclusive community. Please read our Code of Conduct to understand the expected behavior when contributing.
+
+Feedback and Suggestions
+If you have ideas for improvements, feel free to open an issue or submit a pull request. Constructive feedback is always welcome!
+
+## Support My Work
+
+Consider giving this repository a ⭐️ if you find it helpful, or share it with others who might benefit! Contributions are always welcome—your input and additions help make this resource better for the entire community. Some of the links here may contribute to supporting the project at no extra cost to you. If this project benefits you, consider [sponsoring me on GitHub](https://github.com/sponsors/zacfrulloni) or [buying me a coffee](https://www.buymeacoffee.com/zazacattack) to help support ongoing updates and improvements. 
+
+If you'd like to reach out, feel free to check the contact me section below. Thank you for your support! 🙏
+
+Feel free to reach out if you have questions or suggestions in our **#general** or **#feedback** channels. Let’s build a community of knowledge and support.
+
+## 11. Disclosure
+
+Disclosure: I am compensated through these affiliate partnerships, and this compensation helps support the resources and ongoing work within this repository. Affiliate links are provided in sections containing resources, including but not limited to learning materials, tools, and community memberships. This disclosure appears on all applicable pages of this repository.
+
+## 12. Contact Me
+
+If you have any questions, feedback, or suggestions, feel free to reach out! You can contact me via email at: zacfrull `[at]` hotmail `[dot]` com.
+
+Looking forward to hearing from you!
