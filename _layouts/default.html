@@ -1,168 +1,264 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta name='impact-site-verification' value='0cef11aa-eda6-4d43-9512-057b191e557f'>
-    <meta name="google-adsense-account" content="ca-pub-3989253659623995">
-    <meta name="google-adsense-account" content="ca-pub-5522728655484059">
+<head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ page.title }} | {{ site.title }}</title>
     <meta name="description" content="{{ site.description }}">
-
-    <!-- Jekyll SEO Tag -->
     {% seo %}
-
-    <!-- Hyde Theme CSS -->
-    <link rel="stylesheet" href="{{ '/hyde.css' | relative_url }}">
-
-    <!-- Google Tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=AW-11058169010"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-      gtag('config', 'AW-11058169010');
-    </script>
-
-    <!-- Custom Styles -->
+    
+    <!-- Google Font -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    
     <style>
-      body {
-        margin: 0;
-        font-family: Arial, sans-serif;
-      }
-      header {
-        text-align: center;
-        padding: 20px 0;
-        background-color: #f5f5f5;
-        border-bottom: 1px solid #ddd;
-      }
-      header a {
-        text-decoration: none;
-        font-size: 18px;
-        color: #0366d6;
-        margin: 10px;
-      }
-      header .button {
-        display: inline-block;
-        margin: 5px 10px;
-        padding: 10px 20px;
-        border-radius: 5px;
-        font-size: 16px;
-        text-decoration: none;
-      }
-      .github-button {
-        background-color: #0366d6;
-        color: white;
-      }
-/*       .sponsor-button {
-        background-color: #ea4aaa;
-        color: white;
-      } */
-      .coffee-button {
-        background-color: #ffdd57;
-        color: #111;
-      }
-      main {
-        max-width: 800px;
-        margin: 20px auto;
-        padding: 20px;
-      }
-      table {
-        width: 100%;
-        border-collapse: collapse;
-        margin: 20px 0;
-      }
-      table th,
-      table td {
-        border: 1px solid #ddd;
-        padding: 8px;
-        text-align: left;
-      }
-      table th {
-        background-color: #f5f5f5;
-        font-weight: bold;
-      }
-      table tr:nth-child(even) {
-        background-color: #f9f9f9;
-      }
-      table tr:hover {
-        background-color: #f1f1f1;
-      }
-      footer {
-        text-align: center;
-        padding: 20px 0;
-        background-color: #f5f5f5;
-        border-top: 1px solid #ddd;
-        font-size: 14px;
-      }
-      footer a {
-        color: #0366d6;
-        text-decoration: none;
-      }
+        :root {
+            --primary-color: #2563eb;
+            --secondary-color: #1e40af;
+            --background-color: #f8fafc;
+            --text-color: #1f2937;
+            --border-color: #e5e7eb;
+            --card-background: #ffffff;
+            --header-height: 70px;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Inter', sans-serif;
+            line-height: 1.6;
+            color: var(--text-color);
+            background-color: var(--background-color);
+        }
+
+        /* Header Styles */
+        header {
+            background-color: var(--card-background);
+            border-bottom: 1px solid var(--border-color);
+            padding: 1rem 0;
+            position: fixed;
+            width: 100%;
+            top: 0;
+            z-index: 1000;
+            height: var(--header-height);
+        }
+
+        .header-content {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 2rem;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .site-title {
+            font-size: 1.5rem;
+            font-weight: 700;
+            color: var(--primary-color);
+            text-decoration: none;
+        }
+
+        .header-buttons {
+            display: flex;
+            gap: 1rem;
+        }
+
+        .button {
+            padding: 0.5rem 1rem;
+            border-radius: 0.5rem;
+            text-decoration: none;
+            font-weight: 500;
+            transition: all 0.2s ease;
+        }
+
+        .github-button {
+            background-color: var(--primary-color);
+            color: white;
+        }
+
+        .github-button:hover {
+            background-color: var(--secondary-color);
+        }
+
+        .coffee-button {
+            background-color: #fbbf24;
+            color: #1f2937;
+        }
+
+        .coffee-button:hover {
+            background-color: #f59e0b;
+        }
+
+        /* Main Content Styles */
+        main {
+            max-width: 1200px;
+            margin: var(--header-height) auto 2rem;
+            padding: 2rem;
+        }
+
+        /* Table of Contents */
+        .toc {
+            background-color: var(--card-background);
+            border-radius: 1rem;
+            padding: 2rem;
+            margin-bottom: 2rem;
+            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+        }
+
+        .toc h2 {
+            margin-bottom: 1rem;
+            color: var(--primary-color);
+        }
+
+        .toc ul {
+            list-style: none;
+            columns: 2;
+            gap: 2rem;
+        }
+
+        .toc li {
+            margin-bottom: 0.5rem;
+        }
+
+        .toc a {
+            color: var(--text-color);
+            text-decoration: none;
+            transition: color 0.2s ease;
+        }
+
+        .toc a:hover {
+            color: var(--primary-color);
+        }
+
+        /* Category Sections */
+        .category-section {
+            background-color: var(--card-background);
+            border-radius: 1rem;
+            padding: 2rem;
+            margin-bottom: 2rem;
+            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+        }
+
+        .category-section h2 {
+            color: var(--primary-color);
+            margin-bottom: 1.5rem;
+            padding-bottom: 0.5rem;
+            border-bottom: 2px solid var(--border-color);
+        }
+
+        /* Table Styles */
+        table {
+            width: 100%;
+            border-collapse: separate;
+            border-spacing: 0;
+            margin: 1rem 0;
+        }
+
+        th, td {
+            padding: 1rem;
+            text-align: left;
+            border-bottom: 1px solid var(--border-color);
+        }
+
+        th {
+            background-color: var(--background-color);
+            font-weight: 600;
+            color: var(--primary-color);
+        }
+
+        tr:hover {
+            background-color: var(--background-color);
+        }
+
+        /* Footer Styles */
+        footer {
+            background-color: var(--card-background);
+            border-top: 1px solid var(--border-color);
+            padding: 2rem 0;
+            text-align: center;
+        }
+
+        footer p {
+            margin: 0.5rem 0;
+            color: #6b7280;
+        }
+
+        footer a {
+            color: var(--primary-color);
+            text-decoration: none;
+        }
+
+        /* Responsive Design */
+        @media (max-width: 768px) {
+            .header-content {
+                flex-direction: column;
+                gap: 1rem;
+                text-align: center;
+            }
+
+            .toc ul {
+                columns: 1;
+            }
+
+            main {
+                padding: 1rem;
+            }
+
+            .category-section {
+                padding: 1rem;
+            }
+
+            table {
+                display: block;
+                overflow-x: auto;
+            }
+        }
     </style>
-  </head>  
-  <body class="theme-base-08">
-    <!-- Header Section -->
+</head>
+<body>
     <header>
-      <h1>
-        <a href="https://github.com/zacfrulloni/Awesome-Generative-AI-Resources" target="_blank">
-          Awesome Generative AI Resources
-        </a>
-      </h1>
-      <a href="https://github.com/zacfrulloni/Awesome-Generative-AI-Resources" target="_blank" class="button github-button">
-        ⭐ Star on GitHub: <span id="star-count">Loading...</span>
-      </a>
-<!--       <a href="https://github.com/sponsors/zacfrulloni" target="_blank" class="button sponsor-button">
-        💖 Sponsor
-      </a> -->
-      <a href="https://www.buymeacoffee.com/zazacattack" target="_blank" class="button coffee-button">
-        ☕ Buy Me a Coffee
-      </a>
+        <div class="header-content">
+            <a href="{{ site.url }}" class="site-title">
+                Awesome Generative AI Resources
+            </a>
+            <div class="header-buttons">
+                <a href="https://github.com/zacfrulloni/Awesome-Generative-AI-Resources" target="_blank" class="button github-button">
+                    ⭐ Star on GitHub
+                </a>
+                <a href="https://www.buymeacoffee.com/zazacattack" target="_blank" class="button coffee-button">
+                    ☕ Buy Me a Coffee
+                </a>
+            </div>
+        </div>
     </header>
 
-    <!-- Main Content -->
     <main>
-      {{ content }}
+        {{ content }}
     </main>
 
-    
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5522728655484059"
-     crossorigin="anonymous"></script>
-<!-- test -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-5522728655484059"
-     data-ad-slot="7395634706"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-    
-    <!-- Footer Section -->
     <footer>
-      <p>
-        &copy; {{ site.time | date: "%Y" }} 
-        <a href="https://github.com/zacfrulloni/Awesome-Generative-AI-Resources" target="_blank">
-          Awesome-Generative-AI-Resources
-        </a>. All rights reserved.
-      </p>
-      <p>
-        Built with ❤️ using GitHub Pages and Jekyll.
-      </p>
+        <p>
+            &copy; {{ site.time | date: "%Y" }} 
+            <a href="https://github.com/zacfrulloni/Awesome-Generative-AI-Resources" target="_blank">
+                Awesome-Generative-AI-Resources
+            </a>
+        </p>
+        <p>Built with ❤️ using GitHub Pages and Jekyll</p>
     </footer>
 
-    
-    <!-- Fetch GitHub Star Count -->
     <script>
-      fetch("https://api.github.com/repos/zacfrulloni/Awesome-Generative-AI-Resources")
-        .then(response => response.json())
-        .then(data => {
-          document.getElementById("star-count").textContent = data.stargazers_count || "0";
-        })
-        .catch(() => {
-          document.getElementById("star-count").textContent = "0";
-        });
+        // Fetch GitHub star count
+        fetch('https://api.github.com/repos/zacfrulloni/Awesome-Generative-AI-Resources')
+            .then(response => response.json())
+            .then(data => {
+                const starButton = document.querySelector('.github-button');
+                starButton.textContent = `⭐ Star on GitHub (${data.stargazers_count})`;
+            })
+            .catch(console.error);
     </script>
-  </body>
+</body>
 </html>
