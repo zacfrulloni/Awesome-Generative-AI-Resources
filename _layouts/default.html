@@ -3,281 +3,238 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="google-adsense-account" content="ca-pub-3989253659623995">
-    <meta name="google-adsense-account" content="ca-pub-5522728655484059">
-    <title>{{ page.title }} | {{ site.title }}</title>
-    <meta name="description" content="{{ site.description }}">
-    {% seo %}
-    
-    <!-- Google Font -->
+    <title>Awesome Generative AI Resources</title>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
-     <script async src="https://www.googletagmanager.com/gtag/js?id=AW-11058169010"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-      gtag('config', 'AW-11058169010');
-    </script>
     <style>
         :root {
-            --primary-color: #2563eb;
-            --secondary-color: #1e40af;
-            --background-color: #f8fafc;
-            --text-color: #1f2937;
-            --border-color: #e5e7eb;
-            --card-background: #ffffff;
-            --header-height: 70px;
+            --primary: hsl(221.2 83.2% 53.3%);
+            --primary-foreground: hsl(210 40% 98%);
+            --background: hsl(0 0% 100%);
+            --foreground: hsl(222.2 84% 4.9%);
+            --muted: hsl(210 40% 96.1%);
+            --muted-foreground: hsl(215.4 16.3% 46.9%);
+            --border: hsl(214.3 31.8% 91.4%);
+            --radius: 0.5rem;
         }
-
         * {
             margin: 0;
             padding: 0;
             box-sizing: border-box;
         }
-
         body {
             font-family: 'Inter', sans-serif;
+            background-color: var(--background);
+            color: var(--foreground);
             line-height: 1.6;
-            color: var(--text-color);
-            background-color: var(--background-color);
         }
-
-        /* Header Styles */
-        header {
-            background-color: var(--card-background);
-            border-bottom: 1px solid var(--border-color);
-            padding: 1rem 0;
-            position: fixed;
-            width: 100%;
-            top: 0;
-            z-index: 1000;
-            height: var(--header-height);
-        }
-
-        .header-content {
+        .container {
             max-width: 1200px;
             margin: 0 auto;
-            padding: 0 2rem;
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
+            padding: 2rem;
         }
-
-        .site-title {
-            font-size: 1.5rem;
+        header {
+            margin-bottom: 3rem;
+        }
+        h1 {
+            font-size: 2.5rem;
             font-weight: 700;
-            color: var(--primary-color);
-            text-decoration: none;
+            color: var(--primary);
+            margin-bottom: 1rem;
         }
-
-        .header-buttons {
-            display: flex;
+        .subtitle {
+            font-size: 1.125rem;
+            color: var(--muted-foreground);
+        }
+        .toc {
+            background-color: var(--background);
+            border: 1px solid var(--border);
+            border-radius: var(--radius);
+            padding: 1.5rem;
+            margin-bottom: 3rem;
+            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+        }
+        .toc h2 {
+            font-size: 1.25rem;
+            font-weight: 600;
+            margin-bottom: 1rem;
+        }
+        .toc-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
             gap: 1rem;
         }
-
-        .button {
-            padding: 0.5rem 1rem;
-            border-radius: 0.5rem;
+        .toc-link {
+            color: var(--muted-foreground);
             text-decoration: none;
+            transition: color 0.2s;
+        }
+        .toc-link:hover {
+            color: var(--primary);
+        }
+        .category {
+            margin-bottom: 3rem;
+            scroll-margin-top: 2rem;
+        }
+        .category-header {
+            font-size: 1.5rem;
+            font-weight: 700;
+            color: var(--primary);
+            padding-bottom: 0.5rem;
+            border-bottom: 2px solid var(--border);
+            margin-bottom: 1.5rem;
+        }
+        .resource-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: 1.5rem;
+        }
+        .resource-card {
+            background-color: var(--background);
+            border: 1px solid var(--border);
+            border-radius: var(--radius);
+            padding: 1.5rem;
+            transition: all 0.2s;
+        }
+        .resource-card:hover {
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+            transform: translateY(-2px);
+        }
+        .resource-title {
+            font-size: 1.125rem;
+            font-weight: 600;
+            color: var(--primary);
+            text-decoration: none;
+            margin-bottom: 0.5rem;
+            display: block;
+        }
+        .resource-description {
+            color: var(--muted-foreground);
+            font-size: 0.875rem;
+        }
+        footer {
+            text-align: center;
+            margin-top: 4rem;
+            padding-top: 2rem;
+            border-top: 1px solid var(--border);
+        }
+        .footer-buttons {
+            display: flex;
+            justify-content: center;
+            gap: 1rem;
+            margin-bottom: 1.5rem;
+        }
+        .button {
+            display: inline-flex;
+            align-items: center;
+            padding: 0.5rem 1rem;
+            border-radius: var(--radius);
             font-weight: 500;
-            transition: all 0.2s ease;
+            text-decoration: none;
+            transition: all 0.2s;
         }
-
         .github-button {
-            background-color: var(--primary-color);
-            color: white;
+            background-color: var(--primary);
+            color: var(--primary-foreground);
         }
-
         .github-button:hover {
-            background-color: var(--secondary-color);
+            opacity: 0.9;
         }
-
         .coffee-button {
             background-color: #fbbf24;
             color: #1f2937;
         }
-
         .coffee-button:hover {
             background-color: #f59e0b;
         }
-
-        /* Main Content Styles */
-        main {
-            max-width: 1200px;
-            margin: var(--header-height) auto 2rem;
-            padding: 2rem;
-        }
-
-        /* Table of Contents */
-        .toc {
-            background-color: var(--card-background);
-            border-radius: 1rem;
-            padding: 2rem;
-            margin-bottom: 2rem;
-            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
-        }
-
-        .toc h2 {
-            margin-bottom: 1rem;
-            color: var(--primary-color);
-        }
-
-        .toc ul {
-            list-style: none;
-            columns: 2;
-            gap: 2rem;
-        }
-
-        .toc li {
-            margin-bottom: 0.5rem;
-        }
-
-        .toc a {
-            color: var(--text-color);
-            text-decoration: none;
-            transition: color 0.2s ease;
-        }
-
-        .toc a:hover {
-            color: var(--primary-color);
-        }
-
-        /* Category Sections */
-        .category-section {
-            background-color: var(--card-background);
-            border-radius: 1rem;
-            padding: 2rem;
-            margin-bottom: 2rem;
-            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
-        }
-
-        .category-section h2 {
-            color: var(--primary-color);
-            margin-bottom: 1.5rem;
-            padding-bottom: 0.5rem;
-            border-bottom: 2px solid var(--border-color);
-        }
-
-        /* Table Styles */
-        table {
-            width: 100%;
-            border-collapse: separate;
-            border-spacing: 0;
-            margin: 1rem 0;
-        }
-
-        th, td {
-            padding: 1rem;
-            text-align: left;
-            border-bottom: 1px solid var(--border-color);
-        }
-
-        th {
-            background-color: var(--background-color);
-            font-weight: 600;
-            color: var(--primary-color);
-        }
-
-        tr:hover {
-            background-color: var(--background-color);
-        }
-
-        /* Footer Styles */
-        footer {
-            background-color: var(--card-background);
-            border-top: 1px solid var(--border-color);
-            padding: 2rem 0;
-            text-align: center;
-        }
-
-        footer p {
-            margin: 0.5rem 0;
-            color: #6b7280;
-        }
-
-        footer a {
-            color: var(--primary-color);
-            text-decoration: none;
-        }
-
-        /* Responsive Design */
         @media (max-width: 768px) {
-            .header-content {
-                flex-direction: column;
-                gap: 1rem;
-                text-align: center;
-            }
-
-            .toc ul {
-                columns: 1;
-            }
-
-            main {
+            .container {
                 padding: 1rem;
             }
-
-            .category-section {
-                padding: 1rem;
+            h1 {
+                font-size: 2rem;
             }
-
-            table {
-                display: block;
-                overflow-x: auto;
+            .resource-grid {
+                grid-template-columns: 1fr;
             }
         }
     </style>
 </head>
 <body>
-    <header>
-        <div class="header-content">
-            <a href="{{ site.url }}" class="site-title">
-                Awesome Generative AI Resources
-            </a>
-            <div class="header-buttons">
-                <a href="https://github.com/zacfrulloni/Awesome-Generative-AI-Resources" target="_blank" class="button github-button">
+    <div class="container">
+        <header>
+            <h1>Awesome Generative AI Resources</h1>
+            <p class="subtitle">A curated collection of the best generative AI applications and resources.</p>
+        </header>
+        <nav class="toc">
+            <h2>Table of Contents</h2>
+            <div class="toc-grid">
+                <a href="#architecture-design" class="toc-link">Architecture & Design</a>
+                <a href="#ai-detection-analysis" class="toc-link">AI Detection & Analysis</a>
+            </div>
+        </nav>
+        <main>
+            <section id="architecture-design" class="category">
+                <h2 class="category-header">Architecture & Design</h2>
+                <div class="resource-grid">
+                    <div class="resource-card">
+                        <a href="https://www.virtualstagingai.app/" target="_blank" rel="noopener noreferrer" class="resource-title">
+                            Virtual staging ai
+                        </a>
+                        <p class="resource-description">
+                            Transform spaces with Virtual Staging AI's one-click service. Add furniture, remove watermarks, and choose styles.
+                        </p>
+                    </div>
+                </div>
+            </section>
+            <section id="ai-detection-analysis" class="category">
+                <h2 class="category-header">AI Detection & Analysis</h2>
+                <div class="resource-grid">
+                    <div class="resource-card">
+                        <a href="https://gowinston.ai/?via=zac" target="_blank" rel="noopener noreferrer" class="resource-title">
+                            Gowinston.ai
+                        </a>
+                        <p class="resource-description">
+                            Winston AI is a leading AI detector and plagiarism checker for education and publishing. Uses NLP, machine learning, and statistical analysis.
+                        </p>
+                    </div>
+                    <div class="resource-card">
+                        <a href="https://gptzero.me/?via=zac" target="_blank" rel="noopener noreferrer" class="resource-title">
+                            Gptzero
+                        </a>
+                        <p class="resource-description">
+                            GPTZero detects AI-generated text, matches claims to sources, and identifies AI risks. Various pricing plans available.
+                        </p>
+                    </div>
+                    <div class="resource-card">
+                        <a href="https://originality.ai/ai-checker?via=zac" target="_blank" rel="noopener noreferrer" class="resource-title">
+                            Originality.ai
+                        </a>
+                        <p class="resource-description">
+                            Originality.ai is an AI-powered tool for content quality control, offering AI detection, plagiarism and fact checking, readability feedback.
+                        </p>
+                    </div>
+                    <div class="resource-card">
+                        <a href="https://scite.ai/" target="_blank" rel="noopener noreferrer" class="resource-title">
+                            sciteai
+                        </a>
+                        <p class="resource-description">
+                            scite.ai is an AI-powered tool that helps researchers discover and evaluate scientific articles using Smart Citations.
+                        </p>
+                    </div>
+                </div>
+            </section>
+        </main>
+        <footer>
+            <div class="footer-buttons">
+                <a href="https://github.com/zacfrulloni/Awesome-Generative-AI-Resources" target="_blank" rel="noopener noreferrer" class="button github-button">
                     ⭐ Star on GitHub
                 </a>
-                <a href="https://www.buymeacoffee.com/zazacattack" target="_blank" class="button coffee-button">
+                <a href="https://www.buymeacoffee.com/zazacattack" target="_blank" rel="noopener noreferrer" class="button coffee-button">
                     ☕ Buy Me a Coffee
                 </a>
             </div>
-        </div>
-    </header>
-
-    <main>
-        {{ content }}
-    </main>
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5522728655484059"
-     crossorigin="anonymous"></script>
-<!-- test -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-5522728655484059"
-     data-ad-slot="7395634706"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-    <footer>
-        <p>
-            &copy; {{ site.time | date: "%Y" }} 
-            <a href="https://github.com/zacfrulloni/Awesome-Generative-AI-Resources" target="_blank">
-                Awesome-Generative-AI-Resources
-            </a>
-        </p>
-        <p>Built with ❤️ using GitHub Pages and Jekyll</p>
-    </footer>
-
-    <script>
-        // Fetch GitHub star count
-        fetch('https://api.github.com/repos/zacfrulloni/Awesome-Generative-AI-Resources')
-            .then(response => response.json())
-            .then(data => {
-                const starButton = document.querySelector('.github-button');
-                starButton.textContent = `⭐ Star on GitHub (${data.stargazers_count})`;
-            })
-            .catch(console.error);
-    </script>
+            <p>Built with ❤️ using HTML and CSS</p>
+        </footer>
+    </div>
 </body>
 </html>
