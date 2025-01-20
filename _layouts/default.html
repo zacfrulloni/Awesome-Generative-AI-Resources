@@ -11,7 +11,7 @@
     
     <!-- Google Font -->
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
-     <script async src="https://www.googletagmanager.com/gtag/js?id=AW-11058169010"></script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=AW-11058169010"></script>
     <script>
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
@@ -27,6 +27,7 @@
             --border-color: #e5e7eb;
             --card-background: #ffffff;
             --header-height: 70px;
+            --transition-speed: 0.2s;
         }
 
         * {
@@ -104,58 +105,143 @@
         /* Main Content Styles */
         main {
             max-width: 1200px;
-            margin: var(--header-height) auto 2rem;
+            margin: calc(var(--header-height) + 2rem) auto 2rem;
             padding: 2rem;
+        }
+
+        .intro {
+            text-align: center;
+            margin-bottom: 3rem;
+            animation: fadeIn 0.5s ease-out;
+        }
+
+        .intro h1 {
+            font-size: 2.5rem;
+            color: var(--primary-color);
+            margin-bottom: 1rem;
+            font-weight: 700;
+        }
+
+        .intro p {
+            font-size: 1.2rem;
+            color: var(--text-color);
+            opacity: 0.8;
+            max-width: 800px;
+            margin: 0 auto;
         }
 
         /* Table of Contents */
         .toc {
-            background-color: var(--card-background);
+            background: linear-gradient(135deg, #fdfcfb 0%, #e2d1c3 100%);
             border-radius: 1rem;
             padding: 2rem;
-            margin-bottom: 2rem;
-            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+            margin-bottom: 3rem;
+            box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+            animation: slideUp 0.5s ease-out;
         }
 
         .toc h2 {
-            margin-bottom: 1rem;
+            font-size: 1.8rem;
+            margin-bottom: 1.5rem;
             color: var(--primary-color);
+            text-align: center;
         }
 
         .toc ul {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 1rem;
             list-style: none;
-            columns: 2;
-            gap: 2rem;
+            padding: 0;
         }
 
         .toc li {
-            margin-bottom: 0.5rem;
+            margin: 0;
         }
 
         .toc a {
+            display: block;
+            padding: 0.75rem 1rem;
             color: var(--text-color);
             text-decoration: none;
-            transition: color 0.2s ease;
+            background: rgba(255, 255, 255, 0.7);
+            border-radius: 0.5rem;
+            transition: all var(--transition-speed);
+            border: 1px solid var(--border-color);
         }
 
         .toc a:hover {
+            transform: translateY(-2px);
+            background: white;
             color: var(--primary-color);
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
         }
 
         /* Category Sections */
         .category-section {
-            background-color: var(--card-background);
+            background: white;
             border-radius: 1rem;
-            padding: 2rem;
-            margin-bottom: 2rem;
-            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+            padding: 2.5rem;
+            margin-bottom: 3rem;
+            box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+            animation: fadeIn 0.5s ease-out;
         }
 
         .category-section h2 {
+            font-size: 2rem;
             color: var(--primary-color);
-            margin-bottom: 1.5rem;
+            margin-bottom: 2rem;
             padding-bottom: 0.5rem;
             border-bottom: 2px solid var(--border-color);
+            position: relative;
+        }
+
+        .category-section h2::after {
+            content: '';
+            position: absolute;
+            bottom: -2px;
+            left: 0;
+            width: 100px;
+            height: 2px;
+            background: var(--primary-color);
+        }
+
+        /* Resource Cards */
+        .resource-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 1.5rem;
+            margin-top: 2rem;
+        }
+
+        .resource-card {
+            background: white;
+            border-radius: 0.75rem;
+            padding: 1.5rem;
+            transition: all var(--transition-speed);
+            border: 1px solid var(--border-color);
+            height: 100%;
+        }
+
+        .resource-card:hover {
+            transform: translateY(-4px);
+            box-shadow: 0 12px 20px -8px rgba(0, 0, 0, 0.15);
+        }
+
+        .resource-title {
+            font-size: 1.25rem;
+            font-weight: 600;
+            color: var(--primary-color);
+            margin-bottom: 0.75rem;
+            text-decoration: none;
+            display: block;
+        }
+
+        .resource-description {
+            color: var(--text-color);
+            opacity: 0.8;
+            font-size: 0.95rem;
+            line-height: 1.6;
         }
 
         /* Table Styles */
@@ -163,23 +249,54 @@
             width: 100%;
             border-collapse: separate;
             border-spacing: 0;
-            margin: 1rem 0;
+            margin: 1.5rem 0;
+            background: white;
+            border-radius: 0.75rem;
+            overflow: hidden;
+            box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
         }
 
         th, td {
-            padding: 1rem;
+            padding: 1.25rem;
             text-align: left;
-            border-bottom: 1px solid var(--border-color);
         }
 
         th {
-            background-color: var(--background-color);
+            background: var(--primary-color);
+            color: white;
             font-weight: 600;
-            color: var(--primary-color);
+            text-transform: uppercase;
+            font-size: 0.875rem;
+            letter-spacing: 0.05em;
         }
 
-        tr:hover {
-            background-color: var(--background-color);
+        td {
+            border-bottom: 1px solid var(--border-color);
+        }
+
+        tr:last-child td {
+            border-bottom: none;
+        }
+
+        tr:hover td {
+            background: var(--background-color);
+        }
+
+        /* Animations */
+        @keyframes fadeIn {
+            from { opacity: 0; }
+            to { opacity: 1; }
+        }
+
+        @keyframes slideUp {
+            from {
+                opacity: 0;
+                transform: translateY(20px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
         }
 
         /* Footer Styles */
@@ -249,16 +366,15 @@
     </main>
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5522728655484059"
      crossorigin="anonymous"></script>
-<!-- test -->
-<ins class="adsbygoogle"
+    <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-5522728655484059"
      data-ad-slot="7395634706"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
-<script>
+    <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+    </script>
     <footer>
         <p>
             &copy; {{ site.time | date: "%Y" }} 
