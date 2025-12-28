@@ -141,6 +141,7 @@ Welcome to the Awesome Generative AI Hub! This repository is a curated resource 
 
 | NAME | DESCRIPTION |
 |------|-------------|
+| [300 AI Directories](https://300aidirectories.com/) | Submission to 300+ AI directories with prioritized list and full submission report (SEO-focused). |
 | [Storynest.ai](https://storynest.ai?fpr=zac29) | StoryNest.ai is a platform for creating personalized, interactive stories using AI. It offers customization, live character interactions, narrated tales, and multilingual support to inspire creativity and imagination. |
 | [Articlefiesta.com](https://articlefiesta.com/?af=grumpy-slushy) | Article Fiesta generates unique, SEO-optimized articles from a single word in minutes. Enjoy hassle-free content creation with features like direct blog posting and proven success in improving search rankings. |
 | [gravitywrite](https://gravitywrite.com/?via=zazacattack) | GravityWrite is an AI-powered tool for creating high-quality content like blogs, ads, and social media posts. It offers 5,000 free words monthly, 250+ templates, and direct WordPress publishing. |
